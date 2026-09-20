@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "name": "Snyfer Blocklist",
+  "source": "https://snyfer.com/blocklist/domains.json",
+  "sourceVersion": 1789838379,
+  "sourceUpdatedAt": "2026-09-19T17:19:39.225Z",
+  "count": 17440,
+  "license": "CC-BY-4.0",
+  "attribution": "Snyfer — https://snyfer.com — CC BY 4.0",
+  "sha256": {
+    "domains.txt": "08d04d7ac909a1f1d4a1724cec443596c7699c1727774bf852da64f03ea4a18f",
+    "domains.json": "1026d9a33954da7dcc6f45e1e1592a31018352e1fa68809ff601c16b87c50f8a",
+    "hosts.txt": "bc9062f96ba26b856efea819dcd0498aa625bfb621e77edffc05bdbc19e5e503",
+    "adblock.txt": "3478fd383dc1d0a68318dc4cdedf29cc0a06cc1a576705d186654a0657eb7d60",
+    "signed.json": "f169b67e7251633c92ab40d798de5f1456e55b34105936d74f9f04d2511e2f60"
+  }
+}
