@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Dispute a report or request a domain review
+    url: https://snyfer.com/dispute?utm_source=github&utm_medium=referral&utm_campaign=blocklist&utm_content=issue-chooser
+    about: Contest a blocked domain, correct a Snyfer report, or report a dangerous website. Requests are reviewed privately by Snyfer.
   - name: Private security report
     url: https://snyfer.com/contact
     about: Use the contact page or security@snyfer.com for sensitive reports.

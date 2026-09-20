@@ -31,7 +31,7 @@ The workflow checks the [signed source](https://snyfer.com/blocklist/domains.jso
 
 ## Corrections
 
-[Report a domain](https://github.com/snyfer-official/blocklist/issues/new/choose). Send private details to [security@snyfer.com](mailto:security@snyfer.com). Corrections must reach the source; direct edits to generated files are overwritten.
+[Request a domain review on Snyfer](https://snyfer.com/dispute?utm_source=github&utm_medium=referral&utm_campaign=blocklist&utm_content=readme) to dispute a blocked domain, correct a report or report a dangerous site. Requests are private. Direct edits to generated files are overwritten.
 
 ## License
 
