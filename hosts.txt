@@ -1,7 +1,7 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-09-19T17:19:39.225Z
+# Source updated: 2026-09-20T05:26:40.465Z
 # Domains: 17440
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0260solutionsllc.com
@@ -9100,6 +9100,7 @@
 0.0.0.0 ledgershieldpro.com
 0.0.0.0 ledgertraders.com
 0.0.0.0 ledgerxpro.net
+0.0.0.0 ledgewin.com
 0.0.0.0 ledgex.pro
 0.0.0.0 ledgex.us
 0.0.0.0 ledgium.org
@@ -11575,7 +11576,6 @@
 0.0.0.0 phillipoptionmax.net
 0.0.0.0 phincore.com
 0.0.0.0 phinexglobalinvestment.com
-0.0.0.0 phishdestroy.io
 0.0.0.0 phixosplat.com
 0.0.0.0 phoebus-finance.com
 0.0.0.0 phoenixadvise.com

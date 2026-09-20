@@ -2,7 +2,7 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-09-19T17:19:39.225Z
+! Source updated: 2026-09-20T05:26:40.465Z
 ! Domains: 17440
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
@@ -9102,6 +9102,7 @@
 ||ledgershieldpro.com^
 ||ledgertraders.com^
 ||ledgerxpro.net^
+||ledgewin.com^
 ||ledgex.pro^
 ||ledgex.us^
 ||ledgium.org^
@@ -11577,7 +11578,6 @@
 ||phillipoptionmax.net^
 ||phincore.com^
 ||phinexglobalinvestment.com^
-||phishdestroy.io^
 ||phixosplat.com^
 ||phoebus-finance.com^
 ||phoenixadvise.com^
