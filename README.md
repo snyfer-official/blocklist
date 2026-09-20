@@ -12,7 +12,7 @@ Domains flagged by [Snyfer](https://snyfer.com). [Count, source date and checksu
 | [adblock.txt](adblock.txt) | Filters for uBlock Origin and AdGuard; includes subdomains |
 | [signed.json](signed.json) | Source snapshot with Ed25519 signature |
 
-This repository is currently private. Downloads require repository access.
+This repository is public. Download the raw [domain list](https://raw.githubusercontent.com/snyfer-official/blocklist/main/domains.txt), [Hosts list](https://raw.githubusercontent.com/snyfer-official/blocklist/main/hosts.txt), or [AdBlock filters](https://raw.githubusercontent.com/snyfer-official/blocklist/main/adblock.txt) without authentication.
 
 ## Inclusion criteria
 
