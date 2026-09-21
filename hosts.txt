@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-09-20T05:26:40.465Z
-# Domains: 17440
+# Source updated: 2026-09-21T05:26:45.874Z
+# Domains: 17441
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0260solutionsllc.com
 0.0.0.0 07939.com
@@ -16811,6 +16811,7 @@
 0.0.0.0 worldtether.com
 0.0.0.0 worldtradedynasty.com
 0.0.0.0 worldtradex.io
+0.0.0.0 wormwin.com
 0.0.0.0 worthbet.info
 0.0.0.0 wotf.io
 0.0.0.0 wotmall.top
