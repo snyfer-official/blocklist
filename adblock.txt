@@ -2,10 +2,11 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-09-21T15:18:59.319Z
-! Domains: 17479
+! Source updated: 2026-09-22T12:19:50.858Z
+! Domains: 17539
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
+||0-trace.cc^
 ||0260solutionsllc.com^
 ||07939.com^
 ||0mexsed.com^
@@ -115,6 +116,7 @@
 ||66-access.vip^
 ||66corgibet27.com^
 ||67691-cdn-satoshilabs.com^
+||683.cc^
 ||68ea-idn.com^
 ||68ea-mys.com^
 ||68ea-us.com^
@@ -403,6 +405,7 @@
 ||ah-international.info^
 ||ahgpro500.org^
 ||ahmedprima.com^
+||ahz.cc^
 ||ai-accurate.com^
 ||ai-fef.com^
 ||ai-gruppe.com^
@@ -416,6 +419,7 @@
 ||aiaiis.com^
 ||aiaiis.net^
 ||aiapp-ch-autoprofit.com^
+||aiassetgrowth.com^
 ||aiassetsautotrading.com^
 ||aiautoo.com^
 ||aibobia.com^
@@ -438,6 +442,7 @@
 ||aifia-global.net^
 ||aifinanceacademy.com^
 ||aifinvestmentacademy.com^
+||aifund.vip^
 ||aifundx.net^
 ||aig-alvainternasionalglobe.com^
 ||aigcoin.top^
@@ -462,11 +467,13 @@
 ||aimsfxfx.vip^
 ||aimsmarkets.io^
 ||aimsvipfx.com^
+||aintelligence24.com^
 ||aintuition.io^
 ||aintuitions.live^
 ||aioptima.org^
 ||aipltfrm.com^
 ||aipos111.com^
+||aipremiumtrade.com^
 ||aipremiumtradingplatform.live^
 ||aiprimemarket.com^
 ||aiprofxtrading.com^
@@ -530,6 +537,7 @@
 ||albarka.top^
 ||albaswissfx.com^
 ||albathagroupltd.com^
+||alcabit.com^
 ||alcancemax.net^
 ||alcart.pro^
 ||alchemay.net^
@@ -566,6 +574,7 @@
 ||algofusion-ai.com^
 ||algofxchain.com^
 ||algofxtrade.com^
+||algoguard.ai^
 ||algomarket.uk^
 ||algomarkets.live^
 ||algomarketsverse.com^
@@ -582,6 +591,7 @@
 ||algoxtrading.com^
 ||alhabibcapital.com^
 ||alibarbit.com^
+||alignedtreading.com^
 ||alinafi.com^
 ||alithia-alliance.com^
 ||alithia-intelligent.com^
@@ -744,6 +754,7 @@
 ||altirise.com^
 ||altiryus.com^
 ||altmavenfundstrade.com^
+||altpremium.com^
 ||altradersglobal-inv.com^
 ||altrafinex.com^
 ||altreserve.net^
@@ -790,6 +801,7 @@
 ||amazonia-investing.com^
 ||amber-tradepro.com^
 ||ambersgate.global^
+||amberwoodroutek.com^
 ||ambientresearch.co^
 ||ambientxyz.xyz^
 ||ambinvestments.co^
@@ -940,6 +952,7 @@
 ||apexglobaltrx.com^
 ||apexguard.sbs^
 ||apexincrease.ltd^
+||apexiumtrusts.com^
 ||apexliveprogram.org^
 ||apexmarketbase.org^
 ||apexmarketexchange.com^
@@ -971,6 +984,7 @@
 ||apextradercorp.com^
 ||apextraderedge.com^
 ||apextraderplc.com^
+||apextraderwave.com^
 ||apextradesfx.com^
 ||apextradestrategies.online^
 ||apextradetune.click^
@@ -978,6 +992,7 @@
 ||apextradexmarkets.com^
 ||apextradingoptions.com^
 ||apextradingplatforms.net^
+||apextradingpro.net^
 ||apextradwaves.com^
 ||apextrailfunds.com^
 ||apextrustfinancial.com^
@@ -1231,6 +1246,7 @@
 ||asterdex.com^
 ||asteriskmining.com^
 ||asterms.com^
+||astertrades.com^
 ||astertrust.com^
 ||astmining.net^
 ||astonbit.com^
@@ -1307,6 +1323,7 @@
 ||atlasshellai.com^
 ||atlasstandardunion.org^
 ||atlastcryptomarket.com^
+||atlastrademarket.info^
 ||atlasventures.company^
 ||atlaswealthcapital.com^
 ||atlaxchain.org^
@@ -1324,6 +1341,7 @@
 ||atriumreits.com^
 ||atticus-am.com^
 ||atticusfuture.com^
+||atuwin.com^
 ||au-xe.pro^
 ||aucapital-mgmt.com^
 ||aucapital-mgmt.com.au^
@@ -1422,6 +1440,7 @@
 ||autoinvestplus.com^
 ||autolitefinances.pro^
 ||automarketzone.live^
+||automatedfxtrading-system.com^
 ||automatedprotrade.com^
 ||automatedtradex.com^
 ||automatedtradingplatorm.org^
@@ -1446,6 +1465,7 @@
 ||avalanchexpert.com^
 ||avalextrading.info^
 ||avalonfinance.io^
+||avanfunds.com^
 ||avanswift.com^
 ||avanswifts.com^
 ||avantcapitaltrade.com^
@@ -1480,6 +1500,7 @@
 ||avo.trading^
 ||avoinvesting.online^
 ||avonbridgecapitalbnk.com^
+||avrisinc.com^
 ||avto-dengi26.ru^
 ||avtodvor-nov.ru^
 ||avtolombard.com^
@@ -1526,6 +1547,7 @@
 ||axioryinvestment.com^
 ||axiotera.com^
 ||axiovant.com^
+||axipot.com^
 ||axisadvisorytrade.com^
 ||axisbridgecapitalpartners.com^
 ||axiscajs.com^
@@ -1564,6 +1586,7 @@
 ||azvmining.site^
 ||azzaminer.com^
 ||b-getu.com^
+||b-group.trade^
 ||b-investor.com^
 ||b12trades.biz^
 ||b2bx.io^
@@ -1673,6 +1696,7 @@
 ||bdex.site^
 ||bdfoptions.com^
 ||bdgestiondeinversionesav.com^
+||bdpw.io^
 ||bdswiss.com^
 ||bdswissmarkettrade.com^
 ||bdweurope.com^
@@ -1684,6 +1708,7 @@
 ||beaqonx.com^
 ||beastarcade.com^
 ||beastcas.com^
+||beastereo.com^
 ||beastfox.com^
 ||beastgambling.cc^
 ||beastok.one^
@@ -1749,6 +1774,7 @@
 ||bep-trade.ltd^
 ||bep20-binusdt.online^
 ||bepdex.com^
+||bepfi.com^
 ||bequitiesgroup.com^
 ||bequitygroup.com^
 ||berformance.group^
@@ -2099,6 +2125,7 @@
 ||bitfinex-ai3.com^
 ||bitfinex-exchange.com^
 ||bitfinex.ac^
+||bitfinex137.com^
 ||bitfinex180.com^
 ||bitfinex181.com^
 ||bitfinex182.com^
@@ -2365,6 +2392,8 @@
 ||bitwalletbp.com^
 ||bitwin.cc^
 ||bitwinkoins.net^
+||bitwiseaml.com^
+||bitwiseassetsmanagement.online^
 ||bitworld.live^
 ||bitworthinvestment.com^
 ||bitxav.com^
@@ -2694,6 +2723,7 @@
 ||brecoin.com^
 ||bregamb.cc^
 ||brekutioos.com^
+||bremifyoptions.live^
 ||bremtglobal.com^
 ||brentmarkets.com^
 ||brentonvale-trust.ca^
@@ -2897,6 +2927,7 @@
 ||burjexprime.com^
 ||burkeurbanfx.com^
 ||burnsidefin.com^
+||bursa-coins.my^
 ||bursamalaaysia.com^
 ||bursamalaysia.biz^
 ||bursammalaysia.com^
@@ -3157,6 +3188,7 @@
 ||capstoneglobaltrade.com^
 ||capstoneholdingsltd.com^
 ||captirosai.com^
+||captradequities.ltd^
 ||capttradingpartnersllp.com^
 ||capup.ai^
 ||capvest-consulting.com^
@@ -3383,6 +3415,7 @@
 ||chainmall.vip^
 ||chainmarkets.live^
 ||chainmatrix.org^
+||chainminescapital.com^
 ||chainox.io^
 ||chainrealm.org^
 ||chainsafefx.net^
@@ -3441,6 +3474,7 @@
 ||cipherwallet.io^
 ||cipphershores.com^
 ||circlecoplex.live^
+||circlejerk.lol^
 ||circlonoiland.com^
 ||circuittradetech.com^
 ||citi-markets.com^
@@ -4496,6 +4530,7 @@
 ||de-greenfield.sbs^
 ||deaddictedtohandbagsapp.com^
 ||deagandoki.com^
+||deal-array.tech^
 ||dealinvestmentpty.com^
 ||debinx.com^
 ||deblextradinggroup.com^
@@ -6361,6 +6396,7 @@
 ||flyneg.com^
 ||flystudiosflow.com^
 ||fmacapitals.io^
+||fmaglobal.io^
 ||fmarkets.com^
 ||fmasters.io^
 ||fmfw.io^
@@ -6406,6 +6442,7 @@
 ||forex4money.com^
 ||forex5.me^
 ||forexbit.net^
+||forexfuturesmarket.com^
 ||forexfxm.com^
 ||forexhesap.com^
 ||forexlions.com^
@@ -6615,6 +6652,7 @@
 ||fundrelixfortis.com^
 ||fundrise-global.com^
 ||fundrisetrade.com^
+||funds-axis.ltd^
 ||funds.si^
 ||fundsaxis.net^
 ||fundsbitinc.com^
@@ -6722,6 +6760,7 @@
 ||fxoexchange.com^
 ||fxoptionexchange.com^
 ||fxoptions.trade^
+||fxoxx.net^
 ||fxporcon.com^
 ||fxporix.com^
 ||fxpro-ltd.com^
@@ -6875,6 +6914,7 @@
 ||generationtradecom.com^
 ||genesis-arbit.com^
 ||genesis-eth.org^
+||genesis-fx.com^
 ||genesisarbit.center^
 ||genesisarbit.expert^
 ||genesisarbit.io^
@@ -6885,6 +6925,7 @@
 ||genesisfinancies.com^
 ||genesisfxmarkets.com^
 ||gengroup-ca.com^
+||genifynext.com^
 ||geniusassets.org^
 ||geniusspherecpt.com^
 ||genixcorperate.com^
@@ -6924,6 +6965,7 @@
 ||gezorex.com^
 ||gezowin.com^
 ||gf-limited.co^
+||gfhinvest.com^
 ||gfihksecurities.cc^
 ||gfihksecurities.shop^
 ||gfo-xx.com^
@@ -7531,6 +7573,7 @@
 ||groupsecuritiesdublin.com^
 ||grovast.io^
 ||grovevaultltd.com^
+||grow3.io^
 ||growaveonline.com^
 ||growell.capital^
 ||growgainlimited.com^
@@ -7827,7 +7870,6 @@
 ||helveti-finanz.ch^
 ||hemfrevo.com^
 ||heneex.com^
-||henghua09.blob.core.windows.net^
 ||heodex.com^
 ||heonex.com^
 ||herbnk.com^
@@ -8170,6 +8212,7 @@
 ||igalgo.com^
 ||igam.cc^
 ||igaus.org^
+||igaussie.com^
 ||igenesis-company.com^
 ||igeniusglobal.com^
 ||iggfx.com^
@@ -9055,6 +9098,7 @@
 ||labrotex.com^
 ||labrys-pro.io^
 ||laburberhemah-my.com^
+||lafcb.com^
 ||lagan-bondspire.com^
 ||lagiotex.co^
 ||lagowex.com^
@@ -9518,6 +9562,7 @@
 ||lwexsk.com^
 ||lwhout.com^
 ||lwhout001.com^
+||lxcapitalassets.org^
 ||lxfx.com^
 ||lxlwyn.top^
 ||lyconstructionuk.org^
@@ -9623,6 +9668,7 @@
 ||maplewallet.net^
 ||mappedswap.com^
 ||marathonminer.com^
+||marblezinsara.net^
 ||marcjacobsm.top^
 ||marenvault-institute.com^
 ||marexprimeltd.com^
@@ -10531,6 +10577,7 @@
 ||nevskoezoloto.ru^
 ||newapexway.com^
 ||newapps.cc^
+||newcatailysiltd.online^
 ||newclientpanel.com^
 ||newcrestmktpro.com^
 ||newdigital-access.com^
@@ -10791,6 +10838,7 @@
 ||normend.com^
 ||norovex.co^
 ||norovex.io^
+||norovex.vip^
 ||nortefondazgo.com^
 ||north-capmere.com^
 ||northbank.capital^
@@ -11129,6 +11177,7 @@
 ||onfin-genesis.com^
 ||onidscapitals.com^
 ||onivx.com^
+||onkelinvest.org^
 ||onl-co.com^
 ||online-deltahex.com^
 ||online1-hiveradvanced.com^
@@ -11542,6 +11591,7 @@
 ||pecuniarybackdoors.net^
 ||pelaburan-maraberhad.com^
 ||pelbrw.top^
+||pelkruvilanz.es^
 ||penbit.io^
 ||pendoxa.com^
 ||pendulumat.pro^
@@ -12359,6 +12409,7 @@
 ||quantum-ai-trading.com^
 ||quantum-ai-trading.nl^
 ||quantum-ai.ca^
+||quantum-ai.io^
 ||quantum-ai.se^
 ||quantum-banc.world^
 ||quantum-flowbit.com^
@@ -12697,6 +12748,7 @@
 ||retorex.com^
 ||retrivio.sbs^
 ||retrocminers.net^
+||retroi.online^
 ||returnprofit247.org^
 ||returnwavesintl.com^
 ||retyka.com^
@@ -13180,6 +13232,7 @@
 ||sedef-bk.com^
 ||sedexapp.com^
 ||sedofex.com^
+||sedowin.com^
 ||sedriton.net^
 ||sedto.com^
 ||sedxfx.com^
@@ -13391,6 +13444,7 @@
 ||skanestas.net^
 ||skaves.com^
 ||skeebit.com^
+||skelvurizont.es^
 ||skickligfinvorosweden.com^
 ||skilletronix.com^
 ||skiptobuy.net^
@@ -13458,6 +13512,7 @@
 ||smartgruve.com^
 ||smartholdlings.com^
 ||smartincometrade.com^
+||smartindextradefx.com^
 ||smartinfinite.my^
 ||smartinvest1ng.com^
 ||smartinvestai.io^
@@ -14568,6 +14623,7 @@
 ||texhawk.com^
 ||texiplusfinance.com^
 ||texotek.com^
+||texrilo.com^
 ||tezos-ai.com^
 ||tezosmarket.com^
 ||tezowex.com^
@@ -14758,6 +14814,7 @@
 ||tofrof.com^
 ||togedex.com^
 ||togetherweshine.co^
+||togploxzika.pro^
 ||tokeitnow.com^
 ||token-cmc20.com^
 ||tokenblockv.top^
@@ -15733,6 +15790,7 @@
 ||ukxcapital.com^
 ||ulinktopexs.com^
 ||ulstaronline.com^
+||ultacore.net^
 ||ultimamarkets.com^
 ||ultimate-traders.com^
 ||ultimatecoindex.com^
@@ -15784,6 +15842,7 @@
 ||unionai.vip^
 ||unionglobalmarketltd.com^
 ||uniongreenpower.com^
+||unionmarkets.net^
 ||unionmk.com^
 ||unionsminingnetworks.com^
 ||unionstandard-trust.com^
@@ -16228,6 +16287,7 @@
 ||vestoraxcap.online^
 ||vestorholding.com^
 ||vestorpremier.com^
+||vestorpremier.org^
 ||vestrado.com^
 ||vestraline.com^
 ||vestratrade.ltd^
@@ -16754,7 +16814,6 @@
 ||wincoin.trade^
 ||wincoinx.com^
 ||windfalltrades.com^
-||windows.net^
 ||windsorbrokers.bz^
 ||windsorbrokers.com^
 ||winexo1021.gl^
@@ -17336,6 +17395,7 @@
 ||zentrix.cc^
 ||zentrix.cfd^
 ||zentro-maven.pro^
+||zenturikova.pro^
 ||zenvestgrowth.com^
 ||zenviotrade.com^
 ||zenvora.trade^

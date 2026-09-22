@@ -1,3 +1,4 @@
+0-trace.cc
 0260solutionsllc.com
 07939.com
 0mexsed.com
@@ -107,6 +108,7 @@
 66-access.vip
 66corgibet27.com
 67691-cdn-satoshilabs.com
+683.cc
 68ea-idn.com
 68ea-mys.com
 68ea-us.com
@@ -395,6 +397,7 @@ agw77.com
 ah-international.info
 ahgpro500.org
 ahmedprima.com
+ahz.cc
 ai-accurate.com
 ai-fef.com
 ai-gruppe.com
@@ -408,6 +411,7 @@ ai4sol.ai
 aiaiis.com
 aiaiis.net
 aiapp-ch-autoprofit.com
+aiassetgrowth.com
 aiassetsautotrading.com
 aiautoo.com
 aibobia.com
@@ -430,6 +434,7 @@ aifetchai.com
 aifia-global.net
 aifinanceacademy.com
 aifinvestmentacademy.com
+aifund.vip
 aifundx.net
 aig-alvainternasionalglobe.com
 aigcoin.top
@@ -454,11 +459,13 @@ aimsfx.com
 aimsfxfx.vip
 aimsmarkets.io
 aimsvipfx.com
+aintelligence24.com
 aintuition.io
 aintuitions.live
 aioptima.org
 aipltfrm.com
 aipos111.com
+aipremiumtrade.com
 aipremiumtradingplatform.live
 aiprimemarket.com
 aiprofxtrading.com
@@ -522,6 +529,7 @@ albabrokers.com
 albarka.top
 albaswissfx.com
 albathagroupltd.com
+alcabit.com
 alcancemax.net
 alcart.pro
 alchemay.net
@@ -558,6 +566,7 @@ algofetmain.com
 algofusion-ai.com
 algofxchain.com
 algofxtrade.com
+algoguard.ai
 algomarket.uk
 algomarkets.live
 algomarketsverse.com
@@ -574,6 +583,7 @@ algowiseasset.com
 algoxtrading.com
 alhabibcapital.com
 alibarbit.com
+alignedtreading.com
 alinafi.com
 alithia-alliance.com
 alithia-intelligent.com
@@ -736,6 +746,7 @@ altiracore.com
 altirise.com
 altiryus.com
 altmavenfundstrade.com
+altpremium.com
 altradersglobal-inv.com
 altrafinex.com
 altreserve.net
@@ -782,6 +793,7 @@ amazoneccc.cc
 amazonia-investing.com
 amber-tradepro.com
 ambersgate.global
+amberwoodroutek.com
 ambientresearch.co
 ambientxyz.xyz
 ambinvestments.co
@@ -932,6 +944,7 @@ apexglobalstoc.com
 apexglobaltrx.com
 apexguard.sbs
 apexincrease.ltd
+apexiumtrusts.com
 apexliveprogram.org
 apexmarketbase.org
 apexmarketexchange.com
@@ -963,6 +976,7 @@ apextradefxpips.com
 apextradercorp.com
 apextraderedge.com
 apextraderplc.com
+apextraderwave.com
 apextradesfx.com
 apextradestrategies.online
 apextradetune.click
@@ -970,6 +984,7 @@ apextradevault.com
 apextradexmarkets.com
 apextradingoptions.com
 apextradingplatforms.net
+apextradingpro.net
 apextradwaves.com
 apextrailfunds.com
 apextrustfinancial.com
@@ -1223,6 +1238,7 @@ asterax.com
 asterdex.com
 asteriskmining.com
 asterms.com
+astertrades.com
 astertrust.com
 astmining.net
 astonbit.com
@@ -1299,6 +1315,7 @@ atlasquantltd.vip
 atlasshellai.com
 atlasstandardunion.org
 atlastcryptomarket.com
+atlastrademarket.info
 atlasventures.company
 atlaswealthcapital.com
 atlaxchain.org
@@ -1316,6 +1333,7 @@ atriumpartnerslimited.com
 atriumreits.com
 atticus-am.com
 atticusfuture.com
+atuwin.com
 au-xe.pro
 aucapital-mgmt.com
 aucapital-mgmt.com.au
@@ -1414,6 +1432,7 @@ autofxtradezone.com
 autoinvestplus.com
 autolitefinances.pro
 automarketzone.live
+automatedfxtrading-system.com
 automatedprotrade.com
 automatedtradex.com
 automatedtradingplatorm.org
@@ -1438,6 +1457,7 @@ availasset.com
 avalanchexpert.com
 avalextrading.info
 avalonfinance.io
+avanfunds.com
 avanswift.com
 avanswifts.com
 avantcapitaltrade.com
@@ -1472,6 +1492,7 @@ avnve.com
 avo.trading
 avoinvesting.online
 avonbridgecapitalbnk.com
+avrisinc.com
 avto-dengi26.ru
 avtodvor-nov.ru
 avtolombard.com
@@ -1518,6 +1539,7 @@ axioratrades.com
 axioryinvestment.com
 axiotera.com
 axiovant.com
+axipot.com
 axisadvisorytrade.com
 axisbridgecapitalpartners.com
 axiscajs.com
@@ -1556,6 +1578,7 @@ azowin.site
 azvmining.site
 azzaminer.com
 b-getu.com
+b-group.trade
 b-investor.com
 b12trades.biz
 b2bx.io
@@ -1665,6 +1688,7 @@ bcxbalkan.com
 bdex.site
 bdfoptions.com
 bdgestiondeinversionesav.com
+bdpw.io
 bdswiss.com
 bdswissmarkettrade.com
 bdweurope.com
@@ -1676,6 +1700,7 @@ beanstalkle.live
 beaqonx.com
 beastarcade.com
 beastcas.com
+beastereo.com
 beastfox.com
 beastgambling.cc
 beastok.one
@@ -1741,6 +1766,7 @@ beozax.com
 bep-trade.ltd
 bep20-binusdt.online
 bepdex.com
+bepfi.com
 bequitiesgroup.com
 bequitygroup.com
 berformance.group
@@ -2091,6 +2117,7 @@ bitfinex-ai-3.com
 bitfinex-ai3.com
 bitfinex-exchange.com
 bitfinex.ac
+bitfinex137.com
 bitfinex180.com
 bitfinex181.com
 bitfinex182.com
@@ -2357,6 +2384,8 @@ bitwade.com
 bitwalletbp.com
 bitwin.cc
 bitwinkoins.net
+bitwiseaml.com
+bitwiseassetsmanagement.online
 bitworld.live
 bitworthinvestment.com
 bitxav.com
@@ -2686,6 +2715,7 @@ breakswealth.com
 brecoin.com
 bregamb.cc
 brekutioos.com
+bremifyoptions.live
 bremtglobal.com
 brentmarkets.com
 brentonvale-trust.ca
@@ -2889,6 +2919,7 @@ burim-trade.com
 burjexprime.com
 burkeurbanfx.com
 burnsidefin.com
+bursa-coins.my
 bursamalaaysia.com
 bursamalaysia.biz
 bursammalaysia.com
@@ -3149,6 +3180,7 @@ capstonecapitals.com
 capstoneglobaltrade.com
 capstoneholdingsltd.com
 captirosai.com
+captradequities.ltd
 capttradingpartnersllp.com
 capup.ai
 capvest-consulting.com
@@ -3375,6 +3407,7 @@ chainlurk.com
 chainmall.vip
 chainmarkets.live
 chainmatrix.org
+chainminescapital.com
 chainox.io
 chainrealm.org
 chainsafefx.net
@@ -3433,6 +3466,7 @@ ciphertradelab.com
 cipherwallet.io
 cipphershores.com
 circlecoplex.live
+circlejerk.lol
 circlonoiland.com
 circuittradetech.com
 citi-markets.com
@@ -4488,6 +4522,7 @@ ddysvv.com
 de-greenfield.sbs
 deaddictedtohandbagsapp.com
 deagandoki.com
+deal-array.tech
 dealinvestmentpty.com
 debinx.com
 deblextradinggroup.com
@@ -6353,6 +6388,7 @@ flxtm1.com
 flyneg.com
 flystudiosflow.com
 fmacapitals.io
+fmaglobal.io
 fmarkets.com
 fmasters.io
 fmfw.io
@@ -6398,6 +6434,7 @@ forex4free.net
 forex4money.com
 forex5.me
 forexbit.net
+forexfuturesmarket.com
 forexfxm.com
 forexhesap.com
 forexlions.com
@@ -6607,6 +6644,7 @@ fundourselves.uk
 fundrelixfortis.com
 fundrise-global.com
 fundrisetrade.com
+funds-axis.ltd
 funds.si
 fundsaxis.net
 fundsbitinc.com
@@ -6714,6 +6752,7 @@ fxnovus.pro
 fxoexchange.com
 fxoptionexchange.com
 fxoptions.trade
+fxoxx.net
 fxporcon.com
 fxporix.com
 fxpro-ltd.com
@@ -6867,6 +6906,7 @@ generationinvestgroup.com
 generationtradecom.com
 genesis-arbit.com
 genesis-eth.org
+genesis-fx.com
 genesisarbit.center
 genesisarbit.expert
 genesisarbit.io
@@ -6877,6 +6917,7 @@ genesisedgeai.com
 genesisfinancies.com
 genesisfxmarkets.com
 gengroup-ca.com
+genifynext.com
 geniusassets.org
 geniusspherecpt.com
 genixcorperate.com
@@ -6916,6 +6957,7 @@ gexertmax.com
 gezorex.com
 gezowin.com
 gf-limited.co
+gfhinvest.com
 gfihksecurities.cc
 gfihksecurities.shop
 gfo-xx.com
@@ -7523,6 +7565,7 @@ grouppictet.crypto
 groupsecuritiesdublin.com
 grovast.io
 grovevaultltd.com
+grow3.io
 growaveonline.com
 growell.capital
 growgainlimited.com
@@ -7819,7 +7862,6 @@ helvcapital.com
 helveti-finanz.ch
 hemfrevo.com
 heneex.com
-henghua09.blob.core.windows.net
 heodex.com
 heonex.com
 herbnk.com
@@ -8162,6 +8204,7 @@ ifserveex.com
 igalgo.com
 igam.cc
 igaus.org
+igaussie.com
 igenesis-company.com
 igeniusglobal.com
 iggfx.com
@@ -9047,6 +9090,7 @@ la-saperie-officiel.fr
 labrotex.com
 labrys-pro.io
 laburberhemah-my.com
+lafcb.com
 lagan-bondspire.com
 lagiotex.co
 lagowex.com
@@ -9510,6 +9554,7 @@ lwexlt.com
 lwexsk.com
 lwhout.com
 lwhout001.com
+lxcapitalassets.org
 lxfx.com
 lxlwyn.top
 lyconstructionuk.org
@@ -9615,6 +9660,7 @@ maplestouch.com
 maplewallet.net
 mappedswap.com
 marathonminer.com
+marblezinsara.net
 marcjacobsm.top
 marenvault-institute.com
 marexprimeltd.com
@@ -10523,6 +10569,7 @@ nevolax.com
 nevskoezoloto.ru
 newapexway.com
 newapps.cc
+newcatailysiltd.online
 newclientpanel.com
 newcrestmktpro.com
 newdigital-access.com
@@ -10783,6 +10830,7 @@ norironeco.com
 normend.com
 norovex.co
 norovex.io
+norovex.vip
 nortefondazgo.com
 north-capmere.com
 northbank.capital
@@ -11121,6 +11169,7 @@ onexmusk.com
 onfin-genesis.com
 onidscapitals.com
 onivx.com
+onkelinvest.org
 onl-co.com
 online-deltahex.com
 online1-hiveradvanced.com
@@ -11534,6 +11583,7 @@ pebdexapp.com
 pecuniarybackdoors.net
 pelaburan-maraberhad.com
 pelbrw.top
+pelkruvilanz.es
 penbit.io
 pendoxa.com
 pendulumat.pro
@@ -12351,6 +12401,7 @@ quanttekel.com
 quantum-ai-trading.com
 quantum-ai-trading.nl
 quantum-ai.ca
+quantum-ai.io
 quantum-ai.se
 quantum-banc.world
 quantum-flowbit.com
@@ -12689,6 +12740,7 @@ retinarxiv.net
 retorex.com
 retrivio.sbs
 retrocminers.net
+retroi.online
 returnprofit247.org
 returnwavesintl.com
 retyka.com
@@ -13172,6 +13224,7 @@ securoomai.co.uk
 sedef-bk.com
 sedexapp.com
 sedofex.com
+sedowin.com
 sedriton.net
 sedto.com
 sedxfx.com
@@ -13383,6 +13436,7 @@ skandova.se
 skanestas.net
 skaves.com
 skeebit.com
+skelvurizont.es
 skickligfinvorosweden.com
 skilletronix.com
 skiptobuy.net
@@ -13450,6 +13504,7 @@ smartfxplatform.net
 smartgruve.com
 smartholdlings.com
 smartincometrade.com
+smartindextradefx.com
 smartinfinite.my
 smartinvest1ng.com
 smartinvestai.io
@@ -14560,6 +14615,7 @@ texelchain.org
 texhawk.com
 texiplusfinance.com
 texotek.com
+texrilo.com
 tezos-ai.com
 tezosmarket.com
 tezowex.com
@@ -14750,6 +14806,7 @@ tofro.pro
 tofrof.com
 togedex.com
 togetherweshine.co
+togploxzika.pro
 tokeitnow.com
 token-cmc20.com
 tokenblockv.top
@@ -15725,6 +15782,7 @@ ukxcapital.co
 ukxcapital.com
 ulinktopexs.com
 ulstaronline.com
+ultacore.net
 ultimamarkets.com
 ultimate-traders.com
 ultimatecoindex.com
@@ -15776,6 +15834,7 @@ union-connected.com
 unionai.vip
 unionglobalmarketltd.com
 uniongreenpower.com
+unionmarkets.net
 unionmk.com
 unionsminingnetworks.com
 unionstandard-trust.com
@@ -16220,6 +16279,7 @@ vestofx.net
 vestoraxcap.online
 vestorholding.com
 vestorpremier.com
+vestorpremier.org
 vestrado.com
 vestraline.com
 vestratrade.ltd
@@ -16746,7 +16806,6 @@ wincase777.to
 wincoin.trade
 wincoinx.com
 windfalltrades.com
-windows.net
 windsorbrokers.bz
 windsorbrokers.com
 winexo1021.gl
@@ -17328,6 +17387,7 @@ zentrawealth.com
 zentrix.cc
 zentrix.cfd
 zentro-maven.pro
+zenturikova.pro
 zenvestgrowth.com
 zenviotrade.com
 zenvora.trade
