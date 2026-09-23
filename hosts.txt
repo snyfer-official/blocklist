@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-09-22T12:19:50.858Z
-# Domains: 17539
+# Source updated: 2026-09-23T12:19:56.068Z
+# Domains: 17552
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -373,6 +373,7 @@
 0.0.0.0 afstrustee.com
 0.0.0.0 afstrusteeswiss.com
 0.0.0.0 agamb.cc
+0.0.0.0 agastltd.net
 0.0.0.0 agconsalting.site
 0.0.0.0 agcunion.com
 0.0.0.0 agenticai-canada.com
@@ -2674,6 +2675,7 @@
 0.0.0.0 boostkrediet-dienst.com
 0.0.0.0 boostlegends.com
 0.0.0.0 boosttradenow.com
+0.0.0.0 boostxedge.com
 0.0.0.0 borealhub.pro
 0.0.0.0 borealmere.com
 0.0.0.0 bornemxmarket.com
@@ -7189,6 +7191,7 @@
 0.0.0.0 glutatrade.buzz
 0.0.0.0 gmcm.online
 0.0.0.0 gmfx-fund.net
+0.0.0.0 gmg-corporate.com
 0.0.0.0 gmgai.net
 0.0.0.0 gmininghub.com
 0.0.0.0 gmlfarms.org
@@ -7813,6 +7816,7 @@
 0.0.0.0 hedgefund-options.com
 0.0.0.0 hedgefusioncapital.com
 0.0.0.0 hedgemarketoption.com
+0.0.0.0 hedgeperformance.com
 0.0.0.0 hedger.one
 0.0.0.0 heelgainers.com
 0.0.0.0 heidax.com
@@ -8320,6 +8324,7 @@
 0.0.0.0 indexcryptofx.com
 0.0.0.0 indexedcharts.com
 0.0.0.0 indexfx.vercel.app
+0.0.0.0 indexpairs.io
 0.0.0.0 indexpartners-limited.com
 0.0.0.0 indexrevolution.com
 0.0.0.0 indexstatrader.com
@@ -9591,6 +9596,7 @@
 0.0.0.0 madelor.com
 0.0.0.0 maderix.ltd
 0.0.0.0 madiagoholdings.online
+0.0.0.0 maestate-ag.com
 0.0.0.0 maforx.com
 0.0.0.0 mafowex.com
 0.0.0.0 magabit.net
@@ -10784,6 +10790,7 @@
 0.0.0.0 noblefxtrader.com
 0.0.0.0 noblepayz.com
 0.0.0.0 noblerendoire.live
+0.0.0.0 nobletradesfx.com
 0.0.0.0 nobletradingfx.com
 0.0.0.0 nobletrustasset.com
 0.0.0.0 nocadex.com
@@ -11113,6 +11120,7 @@
 0.0.0.0 olympus-games.net
 0.0.0.0 omchain.io
 0.0.0.0 omega-smart.net
+0.0.0.0 omega-trade.com
 0.0.0.0 omegatons.com
 0.0.0.0 omenyxgroup.com
 0.0.0.0 omlacoins.com
@@ -11401,6 +11409,7 @@
 0.0.0.0 ovospins.com
 0.0.0.0 ovotower.com
 0.0.0.0 ovowhale.com
+0.0.0.0 owealth-global.com
 0.0.0.0 owlfxltd.com
 0.0.0.0 ownone.org
 0.0.0.0 oxelvian-it.net
@@ -11895,6 +11904,7 @@
 0.0.0.0 powerofpubwallet.com
 0.0.0.0 powerteamfxbuilding.net
 0.0.0.0 powerxn.com
+0.0.0.0 pp-capitals.com
 0.0.0.0 ppcmusicclub.com
 0.0.0.0 ppnance.online
 0.0.0.0 ppro-gcm.org
@@ -13443,6 +13453,7 @@
 0.0.0.0 skaves.com
 0.0.0.0 skeebit.com
 0.0.0.0 skelvurizont.es
+0.0.0.0 skelvurizont.nl
 0.0.0.0 skickligfinvorosweden.com
 0.0.0.0 skilletronix.com
 0.0.0.0 skiptobuy.net
@@ -14536,6 +14547,7 @@
 0.0.0.0 tenamex.com
 0.0.0.0 tenaxcode.com
 0.0.0.0 tenetoption.com
+0.0.0.0 tenorcrest.com
 0.0.0.0 tensocoin.com
 0.0.0.0 tensorhive.io
 0.0.0.0 tentron-minings.com
@@ -16369,6 +16381,7 @@
 0.0.0.0 vipshop.life
 0.0.0.0 vipsolutionprivate.com
 0.0.0.0 virello-zone.com
+0.0.0.0 vireltainteractivebrokers.com
 0.0.0.0 vireosolution.net
 0.0.0.0 virewin.cc
 0.0.0.0 virexan.io
