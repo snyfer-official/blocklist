@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-09-24T12:19:56.183Z
-! Domains: 17624
+! Source updated: 2026-09-25T12:19:56.096Z
+! Domains: 17653
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -1765,6 +1765,7 @@
 ||bellevuehillcapitalltd.com^
 ||bellhea.ink^
 ||belmontcapital.cc^
+||belmontwealthstone.biz^
 ||belvarium.com^
 ||belvoraine.com^
 ||bemoxes.com^
@@ -2983,6 +2984,7 @@
 ||buzzechoix.org^
 ||buzzstoriza.com^
 ||buzzstreamxa.com^
+||bvp-finance.org^
 ||bxa.com^
 ||bxatgom.com^
 ||bxstone.com^
@@ -3139,6 +3141,7 @@
 ||capitaledgemarket.com^
 ||capitalelan.com^
 ||capitalexparttraders.net^
+||capitalexpertise.live^
 ||capitalexpressmetatrade.net^
 ||capitalfinexmarkets.com^
 ||capitalfirstfunding.online^
@@ -3189,6 +3192,7 @@
 ||capitaltrustbroker.com^
 ||capitalusfx.com^
 ||capitalvalueportfoliomgt.org^
+||capitalvaultbase.com^
 ||capitalvo.com^
 ||capitalwealthtrustprologis.com^
 ||capitalzan.com^
@@ -3440,6 +3444,7 @@
 ||chainmall.vip^
 ||chainmarkets.live^
 ||chainmatrix.org^
+||chainmatrixcapitals.com^
 ||chainminescapital.com^
 ||chainovex.net^
 ||chainox.io^
@@ -4112,6 +4117,7 @@
 ||crimsonassets.biz^
 ||crimsonwealths.com^
 ||crinadex.com^
+||cripstonesholdings.com^
 ||criptifywallet.io^
 ||cripto-invest.ru^
 ||criptobanc.com^
@@ -4205,6 +4211,7 @@
 ||crypto-assets247.com^
 ||crypto-au-web3.com^
 ||crypto-aurora.com^
+||crypto-boerse.com^
 ||crypto-cap.global^
 ||crypto-ck.cc^
 ||crypto-coin.cc^
@@ -5841,6 +5848,7 @@
 ||expertstrade247.top^
 ||experttradeequity.com^
 ||experttrademarket.com^
+||experttradesoptions.com^
 ||experttradexium.com^
 ||experttrading.org^
 ||experttrading.sbs^
@@ -6522,6 +6530,7 @@
 ||fortorex.com^
 ||fortradefx.ae^
 ||fortradelimited.com^
+||fortressglobalcu.org^
 ||fortressoption.live^
 ||fortresstradecapital.com^
 ||fortsk.cc^
@@ -8362,6 +8371,7 @@
 ||indexcryptofx.com^
 ||indexedcharts.com^
 ||indexfx.vercel.app^
+||indexlivetrust.com^
 ||indexpairs.io^
 ||indexpartners-limited.com^
 ||indexrevolution.com^
@@ -8634,6 +8644,7 @@
 ||irisfrench.com^
 ||irobot-trade.com^
 ||iron-cap.com^
+||ironcladbits.com^
 ||ironcoininvestment.com^
 ||ironfx.com^
 ||irongoldinvest.com^
@@ -8957,6 +8968,7 @@
 ||kineticsmarkets.com^
 ||king-cat.icu^
 ||kingminingus.top^
+||kingsmntfn.com^
 ||kingstineinvext.com^
 ||kingstontrading.com^
 ||kingswellglobal.com^
@@ -9134,6 +9146,7 @@
 ||kvtr.com^
 ||kvuldraneluai.com^
 ||kwtcn-coin.com^
+||kylexbitinvstmentos.com^
 ||kynwex.com^
 ||kysomats.com^
 ||kyswap.org^
@@ -9329,6 +9342,7 @@
 ||limdex-capital.com^
 ||limebike9.com^
 ||limesgrowth.com^
+||limfid-sa.top^
 ||limitedpmanagement.com^
 ||limitlesscover.co.uk^
 ||limitlesscrowd.xyz^
@@ -9355,6 +9369,7 @@
 ||lirdex.com^
 ||lirunefx.com^
 ||litebasefinances.live^
+||litetradespro.com^
 ||lithostandardskz.com^
 ||litmusignals.com^
 ||littlepepe.com^
@@ -10134,6 +10149,7 @@
 ||minerstrades.co.uk^
 ||minevestltd.com^
 ||minex-global.org^
+||minexa.online^
 ||minexc.com^
 ||miningat.com^
 ||miningbase.cloud^
@@ -11040,6 +11056,7 @@
 ||nvgevolgd.com^
 ||nvidiatoken.io^
 ||nvidiatrading.com^
+||nvpinvest.ru^
 ||nwedu-fundrise.com^
 ||nwzmarkets.net^
 ||nx-diltd.com^
@@ -11165,6 +11182,7 @@
 ||olive-tra.com^
 ||ollacoin.com^
 ||ollatrade.com^
+||olqureno.com^
 ||olutrixonsweden.com^
 ||olylim.com^
 ||olymp-options.com^
@@ -12165,6 +12183,7 @@
 ||prixcoinassets.com^
 ||prmledgax.online^
 ||prmshareslimited.com^
+||pro-divv.com^
 ||pro-gcm.org^
 ||pro-invt.com^
 ||pro-trx.com^
@@ -12180,6 +12199,7 @@
 ||procryptomarketrading.live^
 ||proderivfxt.com^
 ||prodivia-group.com^
+||prodivia-ltd.net^
 ||prodiviagroup.com^
 ||produkewangan.com^
 ||proexperttrades.com^
@@ -12564,6 +12584,7 @@
 ||quilterx-funds.ltd^
 ||quindex.net^
 ||quinex.io^
+||quintetcapitalsa.com^
 ||quintustrade.com^
 ||qumasai.org^
 ||quocoin.com^
@@ -12646,6 +12667,7 @@
 ||rasewin.gl^
 ||raster.finance^
 ||ratebridge.co.uk^
+||rating-broker.com^
 ||ratos.capital^
 ||ravioncryptiqai.live^
 ||raxagon.com^
@@ -13119,6 +13141,7 @@
 ||safeces.com^
 ||safechainglobal.com^
 ||safechainvault.net^
+||safechainvault.org^
 ||safecreditsavingsltd.com^
 ||safecrestasset.com^
 ||safefxtradings.pro^
@@ -13563,6 +13586,7 @@
 ||smart2returns.com^
 ||smartaitraders.com^
 ||smartamanah-investment.com^
+||smartassetinvestors.com^
 ||smartassetpro.sbs^
 ||smartassettrading.com^
 ||smartbit-boost.org^
@@ -13726,6 +13750,7 @@
 ||sovereignfx.com^
 ||sovereignfx.net^
 ||sovereignlegacychain.com^
+||sovereignminingtrust.com^
 ||sovrixo.com^
 ||sowilli.net^
 ||soxwex.com^
@@ -14436,6 +14461,7 @@
 ||swissgatevc.io^
 ||swissglobalcompany.com^
 ||swissheritagecapital.com^
+||swissitb.com^
 ||swissqb247.com^
 ||swissremitcapital.com^
 ||swissroyalcapital.ch^
@@ -14609,6 +14635,7 @@
 ||tenadex.com^
 ||tenamex.com^
 ||tenaxcode.com^
+||tencentprimex.com^
 ||tenetoption.com^
 ||tenorcrest.com^
 ||tensocoin.com^
@@ -16549,6 +16576,7 @@
 ||vortexaliumsv.com^
 ||vortexmomentum.com^
 ||vortextrd.top^
+||vortexwealthbrokers.com^
 ||vortxcapita.com^
 ||vorvexcloud.pro^
 ||vossencapitalmanagement.com^
@@ -17432,6 +17460,7 @@
 ||zengorexfinancial.com^
 ||zengoswap.com^
 ||zenicoltd.org^
+||zeniithpro.com^
 ||zeniprollc.com^
 ||zenithaccessnetwork.com^
 ||zenithad.top^
