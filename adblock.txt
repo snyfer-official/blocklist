@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-09-25T12:19:56.096Z
-! Domains: 17653
+! Source updated: 2026-09-26T12:19:56.419Z
+! Domains: 17683
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -812,6 +812,7 @@
 ||ambitiousinvmt.com^
 ||ambitiouswalth.com^
 ||ambrielle-novairex-fr.com^
+||ambrosiafx.com^
 ||amcebase.pro^
 ||amctheatresuseo-vip.com^
 ||amengine.cc^
@@ -1754,6 +1755,7 @@
 ||belfiuscorporateltd.com^
 ||belg-krediet.com^
 ||belgicainvest.ltd^
+||belgravecapital.co.uk^
 ||belgraviapromo.co.za^
 ||believe-growup.com^
 ||belizefsc.org.uk^
@@ -2807,6 +2809,7 @@
 ||broxusbet.com^
 ||brp-groups.com^
 ||brtwealth.io^
+||brwealth.io^
 ||brydexy.com^
 ||bryn-nexute.com^
 ||bryncap.com^
@@ -2864,6 +2867,7 @@
 ||btcuax.top^
 ||btcue2.top^
 ||btczz.vip^
+||btdouble.com^
 ||btduex.com^
 ||bteax.cc^
 ||btex12.com^
@@ -4368,6 +4372,7 @@
 ||crystal-finance.org^
 ||crystal-fx.net^
 ||crystal-play.cc^
+||crystal-prime.com^
 ||crystal-shares.org^
 ||crystalacademytrade.com^
 ||crystalassetsinc.com^
@@ -5152,6 +5157,7 @@
 ||dynamexchain.net^
 ||dynamic-capitalsinvestments.com^
 ||dynamicfxmarket.com^
+||dynamicprofitsfx.com^
 ||dynamicprotrade.com^
 ||dynamicsdigitalasset.com^
 ||dynamicsholding.live^
@@ -5545,6 +5551,7 @@
 ||equifaxintrestllc.com^
 ||equiflowfinance.com^
 ||equifycommerce.org^
+||equifyn.com^
 ||equifynx.com^
 ||equilgrow.com^
 ||equilibrium-floral.com^
@@ -5876,6 +5883,7 @@
 ||extractionedu.com^
 ||extraminerss.com^
 ||extranet-mgi.com^
+||extremeglobal.ltd^
 ||extremetradinghub.com^
 ||extrocol.com^
 ||extrotrade.com^
@@ -6724,6 +6732,7 @@
 ||futurefitnessmarket.com^
 ||futurefortunesedge.pro^
 ||futurefundinvestmentlimited.com^
+||futureguardcapitals.com^
 ||futureinvestmentltd.com^
 ||futuremarket.online^
 ||futuremarkets.online^
@@ -6990,6 +6999,7 @@
 ||geseratrades.com^
 ||gesowin77.pro^
 ||get-investor.ru^
+||get-lunnex-hex.com^
 ||getbitfx.net^
 ||getbluearrow.com^
 ||getcorelead.com^
@@ -7013,6 +7023,7 @@
 ||gforex.co.uk^
 ||gfvestltd.com^
 ||gfxminonline.com^
+||gfxtrade.uk^
 ||gg6060.net^
 ||ggcas.com^
 ||gh7.bet^
@@ -7166,6 +7177,7 @@
 ||globalsmartpip.org^
 ||globalstackfx.com^
 ||globalstarks.com^
+||globalstock-assets.com^
 ||globalstockcomodity.com^
 ||globalstockmarket247.com^
 ||globalstocksexchange.com^
@@ -7276,6 +7288,7 @@
 ||goldbs32.com^
 ||goldbs36.com^
 ||goldbs56.com^
+||goldbulltrades.com^
 ||goldcapital24.com^
 ||goldclon.cc^
 ||goldcoin-xchange.com^
@@ -7298,6 +7311,7 @@
 ||goldenfxoption.com^
 ||goldenfxoptions.com^
 ||goldenkingcrab.cc^
+||goldenlegacyshares.com^
 ||goldenminersapl.com^
 ||goldenoakasset.com^
 ||goldenoakbk.com^
@@ -7682,6 +7696,7 @@
 ||guanli999.com^
 ||guarana-developer.com^
 ||guaranteedstockmarket.net^
+||guarantees-investors.ru^
 ||guard-proinvest.net^
 ||guardarianb.com^
 ||guardariani.com^
@@ -8394,6 +8409,7 @@
 ||infinitetradesco.com^
 ||infinitexis.com^
 ||infiniti-group.com^
+||infinityinsurance.eu^
 ||infinityinvest.io^
 ||infinitymaxedge.co^
 ||infinitymaxedge.com^
@@ -9323,6 +9339,7 @@
 ||liexs-asset.center^
 ||life-division.com^
 ||lifecollective.top^
+||lifeplus-group.ltd^
 ||lifestocks-investment.org^
 ||lifestylecoin.io^
 ||liffeyloans.com^
@@ -9871,6 +9888,7 @@
 ||maxspace.bet^
 ||maxtonmining.com^
 ||maxtradelimited.com^
+||maxuptrades.com^
 ||maxwinner.vip^
 ||maye.io^
 ||mayfieldedu.com^
@@ -10588,6 +10606,7 @@
 ||neoxmarket.com^
 ||neprogold.com^
 ||neptune-exchange.com^
+||neptunefx.biz^
 ||neqd-inspect.info^
 ||neqd-overview.com^
 ||neqd-wealth.com^
@@ -12226,6 +12245,7 @@
 ||profitifybah.com^
 ||profitinvext.com^
 ||profitix.site^
+||profitlinefinance.com^
 ||profitmasstrade.com^
 ||profitmetro.com^
 ||profitoptionslitepremium.com^
@@ -13257,7 +13277,6 @@
 ||scalarcapitals.com^
 ||scalefolio.org^
 ||scam-assist.co.uk^
-||scam-detector.com^
 ||scamaid.io^
 ||scamvsreal.com^
 ||scandindex.com^
@@ -13570,6 +13589,7 @@
 ||skyslots.xyz^
 ||skystonswap.com^
 ||skysx.org^
+||skywardfx.live^
 ||skywonfx-app.com^
 ||slabu.com^
 ||sljuie.com^
@@ -14096,6 +14116,7 @@
 ||starkvardeborg.top^
 ||starlight-capital.io^
 ||starlinebank.com^
+||starlineunion.com^
 ||starlingtradescapital.com^
 ||starlinkchain.com^
 ||starlinpay.com^
@@ -15103,6 +15124,7 @@
 ||tradecraftacademy.net^
 ||tradecurrency.app^
 ||tradedexter.net^
+||tradedgepip.live^
 ||tradedigitalsolution.com^
 ||tradeduac.co^
 ||tradeduac.net^
@@ -15566,6 +15588,7 @@
 ||tslaexcavationhub.cc^
 ||tslaholdings.com^
 ||tslanet.com^
+||tslatoken.cc^
 ||tslvestcollective.com^
 ||tsqinvest.com^
 ||tsqinvestmentgroup.com^
@@ -15908,6 +15931,7 @@
 ||ultimateglobalstockmarketing.com^
 ||ultimatenexustrade.com^
 ||ultimatepipssignals.com^
+||ultimatesassetsltd.com^
 ||ultimatesprime.com^
 ||ultimatestaker.com^
 ||ultimatestock.org^
@@ -16314,6 +16338,7 @@
 ||venitance.com^
 ||vennancapitals.com^
 ||venoxbit.com^
+||venphex.com^
 ||ventagecrest.com^
 ||ventezo.com^
 ||ventoriumapex.com^
@@ -16326,6 +16351,7 @@
 ||venture-rpm.com^
 ||venture-trade.com^
 ||venturebell.com^
+||venturesdefiglobal.com^
 ||venturexcapitals.com^
 ||venturofx.com^
 ||venturomix.com^
@@ -16390,6 +16416,7 @@
 ||vestipay.com^
 ||vestoai.net^
 ||vestofx.net^
+||vestoraholding.com^
 ||vestoraxcap.online^
 ||vestorholding.com^
 ||vestorpremier.com^
@@ -17182,12 +17209,14 @@
 ||xmagex.com^
 ||xmain.group^
 ||xmaxe.bet^
+||xmeryf.com^
 ||xmeta-fund.com^
 ||xmev.ai^
 ||xmgoldwin.com^
 ||xmlbyl.com^
 ||xmlcloudmining.com^
 ||xmprodr.com^
+||xmprof.com^
 ||xmproglobal.com^
 ||xmprousk.com^
 ||xmprouss.com^
@@ -17474,6 +17503,7 @@
 ||zenithgrow.com^
 ||zenithinvest.online^
 ||zenithloom.org^
+||zenithpoints.ltd^
 ||zenithprimeltd.com^
 ||zenithtradesiq.com^
 ||zenithtradingcapital.com^
