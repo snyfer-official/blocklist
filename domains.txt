@@ -577,6 +577,7 @@ algobanc.org
 algobi.com
 algobitmarket.com
 algobittrade.com
+algoedgemarket.com
 algoedgemarkets.com
 algofetmain.com
 algofusion-ai.com
@@ -692,6 +693,7 @@ alphaflicx.com
 alphaflicx.ltd
 alphaflicx.net
 alphagainium.io
+alphahaven.live
 alphahawktrading.com
 alphaholdingsinvestment.com
 alphaiberia.com
@@ -706,6 +708,7 @@ alphamindaipro.com
 alphanexglob.com
 alphaoilhedgefund.org
 alphaoptions.live
+alphaoptionspro.live
 alphapartner.vip
 alphapathfnce.com
 alphapipscapital.com
@@ -716,6 +719,7 @@ alphareturns.org
 alphashieldearn.com
 alphashieldstrade.com
 alphasmartchains.com
+alphaspheremarkets.com
 alphastockinvestment.com
 alphastockoption.com
 alphasynctrade.com
@@ -778,6 +782,7 @@ altradersglobal-inv.com
 altrafinex.com
 altreserve.net
 altrexon.top
+altrimix.com
 altrix-edge.org
 altrixedgetrading.com
 altrobit.org
@@ -897,6 +902,7 @@ anchorvest.pro
 anconatrade.com
 ancora-finzen.com
 ancrage-valnex.pro
+anderfinancialservices.com
 andes.casa
 andratradingbot.com
 andromarkets.com
@@ -914,6 +920,7 @@ anomalybusiness.com
 anru-invest.com
 antarticwallet.com
 antevex.com
+anthropoolfuture.com
 antintex.com
 antonxcapital.lat
 anubisglobex.com
@@ -962,6 +969,7 @@ apexempires.com
 apexequitys.ink
 apexexpertinvestment.com
 apexfinance.cc
+apexfinancemarketing.com
 apexfirme.cc
 apexforexexchange.com
 apexforges.com
@@ -1036,6 +1044,7 @@ apidoge.com
 apiinu.com
 apiontrade.com
 apixfx.com
+apllcinv.icu
 apmmarketsvr.com
 apmoskva.ru
 apoassets.com
@@ -1127,6 +1136,7 @@ ardovex.com
 ardovextrade.com
 areabarsa.com
 aremining.app
+arenaglobalfinance.com
 areoka.com
 aretephoenix.com
 arexueth.com
@@ -1529,6 +1539,7 @@ avatradtel.com
 avatradzet.com
 avatrdaeus.vip
 avawellscapitals.live
+avaxholdings.info
 avaxtitan.com
 avcs-systemgroupp.com
 avennipro.com
@@ -2063,6 +2074,7 @@ bit-finc.live
 bit-fy.com
 bit-get.live
 bit-liqud.com
+bit-markets.com
 bit-mod.com
 bit-nexa.com
 bit-save.com
@@ -2139,6 +2151,7 @@ bitcoinlexipro.com
 bitcoinloaner.com
 bitcoinlucky.xyz
 bitcoinminetrix.com
+bitcoinminingcity.top
 bitcoinorgvn.com
 bitcoinpia.com
 bitcoinstuk.com
@@ -2152,6 +2165,7 @@ bitcore360.com
 bitcorox.com
 bitcosend.com
 bitcowox.com
+bitcrest.live
 bitdexappv3.live
 bitdexchain.com
 bitdox.net
@@ -2189,6 +2203,7 @@ bitfeen.com
 bitfelo.com
 bitfeno.com
 bitfieotc.com
+bitfinanz-ag.com
 bitfinex-ai-3.com
 bitfinex-ai3.com
 bitfinex-exchange.com
@@ -2657,7 +2672,9 @@ bluepeak-growth.com
 bluepeakasset.com
 bluepeakcpital.com
 bluepeakexchange.com
+bluepeakoption.com
 bluepeaktradings.com
+bluepips.net
 bluepointmarket.com
 blueportinvest.com
 blueprimecapitals.com
@@ -2770,6 +2787,7 @@ boruiefi.com
 bosawin.com
 bot008.com
 botanicalcushions.com
+botprofitai.com
 bouncepact.live
 bourfxtrade.net
 boveifin.com
@@ -3052,6 +3070,7 @@ buy-kadvun.com
 buy-kvaden.com
 buy0g.shop
 buybiteasy.com
+buybitrading.live
 buybtr.shop
 buybynova.com
 buygoldca.com
@@ -3270,6 +3289,7 @@ capitalsinvestments.com
 capitalsn.com
 capitalsstrategypro.com
 capitalstockdynamite.com
+capitalstockmarkert.com
 capitalstone.ca
 capitalsystematics.online
 capitaltbills.com
@@ -3321,6 +3341,7 @@ carescrypto.com
 carfis.org
 cargilfse.ltd
 cargillfse.ltd
+caribexploresystem.com
 caribprosystem.com
 carlislecapx.com
 carnegiefinanceco.uk
@@ -3500,6 +3521,7 @@ cexcu.com
 cexiofxus.com
 cexioproltd.com
 cexlivetrading.org
+cexonprime.com
 cezonex.com
 cf-trading.com
 cfbit.com
@@ -3685,6 +3707,7 @@ cloudminestar.com
 cloudminnebase.com
 cloudpeakicl.com
 cloudplusmall.com
+cloudquiver.live
 cloudspires.cyou
 cloudtrading.co
 cloutchainsfx.ltd
@@ -3706,6 +3729,7 @@ cmegrouplab.com
 cmegroupsdex.com
 cmenx.com
 cmeproglobal.org
+cmf247trading.com
 cmglobalmarket.com
 cmglobals.com
 cmlcfd.com
@@ -4153,6 +4177,7 @@ coureagleslogistics.com
 courexpresst.com
 coursefx.com
 covenantxpro.com
+coventrymgmt.com
 coventrysecuritiesllc.org
 coverfast.io
 coversimply.com
@@ -4978,6 +5003,7 @@ digitalledgersx.com
 digitalmarketinggood.live
 digitalmassets.ltd
 digitalmintcore.com
+digitalnestglobal.com
 digitalni-vlozor.com
 digitaloptions.site
 digitalprobuilder.com
@@ -5054,10 +5080,12 @@ dldj.exchange
 dlmsvip.com
 dlobit.com
 dluxprofit.com
+dmbsignals.com
 dmenergy.us
 dmgip.com
 dmpgroups.com
 dmxbit.com
+dnainvests.com
 dntmoube.com
 dnxgroup.com
 do.exchange
@@ -5499,6 +5527,7 @@ eldroslutharis-es.com
 eldroslutharis.es
 eldroslutharis.info
 eldroslutharis.org
+eleganttrade.org
 elementex.pro
 elementex.tech
 elev8.com
@@ -5580,6 +5609,7 @@ elitetradingsol.com
 elitetrustglobal.org
 elitevestpro.com
 eliteviewtrades.com
+elitevisiononline.com
 elitgloballtd.online
 elixirvest.com
 elixroll.com
@@ -5700,6 +5730,7 @@ entsphere.com
 environmentalmaintenances.com
 environmentsfund.com
 enxcapital.com
+enxlog.info
 enybex.com
 enzabit.com
 eobot.net
@@ -5738,6 +5769,7 @@ equinoxfinmrt.live
 equinoxreitpro.com
 equitable-gaintor.com
 equitefarms.io
+equitiesflows.com
 equitiess.com
 equitocapitapro.com
 equitrixinvestment.com
@@ -5788,6 +5820,7 @@ eryxavinit.com
 eryxavinsweden.com
 esafevault.com
 esattamercovia.cyou
+esbooking.com
 escovest.com
 escrohub.com
 esettrading.com
@@ -5900,6 +5933,7 @@ evergreencapitalai.com
 evergreeninvltd.org
 evergrowthanalysis.com
 everisenetwork.com
+everiumfinance.com
 everix-edge.io
 everlastton.com
 evermontstrategiccapital.com
@@ -7384,6 +7418,7 @@ globalimpactltd.com
 globalindex.cc
 globalindexfx.com
 globalinsurancebank.com
+globalinvestmentexpert.com
 globalitcsupport.net
 globalmarketfx.com
 globalmarkethub.io
@@ -7432,9 +7467,12 @@ globalstocksvest.com
 globalswifttrade.com
 globaltargetfx.io
 globaltechholdingsltd.com
+globalteslamarket.com
 globaltimeinvest.com
 globaltradeassets.com
 globaltradeautofx.net
+globaltraders.capital
+globaltradesmarkets.com
 globaltradespot.com
 globaltradestatiionltd.co
 globaltradezentrix.com
@@ -7584,6 +7622,7 @@ goldenworldstock.com
 goldenxmarket.live
 goldextrade.com
 goldfinanceltd.com
+goldflix-group.ltd
 goldfuture.vip
 goldfxbb.com
 goldgcapital.com
@@ -8537,6 +8576,7 @@ icglobalengine.com
 icinvesting.com
 icl-markets.com
 iclmarkets.com
+iclubdividends.com
 iclubsglobal.com
 icm212.com
 icmarkets-invests.com
@@ -8768,6 +8808,7 @@ instantfino.com
 instantflashusdt.com
 instantfundedaccount.com
 instantlenen.com
+instantmaxminer.com
 instantswaps.com
 instantterlix.com
 instanttrade.net
@@ -8819,6 +8860,7 @@ international-payments.cc
 international-wf.com
 internationalfinanceserve.com
 internationalreserve.com
+internetcashs.com
 internetportal.info
 interpacific.online
 interstellar-probes.org
@@ -8941,6 +8983,7 @@ iodefi.com
 iokcop.com
 ionmining.com
 ipo.capital
+ipohorizon.com
 iprimecapital.com
 iprimera.io
 ipsum-inv.pro
@@ -8983,6 +9026,7 @@ ironvexgroup.com
 ironwave-capital.com
 ironwavecapital.com
 ironwealtharc.io
+ironwellvault.com
 ironwood-revolux.com
 ironwoodcapitalalliance.com
 ironwoodcomm.com
@@ -9419,6 +9463,7 @@ kredietzeker.com
 kreminer.org
 kreolbit.com
 krestfodler.com
+krhcapitals.com
 krif.fund
 kringeninc.com
 kriosxusdt.vip
@@ -9884,6 +9929,7 @@ lumenexi.com
 lumenvestassets.com
 lumenx.su
 lumetixcomp.org
+lumetraholds.com
 lumiar-bitrow.com
 lumina-myr.com
 lumina-platform.org
@@ -9903,6 +9949,7 @@ lumistarglobalcapital.com
 lumitrixglobal.com
 lumixxchg.com
 lumoex.com
+lumorexmarkets.net
 lun-defi.com
 luna-capitals.com
 luna-capitals.net
@@ -10010,6 +10057,7 @@ lzminer.com
 m-capitals.cloud
 m-funds.net
 m1gqv.it
+m2.sale
 m2recovered.com
 maca-group.org
 maclear.ch
@@ -12008,6 +12056,7 @@ pasopay.org
 passionvest.com
 passiv.finance
 passiveplaydailypips.live
+pathfander.com
 pathselector.app
 patobyte.com
 patrionaitrade.net
@@ -12173,6 +12222,7 @@ phixosplat.com
 phoebus-finance.com
 phoenixadvise.com
 phoenixgen.org
+phoenixxstocks.com
 phoinexes.com
 phtmviso.com
 phtmyjhg.com
@@ -12901,6 +12951,7 @@ qsjt66.com
 qtbroker.com
 qtcpcoin.com
 qtusl.com
+qualifiedexperties.com
 qualityx.hk
 qualmartinc.com
 quan-tarax.com
@@ -13058,6 +13109,7 @@ qumasai.org
 quocoin.com
 quorixtrading.com
 quoteklerk.com
+quotemego.com
 quotexfunding.com
 quotientex.net
 quranium.org
@@ -13808,6 +13860,7 @@ securedmcu.com
 securedoptiontrade.com
 securedprimetrade.com
 secureease-activation.com
+securefinanceledger.com
 securefinflows.com
 securelifedigitalassets.com
 secureport-wealth.com
@@ -13946,6 +13999,7 @@ shopgreendispensarymenu.com
 shophealthypetz.com
 shopifynetlink.com
 shopk7.vip
+shoplabsinc.com
 shopmall-equ.com
 shopping146.com
 shoppingretailstore.vip
@@ -14154,6 +14208,7 @@ smartxploretrades.com
 smartyieldcore.com
 smbcfin.com
 smcglobalfx.com
+smcopyx.com
 smela-fundovka.com
 smh-markets.com
 smitrade.eu
@@ -15548,6 +15603,7 @@ topchainfx.com
 topclassmines.com
 topdigitalinvest.com
 topearnerexchange.com
+topendexhub.com
 topeurofx.com
 topexchangeinvestment.live
 topexpertminers24.live
@@ -15775,6 +15831,7 @@ tradeorbitxmarkets.com
 tradepassfxea.com
 tradepayxpress.com
 tradepilotai.live
+tradepluspro.com
 tradeplux.com
 tradepointplc.com
 tradeprimefex.sbs
@@ -15956,6 +16013,7 @@ transhipservice.com
 transientae.com
 transit-exceeded.com
 transitnestcorp.com
+transitsasset.com
 trardun.site
 travelnetty.pro
 traxonpro.com
@@ -16619,6 +16677,7 @@ universalprofitsociety.com
 universalqnetfund.com
 universalstudiovip.com
 universaltrust-capltal.com
+unlimitedtradingsession.xyz
 unrive.io
 unsiki.art
 uogohsk.top
@@ -16727,6 +16786,7 @@ uvsbit.com
 uwcmbe.com
 uxento.io
 uxotrade.co
+uxotrade.net
 uzex.bio
 uzex.com
 uzex.lol
@@ -16801,6 +16861,7 @@ valorixai-it.fyi
 valorixai.it
 valorstead.biz
 valorum-ag.com
+valoryfxmarket.com
 valoskins.top
 valourstaking.net
 valrventure.com
@@ -16883,6 +16944,7 @@ vebit.io
 vebson.com
 vecoom.com
 vectabix.com
+vectorexpress.online
 vectororg.com
 veeagain.com
 veedcoin.com
@@ -16953,6 +17015,7 @@ vennancapitals.com
 venoxbit.com
 venphex.com
 ventagecrest.com
+ventextfx.pro
 ventezo.com
 ventoriumapex.com
 ventoux-pte.com
@@ -16977,6 +17040,7 @@ venuxtrade.com
 veocex.com
 veraxisgbs.com
 verbiter.com
+verdantam.com
 verdanx.com
 verfins.com
 veriasset.com
@@ -17016,6 +17080,7 @@ vertexongroup.com
 vertexprocapital.com
 vertexpublishinghouse.online
 vertextrade.click
+vertextrd.click
 vertexxchange.com
 vertify.xyz
 vertomessenger.us
@@ -17583,6 +17648,7 @@ wildsatz.com
 wildstake.bet
 williamscapmgmttrust.com
 willoxfx.com
+wilsinvestment.com
 wiltoncapitallimited.com
 wiltoncapitalltd.com
 wiltonengineering.co.uk
@@ -17627,6 +17693,7 @@ wirenow.app
 wirezee-ltd.co
 wisdomelite-pro.com
 wisdomelite.top
+wisedatarec.com
 wiseequites.com
 wiseinvestmentltd.com
 wiserates.org
@@ -17659,6 +17726,7 @@ woahex.com
 wodcas.com
 woldmonridge.org
 wolexbet.com
+wolexh.live
 wolf-markets.com
 wolfofwallstreetllc.com
 wolvestrades.com
@@ -17761,6 +17829,7 @@ xai62f.com
 xaicore.org
 xaiflux.com
 xaifusion.com
+xaiinv.com
 xairtrade.com
 xaitoken.app
 xaitonium.com
@@ -17785,6 +17854,7 @@ xbt-direct.net
 xbtdirectpro.net
 xbull.top
 xbusinessservice.com
+xcapitalflow.com
 xcapitalmgmt.com
 xcegamb.cc
 xcg.cc
@@ -18198,6 +18268,7 @@ zenquantai.com
 zenriobedt.com
 zenstox.com
 zenstox.net
+zenstratrad.com
 zenterovlima.pro
 zenthex.net
 zenthorblocks.com
