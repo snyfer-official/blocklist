@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-10-03T03:13:13.071Z
-# Domains: 18444
+# Source updated: 2026-10-04T03:13:13.957Z
+# Domains: 18514
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -547,6 +547,7 @@
 0.0.0.0 alara-cure.ltd
 0.0.0.0 alaracure.net
 0.0.0.0 alatswealthmanagement.com
+0.0.0.0 alazholdings.com
 0.0.0.0 albabrokers.com
 0.0.0.0 albarka.top
 0.0.0.0 albaswissfx.com
@@ -688,6 +689,7 @@
 0.0.0.0 alphachain-mal.com
 0.0.0.0 alphaconnectapp.com
 0.0.0.0 alphacopytrades.com
+0.0.0.0 alphacores.org
 0.0.0.0 alphacrescentventures.net
 0.0.0.0 alphacrestbridge.com
 0.0.0.0 alphadextrades.com
@@ -1155,6 +1157,7 @@
 0.0.0.0 arizona-trade.com
 0.0.0.0 ark-trust.org
 0.0.0.0 arkanix.site
+0.0.0.0 arkaris27.ru
 0.0.0.0 arkbit-luxen.io
 0.0.0.0 arkenstone.gold
 0.0.0.0 arkinvestltd.com
@@ -1554,6 +1557,7 @@
 0.0.0.0 aventorpartners.com
 0.0.0.0 aventraceexpert.com
 0.0.0.0 averix-core.net
+0.0.0.0 averixa.online
 0.0.0.0 averixcore-pro.net
 0.0.0.0 averixcore.net
 0.0.0.0 averixcorepro.net
@@ -2304,6 +2308,7 @@
 0.0.0.0 bitmafe.com
 0.0.0.0 bitmain-miners.org
 0.0.0.0 bitmarkap.com
+0.0.0.0 bitmarketslogin.com
 0.0.0.0 bitmart.com
 0.0.0.0 bitmartbtc.com
 0.0.0.0 bitmartpro.com
@@ -2444,6 +2449,7 @@
 0.0.0.0 bitspectrex.com
 0.0.0.0 bitspreadfx.net
 0.0.0.0 bitstampfx.com
+0.0.0.0 bitstarkltd.com
 0.0.0.0 bitstockminingstream.com
 0.0.0.0 bitsuch.com
 0.0.0.0 bitsurg.org
@@ -3029,6 +3035,7 @@
 0.0.0.0 bullsaxomarkets.com
 0.0.0.0 bullscapee.com
 0.0.0.0 bullscripttrd.com
+0.0.0.0 bullsedgeassets.com
 0.0.0.0 bullsexchanger.com
 0.0.0.0 bullsharecapital.com
 0.0.0.0 bullshareus.com
@@ -3239,6 +3246,7 @@
 0.0.0.0 capitalai-ltd.com
 0.0.0.0 capitalaltrion.com
 0.0.0.0 capitalassetspro.net
+0.0.0.0 capitalaxis.net
 0.0.0.0 capitalbalanz.com
 0.0.0.0 capitalbit.io
 0.0.0.0 capitalbloomer.com
@@ -3455,6 +3463,7 @@
 0.0.0.0 cdween.net
 0.0.0.0 cdx818.it
 0.0.0.0 cebowin.com
+0.0.0.0 cedarnotehubm.info
 0.0.0.0 cedricbergans.com
 0.0.0.0 cee6.shop
 0.0.0.0 ceexapp.com
@@ -4814,6 +4823,7 @@
 0.0.0.0 deluxchian.com
 0.0.0.0 deluxe-empire.top
 0.0.0.0 deluxedigitalmarket.com
+0.0.0.0 deluxxegloball.ltd
 0.0.0.0 dembit.com
 0.0.0.0 demetrixcoins.com
 0.0.0.0 demisto.xyz
@@ -5011,6 +5021,7 @@
 0.0.0.0 digitalmintcore.com
 0.0.0.0 digitalnestglobal.com
 0.0.0.0 digitalni-vlozor.com
+0.0.0.0 digitaloptions.net
 0.0.0.0 digitaloptions.site
 0.0.0.0 digitalprobuilder.com
 0.0.0.0 digitalsect.com
@@ -5052,6 +5063,7 @@
 0.0.0.0 directiveaa.com
 0.0.0.0 directiveex.com
 0.0.0.0 directverge.com
+0.0.0.0 disbull.org
 0.0.0.0 disperstockspip.net
 0.0.0.0 dissybet.com
 0.0.0.0 distributionsportal-celsiusnetwork.com
@@ -5144,6 +5156,7 @@
 0.0.0.0 domesticcareandrepair.co.uk
 0.0.0.0 domexglobal.com
 0.0.0.0 dominanrise.com
+0.0.0.0 dominanrise.org
 0.0.0.0 dominioncalyxon.com
 0.0.0.0 dominionoptions.com
 0.0.0.0 dominionplatform.online
@@ -5403,6 +5416,7 @@
 0.0.0.0 easynetfinancebnk.com
 0.0.0.0 easyoptiontrade.live
 0.0.0.0 easystocks.org
+0.0.0.0 easytrademarkets.com
 0.0.0.0 easytradeus.com
 0.0.0.0 easytrdmarkets.online
 0.0.0.0 eatfruitinvest.com
@@ -5422,6 +5436,7 @@
 0.0.0.0 ecg-gosheninvestmentprogram.com
 0.0.0.0 echelondao.com
 0.0.0.0 echelonmark.com
+0.0.0.0 echelonpips.com
 0.0.0.0 echelonprimemarket.com
 0.0.0.0 echobit.global
 0.0.0.0 echoearnaffiliate.com
@@ -5447,6 +5462,7 @@
 0.0.0.0 ecoscloud.org
 0.0.0.0 ecosmartfunds.com
 0.0.0.0 ecotinys.com
+0.0.0.0 ecotraderhub.ltd
 0.0.0.0 ecurrencytrade.us
 0.0.0.0 ecxtrade.com
 0.0.0.0 edelvairepartner.com
@@ -5512,8 +5528,10 @@
 0.0.0.0 eisenbergbank.com
 0.0.0.0 eizonhomes.com
 0.0.0.0 ekatommuriouxos.gr
+0.0.0.0 ekdefi.com
 0.0.0.0 ekeoam.com
 0.0.0.0 eketaprime.com
+0.0.0.0 elafure.com
 0.0.0.0 elan-monrevo.com
 0.0.0.0 elandex.com
 0.0.0.0 elano.ltd
@@ -5537,6 +5555,7 @@
 0.0.0.0 elementex.pro
 0.0.0.0 elementex.tech
 0.0.0.0 elev8.com
+0.0.0.0 elevantaservices.com
 0.0.0.0 elevarinvt.com
 0.0.0.0 elevatedthirdyhb.cc
 0.0.0.0 elevatenorthadvisors.com
@@ -5565,6 +5584,7 @@
 0.0.0.0 elitecloudltd.com
 0.0.0.0 elitecoretradex.live
 0.0.0.0 elitecryptoexchange.live
+0.0.0.0 elitedigmarkets.com
 0.0.0.0 eliteempiresworld.com
 0.0.0.0 elitefinanceltd.net
 0.0.0.0 elitefinex.com
@@ -5783,6 +5803,7 @@
 0.0.0.0 equitros.ac
 0.0.0.0 equitros.co
 0.0.0.0 equitros.io
+0.0.0.0 equittrade.com
 0.0.0.0 equity-stocks.com
 0.0.0.0 equitycapitalmarket.co
 0.0.0.0 equitycapitalspartner.com
@@ -5943,6 +5964,7 @@
 0.0.0.0 everix-edge.io
 0.0.0.0 everlastton.com
 0.0.0.0 evermontstrategiccapital.com
+0.0.0.0 everprimeoak.com
 0.0.0.0 eversteadequitymarket.live
 0.0.0.0 eversteadfinances.com
 0.0.0.0 eversteadtrades.com
@@ -6224,6 +6246,7 @@
 0.0.0.0 fcxtrade.com
 0.0.0.0 fdasv.com
 0.0.0.0 fdctrade.asia
+0.0.0.0 fdinvestmentsapo.com
 0.0.0.0 fdinvestmentsmrl.com
 0.0.0.0 fdinvestmentsmrw.com
 0.0.0.0 fdmlimited.co.uk
@@ -6655,6 +6678,7 @@
 0.0.0.0 flipido.com
 0.0.0.0 flipsterusdt.com
 0.0.0.0 fliptradegroup.com
+0.0.0.0 fliptradxnow.com
 0.0.0.0 flixbit.io
 0.0.0.0 fllbmfx.com
 0.0.0.0 fllimited.co.uk
@@ -6669,7 +6693,9 @@
 0.0.0.0 flowingfunded.com
 0.0.0.0 flowmarkets.us
 0.0.0.0 flowscapitals.ltd
+0.0.0.0 flowwealth.us
 0.0.0.0 flowx.hk
+0.0.0.0 floxoptionnest.com
 0.0.0.0 fluecoin.com
 0.0.0.0 fluencedrop.digital
 0.0.0.0 fluentcredit.dpdns.org
@@ -6730,6 +6756,7 @@
 0.0.0.0 fonozo.com
 0.0.0.0 fontus-singapore.com
 0.0.0.0 fontustrader.com
+0.0.0.0 fopquantumcapital.com
 0.0.0.0 forbes-exchange.org
 0.0.0.0 forcelo.com
 0.0.0.0 forcexcells.com
@@ -6922,6 +6949,7 @@
 0.0.0.0 fs2969.com
 0.0.0.0 fsasvg.com
 0.0.0.0 fse.cc
+0.0.0.0 fstrade.market
 0.0.0.0 fststunion.com
 0.0.0.0 ft-group.co
 0.0.0.0 ft211.com
@@ -7195,6 +7223,7 @@
 0.0.0.0 gdckgroup.co
 0.0.0.0 gdff36.it
 0.0.0.0 gdinvestmentltd.org
+0.0.0.0 gdkmata9pro.com
 0.0.0.0 gdlpltd.com
 0.0.0.0 gdminingpro.com
 0.0.0.0 gdqcoin.com
@@ -7439,6 +7468,7 @@
 0.0.0.0 globalmers.com
 0.0.0.0 globalmetainvest.com
 0.0.0.0 globalmetatrading.pro
+0.0.0.0 globalmine.net
 0.0.0.0 globalminingassets.live
 0.0.0.0 globalminttrade.com
 0.0.0.0 globalmoney.store
@@ -7528,6 +7558,7 @@
 0.0.0.0 glodbittrade.com
 0.0.0.0 glofen.com
 0.0.0.0 glofintrust.com
+0.0.0.0 glomartde.online
 0.0.0.0 gloprime.live
 0.0.0.0 glorex-fundingltd.com
 0.0.0.0 glorioilfx.com
@@ -8213,6 +8244,7 @@
 0.0.0.0 hedgefusioncapital.com
 0.0.0.0 hedgemarketoption.com
 0.0.0.0 hedgeperformance.com
+0.0.0.0 hedgeprimemarket.com
 0.0.0.0 hedger.one
 0.0.0.0 heelgainers.com
 0.0.0.0 heidax.com
@@ -8275,6 +8307,7 @@
 0.0.0.0 heritage-miners.com
 0.0.0.0 heritagebasefinance.net
 0.0.0.0 heritagecryptocapital.com
+0.0.0.0 heritagefxsigns.com
 0.0.0.0 heritageprofit.com
 0.0.0.0 heritageprofx.com
 0.0.0.0 hermaax.org
@@ -8784,6 +8817,7 @@
 0.0.0.0 initiativetrade.com
 0.0.0.0 inlightradeltd.com
 0.0.0.0 inloovi.com
+0.0.0.0 inmarket.live
 0.0.0.0 inmarkethex.com
 0.0.0.0 inmediatonystex.es
 0.0.0.0 inningz-wealth.com
@@ -8941,6 +8975,7 @@
 0.0.0.0 investkapital.se
 0.0.0.0 investkdn.com
 0.0.0.0 investklub.online
+0.0.0.0 investment-b.com
 0.0.0.0 investment-peak.com
 0.0.0.0 investmentputo.top
 0.0.0.0 investmentsolutionsfunds.eu
@@ -8959,6 +8994,7 @@
 0.0.0.0 investproai.fr
 0.0.0.0 investprotrading.com
 0.0.0.0 investsavearn.com
+0.0.0.0 investscaribbean.com
 0.0.0.0 investserch.fyi
 0.0.0.0 investsiqlimited.com
 0.0.0.0 investspheretrading.com
@@ -9625,6 +9661,7 @@
 0.0.0.0 ledgeractivation.com
 0.0.0.0 ledgercheckapi.com
 0.0.0.0 ledgercoinshield.com
+0.0.0.0 ledgerfxinvestment.com
 0.0.0.0 ledgergrowthfund.ltd
 0.0.0.0 ledgerholm.com
 0.0.0.0 ledgermarketsglobal.com
@@ -9772,6 +9809,7 @@
 0.0.0.0 liongateinvestment.trade
 0.0.0.0 lionscrypto.com
 0.0.0.0 liquidbrokerfx.com
+0.0.0.0 liquidcentralassets.com
 0.0.0.0 liquiditycapital-group.com
 0.0.0.0 liquidix.io
 0.0.0.0 lirdex.com
@@ -9950,6 +9988,7 @@
 0.0.0.0 luminexsto.com
 0.0.0.0 luminobit.com
 0.0.0.0 luminouswinner.com
+0.0.0.0 luminovaults.com
 0.0.0.0 luminxinvestors.com
 0.0.0.0 lumistarglobalcapital.com
 0.0.0.0 lumitrixglobal.com
@@ -9987,6 +10026,7 @@
 0.0.0.0 lunoglobal.online
 0.0.0.0 lunopex.com
 0.0.0.0 lunosbit.com
+0.0.0.0 lunotrd.com
 0.0.0.0 lurodex.com
 0.0.0.0 lushassets.com
 0.0.0.0 lustock.com
@@ -10557,6 +10597,7 @@
 0.0.0.0 milase.com
 0.0.0.0 milase.info
 0.0.0.0 milbit.net
+0.0.0.0 mileshaven.org
 0.0.0.0 milleniumchain.com
 0.0.0.0 millennium-trading.co
 0.0.0.0 millenniumprotrade.com
@@ -11026,6 +11067,7 @@
 0.0.0.0 neocux.com
 0.0.0.0 neoinvest-group.com
 0.0.0.0 neoliftcore.com
+0.0.0.0 neomarket.live
 0.0.0.0 neomarkets.io
 0.0.0.0 neomine.cloud
 0.0.0.0 neon-play.cc
@@ -11092,6 +11134,7 @@
 0.0.0.0 neuraxstock.com
 0.0.0.0 neuricinvestment.com
 0.0.0.0 neurofluxpro.sbs
+0.0.0.0 neurosigmaaitrading.io
 0.0.0.0 neurotechlabs.org
 0.0.0.0 neutys.net
 0.0.0.0 neuve-markvere.com
@@ -11162,6 +11205,7 @@
 0.0.0.0 nexarbit-exchange.com
 0.0.0.0 nexatradellc.com
 0.0.0.0 nexatrusts.com
+0.0.0.0 nexavelholding.com
 0.0.0.0 nexaweb.live
 0.0.0.0 nexbitsafe.com
 0.0.0.0 nexblockflow.com
@@ -11207,6 +11251,7 @@
 0.0.0.0 nexoramarketholdings.com
 0.0.0.0 nexoraprimefx.com
 0.0.0.0 nexorcapswift.com
+0.0.0.0 nexorixs.com
 0.0.0.0 nexorlyprism.com
 0.0.0.0 nexoro-solution.com
 0.0.0.0 nexosmarttraders.com
@@ -11443,6 +11488,7 @@
 0.0.0.0 novaridgeassets.com
 0.0.0.0 novariontrade.icu
 0.0.0.0 novarisecapital.pro
+0.0.0.0 novarispoint.live
 0.0.0.0 novarixflexai.net
 0.0.0.0 novarixtrader39flex.pro
 0.0.0.0 novarmint.com
@@ -11451,6 +11497,7 @@
 0.0.0.0 novastrade.com
 0.0.0.0 novaswiftaccess.com
 0.0.0.0 novatask.uk
+0.0.0.0 novatdmarkets.live
 0.0.0.0 novate-cfd.com
 0.0.0.0 novater.io
 0.0.0.0 novatradebase.com
@@ -11661,6 +11708,7 @@
 0.0.0.0 ollatrade.com
 0.0.0.0 olqureno.com
 0.0.0.0 olutrixonsweden.com
+0.0.0.0 olxavastrade.com
 0.0.0.0 olylim.com
 0.0.0.0 olymp-options.com
 0.0.0.0 olympicoptionsmarkets.live
@@ -12083,6 +12131,7 @@
 0.0.0.0 paybiscapitals.com
 0.0.0.0 paychs.com
 0.0.0.0 paycoinsbee.com
+0.0.0.0 payeecapital.pages.dev
 0.0.0.0 payeer.com
 0.0.0.0 paylinxtrades.com
 0.0.0.0 paylynndeutsch.com
@@ -12255,6 +12304,7 @@
 0.0.0.0 pinacletrade.co
 0.0.0.0 pinakineliquidity.com
 0.0.0.0 pinance.io
+0.0.0.0 pincapinvest.com
 0.0.0.0 pineconemining.com
 0.0.0.0 pines-capitalltd.com
 0.0.0.0 pinexfinancechain.com
@@ -12627,6 +12677,7 @@
 0.0.0.0 primepropx.com
 0.0.0.0 primerdroidscripts.pro
 0.0.0.0 primeregiscapital.com
+0.0.0.0 primerepublicansplatform.com
 0.0.0.0 primermarkets.com
 0.0.0.0 primeryswissgroup.cc
 0.0.0.0 primes-trade.com
@@ -13007,6 +13058,7 @@
 0.0.0.0 quantor.biz
 0.0.0.0 quantoracapitalfx.com
 0.0.0.0 quantoraforex.com
+0.0.0.0 quantoratrade.top
 0.0.0.0 quantoria-markets.app
 0.0.0.0 quantoria-markets.com
 0.0.0.0 quantoria-markets.do
@@ -13317,6 +13369,7 @@
 0.0.0.0 reliancensured.ltd
 0.0.0.0 reliantassetltd.com
 0.0.0.0 reltexg.com
+0.0.0.0 reltexpips.live
 0.0.0.0 remarketsolutions.com
 0.0.0.0 remaxcompanies.com
 0.0.0.0 remaxlimited.com
@@ -13501,6 +13554,7 @@
 0.0.0.0 rkwqke.top
 0.0.0.0 rl-expressoptions.org
 0.0.0.0 rlandpart.online
+0.0.0.0 rmdprtcl.online
 0.0.0.0 rmsaofficial.co
 0.0.0.0 rmtfinancial.pro
 0.0.0.0 roacoin.com
@@ -13578,6 +13632,7 @@
 0.0.0.0 roswellbrinkman.com
 0.0.0.0 rotbix.com
 0.0.0.0 rotgame.com
+0.0.0.0 rothvault.live
 0.0.0.0 rough-deals.top
 0.0.0.0 roundbroker.com
 0.0.0.0 routesignals.live
@@ -14163,10 +14218,12 @@
 0.0.0.0 smartdigitaltrade.live
 0.0.0.0 smartdirect500.com
 0.0.0.0 smartearnoption.com
+0.0.0.0 smartesttrade.pro
 0.0.0.0 smartexchangesplatform.com
 0.0.0.0 smartexpertradeltd.com
 0.0.0.0 smartextrading.com
 0.0.0.0 smartflare-sync.com
+0.0.0.0 smartfundaitrade.com
 0.0.0.0 smartfundtrade.com
 0.0.0.0 smartfutureasset.com
 0.0.0.0 smartfxbot.com
@@ -14220,6 +14277,7 @@
 0.0.0.0 smitrade.eu
 0.0.0.0 smrtalgo.com
 0.0.0.0 smttradingcaptial.com
+0.0.0.0 smtyieldgroup.live
 0.0.0.0 snabb-fluxrad.com
 0.0.0.0 snacommunity.com
 0.0.0.0 snagshout-us.com
@@ -14674,6 +14732,7 @@
 0.0.0.0 staloncreditsu.net
 0.0.0.0 stan.store
 0.0.0.0 stanance.com
+0.0.0.0 stanbicprimetrade.com
 0.0.0.0 standardassetlimited.com
 0.0.0.0 standardassetsfin.com
 0.0.0.0 standardassettrade.com
@@ -14806,6 +14865,7 @@
 0.0.0.0 stock-100.com
 0.0.0.0 stock3finance-trade.com
 0.0.0.0 stockblastpro-ai.net
+0.0.0.0 stockbridgebullrisemarket.com
 0.0.0.0 stockbrokersltd.com
 0.0.0.0 stockerprotrade.org
 0.0.0.0 stockextradeinc.online
@@ -14827,6 +14887,7 @@
 0.0.0.0 stocksbull.com
 0.0.0.0 stockscale.io
 0.0.0.0 stockscon.online
+0.0.0.0 stocksdailytrends.com
 0.0.0.0 stocksexplorer.live
 0.0.0.0 stocksprofits.com
 0.0.0.0 stockstrategy.click
@@ -15462,6 +15523,7 @@
 0.0.0.0 thrivalance.com
 0.0.0.0 thrivecapital.ltd
 0.0.0.0 thrivefin.ai
+0.0.0.0 thrivesfinance.com
 0.0.0.0 throgmortonwealth.com
 0.0.0.0 thrustvista.live
 0.0.0.0 thryva.cyou
@@ -15829,6 +15891,7 @@
 0.0.0.0 tradenestoptions.com
 0.0.0.0 tradenexa.world
 0.0.0.0 tradenext.icu
+0.0.0.0 tradenords.com
 0.0.0.0 tradenova.eu.com
 0.0.0.0 tradeogre.uk
 0.0.0.0 tradeon500.com
@@ -15977,6 +16040,7 @@
 0.0.0.0 tradingsaham-asnb.com
 0.0.0.0 tradingscoin.net
 0.0.0.0 tradingsinsights.com
+0.0.0.0 tradingspaceworldwide.com
 0.0.0.0 tradingspire.com
 0.0.0.0 tradingstakes-explorer.com
 0.0.0.0 tradingstmbak.com
@@ -16020,6 +16084,7 @@
 0.0.0.0 transit-exceeded.com
 0.0.0.0 transitnestcorp.com
 0.0.0.0 transitsasset.com
+0.0.0.0 transveracapital.com
 0.0.0.0 trardun.site
 0.0.0.0 travelnetty.pro
 0.0.0.0 traxonpro.com
@@ -16952,6 +17017,7 @@
 0.0.0.0 vectabix.com
 0.0.0.0 vectorexpress.online
 0.0.0.0 vectororg.com
+0.0.0.0 vectrasecure.online
 0.0.0.0 veeagain.com
 0.0.0.0 veedcoin.com
 0.0.0.0 vega-gainlux.com
@@ -16977,6 +17043,7 @@
 0.0.0.0 velionluck.com
 0.0.0.0 velionmarkets.org
 0.0.0.0 velionx.vip
+0.0.0.0 velkorinc.com
 0.0.0.0 vellionpro500.com
 0.0.0.0 vellius.com
 0.0.0.0 vellmontholdings.com
@@ -17001,6 +17068,7 @@
 0.0.0.0 veloxtrades.com
 0.0.0.0 velqorcapital.net
 0.0.0.0 velriqo.com
+0.0.0.0 velstrade.co
 0.0.0.0 velthorneassetmanagement.com
 0.0.0.0 veltnel.com
 0.0.0.0 veltomarkets.net
@@ -17349,6 +17417,7 @@
 0.0.0.0 vulemex.top
 0.0.0.0 vultdexbase.top
 0.0.0.0 vuosax.com
+0.0.0.0 vurakoin.com
 0.0.0.0 vusewin.cc
 0.0.0.0 vusewin.com
 0.0.0.0 vutereck.com
@@ -17638,6 +17707,7 @@
 0.0.0.0 whitechurchnetwork.net
 0.0.0.0 whitecollarlawgrp.com
 0.0.0.0 whiteroad.io
+0.0.0.0 whitestoneltd.com
 0.0.0.0 whitmore-calloway.com
 0.0.0.0 whitmoretrust.com
 0.0.0.0 whiua.com
