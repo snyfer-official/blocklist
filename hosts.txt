@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-10-05T03:13:13.202Z
-# Domains: 18514
+# Source updated: 2026-10-06T03:13:13.141Z
+# Domains: 18518
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -7824,6 +7824,7 @@
 0.0.0.0 greenassetshub.com
 0.0.0.0 greenbay-chart.com
 0.0.0.0 greenbaychart.com
+0.0.0.0 greenbit.fit
 0.0.0.0 greenbridgesagl.com
 0.0.0.0 greencapitalize.com
 0.0.0.0 greencaredispensarymenu.com
@@ -10964,6 +10965,7 @@
 0.0.0.0 myinvestunity.com
 0.0.0.0 myliquidbot.com
 0.0.0.0 mymarpal.com
+0.0.0.0 mymoneyclaim.org
 0.0.0.0 mynex.cc
 0.0.0.0 mypassivegig.com
 0.0.0.0 mypassivereturn.com
@@ -13629,6 +13631,7 @@
 0.0.0.0 rosawin.com
 0.0.0.0 rosebudhds.com
 0.0.0.0 rosehalde-ag.ch
+0.0.0.0 rosenman-locke.com
 0.0.0.0 roswellbrinkman.com
 0.0.0.0 rotbix.com
 0.0.0.0 rotgame.com
@@ -13740,6 +13743,7 @@
 0.0.0.0 sablefx.com
 0.0.0.0 sadoxis.com
 0.0.0.0 safe-earn.ltd
+0.0.0.0 safe-wallet.io
 0.0.0.0 safe3aml.com
 0.0.0.0 safebytepro.com
 0.0.0.0 safeces.com
