@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-10-06T03:13:13.141Z
-! Domains: 18518
+! Source updated: 2026-10-07T03:13:13.250Z
+! Domains: 18547
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -401,6 +401,7 @@
 ||agora-idea.com^
 ||agra-investissement.com^
 ||agragami-sampatti.com^
+||agreevest.com^
 ||agrifinancialcompany.com^
 ||agroalignenergy.com^
 ||agroalignenergy.net^
@@ -1515,6 +1516,7 @@
 ||autosmartmarket.com^
 ||autotrade24.ai^
 ||autotradenexus.com^
+||autotradesystem.pro^
 ||autovaluetrade.com^
 ||autraxpro.com^
 ||autu.global^
@@ -1961,6 +1963,7 @@
 ||bhhohash.top^
 ||bhpvipai.com^
 ||bicapitex.com^
+||biccord.com^
 ||bicomexlaker.com^
 ||biconomys.com^
 ||bid-n-ask.com^
@@ -2858,6 +2861,7 @@
 ||brevistechnology.co^
 ||brewcryptex.online^
 ||brextcapital.com^
+||brezpoint.com^
 ||bricfinances.com^
 ||brickelltradeinvestment.com^
 ||bricksgold.com^
@@ -3015,6 +3019,7 @@
 ||bullbrute.com^
 ||bullcapinterest.com^
 ||bullchainholdings.com^
+||bullentis.com^
 ||bullforcemarket.com^
 ||bullfxo.com^
 ||bullhorizons.com^
@@ -3166,6 +3171,7 @@
 ||cadween.net^
 ||cadwiin.net^
 ||caemux.com^
+||caeruscapitalgroup.ltd^
 ||caglobalchain.com^
 ||cairnloan.com^
 ||caixa-casino.com^
@@ -3479,6 +3485,7 @@
 ||celflixup.org^
 ||celibit.com^
 ||celorintrade.fyi^
+||celtaforgecapital.com^
 ||cenatsino.com^
 ||cenexpro.net^
 ||cenorexglobal.com^
@@ -3667,6 +3674,7 @@
 ||cladven.org^
 ||claim-gettrumpmemes.com^
 ||claimfinder.top^
+||claimgrid.co.uk^
 ||claimscheck.live^
 ||claimsureltd.co.uk^
 ||clair-montfils.com^
@@ -3833,6 +3841,7 @@
 ||coincorner.trade^
 ||coincp.cc^
 ||coincx.co^
+||coindeapex.com^
 ||coindeskvip.com^
 ||coindeskvip.tech^
 ||coindexltd.com^
@@ -4189,6 +4198,7 @@
 ||cotps.net^
 ||cotradeoptions.com^
 ||couhex.com^
+||countrycllc.com^
 ||couponeau.co^
 ||coureagleslogistics.com^
 ||courexpresst.com^
@@ -5360,6 +5370,7 @@
 ||dyingoceans.com^
 ||dynamexchain.net^
 ||dynamic-capitalsinvestments.com^
+||dynamic-edgeforex.com^
 ||dynamicfxmarket.com^
 ||dynamicprofitsfx.com^
 ||dynamicprotrade.com^
@@ -5928,6 +5939,7 @@
 ||eurobondsfinder.com^
 ||eurocapital-eaf.finance^
 ||eurocapital-eaf.net^
+||eurocapitaleaf.fund^
 ||euroclear-protection.com^
 ||eurocorporate-asset-management.com^
 ||eurofins-agence.com^
@@ -7500,6 +7512,7 @@
 ||globalstocksexchange.com^
 ||globalstocksmarket.live^
 ||globalstockspro.com^
+||globalstocksrenewedcentre.com^
 ||globalstockst.com^
 ||globalstocksvest.com^
 ||globalswifttrade.com^
@@ -7571,6 +7584,8 @@
 ||glq-investors.com^
 ||glurvextopinbot.live^
 ||glutatrade.buzz^
+||glxpremium.com^
+||glxquant.com^
 ||gmcm.online^
 ||gmfx-fund.net^
 ||gmg-corporate.com^
@@ -7760,6 +7775,7 @@
 ||gradefxwave.com^
 ||gradualsolutionsltd.com^
 ||grainance.com^
+||grainfutureslimited.com^
 ||gramebit.com^
 ||grancex.com^
 ||grand-x.pro^
@@ -7817,6 +7833,7 @@
 ||grayscale-group.com^
 ||grayvestscale.com^
 ||greasc.com^
+||great-landventures.com^
 ||greatmindcapital.com^
 ||grecbex.com^
 ||greebex.com^
@@ -8603,6 +8620,7 @@
 ||ibancapitalltd.com^
 ||iberianewss24.pro^
 ||iberica-plus.com^
+||ibero-aurelis.com^
 ||ibointernational.com^
 ||ibrokergm.com^
 ||ibtfxtradeinvest.org^
@@ -9828,6 +9846,7 @@
 ||livedigitalassets.com^
 ||liveglobalsinvestment.com^
 ||liveiws.com^
+||livelihoodasset.com^
 ||livesimplifiedtrd.com^
 ||livetrade.best^
 ||livingtradecapital.com^
@@ -10386,6 +10405,7 @@
 ||megabittrade.com^
 ||megacix.com^
 ||megacorp.global^
+||megaequity.net^
 ||megaexchange.net^
 ||megafoxtraders.com^
 ||megaincomeoptionstrading.com^
@@ -10579,6 +10599,7 @@
 ||mezraxbt.com^
 ||mezwex.com^
 ||mfinvestmentcompany.com^
+||mfxtsignals.online^
 ||mgamb.cc^
 ||mgfcap.com^
 ||mginnovant.com^
@@ -11966,6 +11987,7 @@
 ||oristanirelanddac.com^
 ||orizon.vip^
 ||orizoninvest.app^
+||orkmark.com^
 ||ormelqisra.com^
 ||orontrade.com^
 ||orox.investments^
@@ -11988,6 +12010,7 @@
 ||osmowalletsmarket.uk^
 ||otc-500.com^
 ||otcnova.com^
+||otctrader.net^
 ||otctradex.com^
 ||otoall.com^
 ||otocoin.vip^
@@ -12230,6 +12253,7 @@
 ||peperider.com^
 ||pepescape.io^
 ||pepeto.io^
+||peppermintschnaps.com^
 ||perceptioncapitalasia.com^
 ||perfectbtctrade.com^
 ||perfectcrypto-trade.com^
@@ -15994,6 +16018,7 @@
 ||tradewithnick.com^
 ||tradewithtoptier.com^
 ||tradex.pro^
+||tradexalpro.com^
 ||tradexcatalyst.com^
 ||tradexcelcompany.com^
 ||tradexcentral.com^
@@ -16754,6 +16779,7 @@
 ||universalqnetfund.com^
 ||universalstudiovip.com^
 ||universaltrust-capltal.com^
+||universalwealth.ltd^
 ||unlimitedtradingsession.xyz^
 ||unrive.io^
 ||unsiki.art^
@@ -17115,6 +17141,7 @@
 ||venturoxltd.com^
 ||venturyfx.com^
 ||venusfinanceassests.com^
+||venusfleetmanagement.com^
 ||venustrade.net^
 ||venuxtrade.com^
 ||veocex.com^
@@ -17870,6 +17897,7 @@
 ||wwtxaa.com^
 ||wxb3cy.com^
 ||wyp.cc^
+||wyseforte.co.uk^
 ||wyvern-capital.com^
 ||wyxso.com^
 ||wzcoin.ai^
@@ -17922,6 +17950,7 @@
 ||xannis.live^
 ||xaupro.net^
 ||xaut-world.vip^
+||xauto39.com^
 ||xavadex.top^
 ||xbet.ws^
 ||xbezo.bet^
