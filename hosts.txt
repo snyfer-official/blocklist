@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-10-07T03:13:13.250Z
-# Domains: 18547
+# Source updated: 2026-10-08T03:13:13.574Z
+# Domains: 18556
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -84,6 +84,7 @@
 0.0.0.0 365falcon.com
 0.0.0.0 365ufarm.com
 0.0.0.0 369tradex.com
+0.0.0.0 39apple.ru
 0.0.0.0 3cgroup.se
 0.0.0.0 3gmine.online
 0.0.0.0 3redgroups.com
@@ -1201,6 +1202,7 @@
 0.0.0.0 ascendholdingsltd.com
 0.0.0.0 ascension-comfort-company.live
 0.0.0.0 ascensiontiontradenet.online
+0.0.0.0 ascensionven.com
 0.0.0.0 ascentpeaktrd.com
 0.0.0.0 ascotcapitallimited.com
 0.0.0.0 ascotcapitals.com
@@ -1496,6 +1498,7 @@
 0.0.0.0 auto-profit.io
 0.0.0.0 auto-zaim35.ru
 0.0.0.0 autobasetrade.live
+0.0.0.0 autoboss39.ru
 0.0.0.0 autobotcrypto.com
 0.0.0.0 autobottraders.co
 0.0.0.0 autocopyinvestor.com
@@ -3796,6 +3799,7 @@
 0.0.0.0 coin-link.top
 0.0.0.0 coin-swift.com
 0.0.0.0 coin-team.com
+0.0.0.0 coin-traders.ltd
 0.0.0.0 coin-trend.pro
 0.0.0.0 coin-velora.com
 0.0.0.0 coin.vip
@@ -9552,6 +9556,7 @@
 0.0.0.0 kryptocarts.com
 0.0.0.0 kryptocurve.com
 0.0.0.0 kryptoeffecttrading.com
+0.0.0.0 kryptolaisepro.digital
 0.0.0.0 kryptomining.io
 0.0.0.0 kryptostocktronicsltd.com
 0.0.0.0 kryptovest.net
@@ -9986,6 +9991,7 @@
 0.0.0.0 luigiswap.xyz
 0.0.0.0 luiser.com
 0.0.0.0 lumaprotocol.io
+0.0.0.0 lumaspherexe.com
 0.0.0.0 lumatsavings.com
 0.0.0.0 lumdox.com
 0.0.0.0 lumenavkastare.se
@@ -12607,7 +12613,9 @@
 0.0.0.0 presidental.casino
 0.0.0.0 pressobserverdaily.net
 0.0.0.0 prestige-tb.online
+0.0.0.0 prestigecredit.eu
 0.0.0.0 prestigegain.pro
+0.0.0.0 prestigesavingsgroup.com
 0.0.0.0 prestigesummitpartners.com
 0.0.0.0 prestigevarvex.com
 0.0.0.0 prestigewinesinternationallimited.com
@@ -13981,6 +13989,7 @@
 0.0.0.0 selftradefx.com
 0.0.0.0 seliger24.ru
 0.0.0.0 sellerdeckrevue.com
+0.0.0.0 selleypillar.com
 0.0.0.0 sellswap.org
 0.0.0.0 selmoriavex.info
 0.0.0.0 selviorex.com
