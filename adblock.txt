@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-10-08T03:13:13.574Z
-! Domains: 18556
+! Source updated: 2026-10-09T03:13:13.526Z
+! Domains: 18585
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -12,6 +12,7 @@
 ||0mexsed.com^
 ||0xcry.xyz^
 ||1-slots.world^
+||100-kvartir.ru^
 ||1000xelite.com^
 ||100crorescompany.com^
 ||100eyescryptoscanners.org^
@@ -170,6 +171,7 @@
 ||9mc.ai^
 ||9mc.org^
 ||9soles.top^
+||9stardigital.com^
 ||a-egig.vip^
 ||a2zprofits.com^
 ||a46ztoken.com^
@@ -322,6 +324,7 @@
 ||adonvdf.com^
 ||adsf3af.com^
 ||adsmuraiapp.com^
+||adtrades.top^
 ||adtrading.ltd^
 ||advanced-car.com^
 ||advanced365.com^
@@ -966,6 +969,7 @@
 ||apexchainasset.com^
 ||apexchaine.com^
 ||apexclip.ltd^
+||apexcomresources.com^
 ||apexcopy-ai.com^
 ||apexcoremarkets.com^
 ||apexcredituns.com^
@@ -1292,6 +1296,7 @@
 ||assetstocktrades.com^
 ||assettradeinvest.com^
 ||assettradesfinance.com^
+||assetvaults-broker.live^
 ||assetwealth-ltd.com^
 ||assetwise-invest.com^
 ||assistance-trezor.io^
@@ -1986,6 +1991,7 @@
 ||bigetltd.com^
 ||bigminings.com^
 ||bigminings.org^
+||bigowex.com^
 ||bigprofitpulse.io^
 ||bigwhales.com^
 ||bigxpro.com^
@@ -2003,6 +2009,7 @@
 ||bimaster.cc^
 ||bin-test.ru^
 ||binabit.org^
+||binance.com^
 ||binanceproai.com^
 ||binany.com^
 ||binanzor.com^
@@ -3784,6 +3791,7 @@
 ||coclubglass.com^
 ||codeveinsurance.com^
 ||codexpays.online^
+||codexsharesrise.xyz^
 ||coelc.com^
 ||coesux.com^
 ||coexmate.net^
@@ -4652,6 +4660,7 @@
 ||dabaogenisis.com^
 ||daekox.com^
 ||daexchange.cc^
+||dafowex.com^
 ||daftar-boswm.netlify.app^
 ||dagdagrail.com^
 ||dahe.cc^
@@ -6246,6 +6255,7 @@
 ||fatbtc.xyz^
 ||fatecas.com^
 ||fatima-invest.ru^
+||fatowin.com^
 ||faufax.com^
 ||faurux.com^
 ||favexs.com^
@@ -6362,6 +6372,7 @@
 ||fieptheless.com^
 ||fiestahubfx.com^
 ||figinvestmentsltd.com^
+||fikapex.com^
 ||filanex.com^
 ||filinvestmentmanagement.com^
 ||fillassetglobal.com^
@@ -6665,6 +6676,7 @@
 ||flaredropspark.com^
 ||flaresparkline.com^
 ||flash-usdt.org^
+||flashbeatnu.org^
 ||flashtoken.org^
 ||flashtrade.us^
 ||flashusdt.io^
@@ -7320,6 +7332,7 @@
 ||georgecapitalglobal.com^
 ||geraldwinfield.net^
 ||gerardmcmann.com^
+||gerawin.com^
 ||gerolax.com^
 ||gerotex.com^
 ||gerspin.com^
@@ -8274,6 +8287,7 @@
 ||heidax.com^
 ||heir-nagyteam.com^
 ||heiz-analytics.com^
+||hekodex.com^
 ||hel-rantaholm.com^
 ||heldge.one^
 ||helfenstein-ag.com^
@@ -9194,6 +9208,7 @@
 ||jenowex.com^
 ||jerowex.com^
 ||jesuscripto.es^
+||jesvent-corp.com^
 ||jetbix.com^
 ||jetfixloxiglobal.net^
 ||jetlagstock.com^
@@ -9262,6 +9277,7 @@
 ||jupgrow.com^
 ||jupiter-coupon.com^
 ||jupiterbanking.com^
+||jupwin.com^
 ||jusmybit.com^
 ||justbet.top^
 ||justchillpty.club^
@@ -9329,6 +9345,7 @@
 ||kaspycoin.com^
 ||kastwin150.pro^
 ||katoprime.com^
+||katywin.com^
 ||kautax.com^
 ||kavenapartners.com^
 ||kavomanor.com^
@@ -11278,6 +11295,7 @@
 ||nexoraexchanges.com^
 ||nexoragroups.net^
 ||nexoragroups.org^
+||nexoraint.online^
 ||nexorainvestments.net^
 ||nexoramarketholdings.com^
 ||nexoraprimefx.com^
@@ -11413,6 +11431,7 @@
 ||nodtrade.com^
 ||noergamb.com^
 ||nogentais.finance^
+||nogwin.com^
 ||noktox.com^
 ||nolimitmarkets.com^
 ||nolitex.com^
@@ -11420,6 +11439,7 @@
 ||nomyfi.com^
 ||noor-cap.com^
 ||nopbit.com^
+||nopwin.com^
 ||nordelyx-tavrion.com^
 ||nordelyxtavrion-ai.com^
 ||nordelyxtavrion.com^
@@ -11780,6 +11800,7 @@
 ||onchin.com^
 ||onchinbank.com^
 ||onchnia.com^
+||ondawin.com^
 ||ondo-fntrdesbs.live^
 ||ondofintrde.sbs^
 ||one882026.com^
@@ -12675,6 +12696,7 @@
 ||primecryptexa.org^
 ||primecryptoassetus.com^
 ||primedynamo.net^
+||primeearninvest.ltd^
 ||primeedgefinancials.io^
 ||primeexpertminers.com^
 ||primefinancelimited.net^
@@ -12935,6 +12957,7 @@
 ||puloi.com^
 ||pulsar-dexlink.com^
 ||pulsar-dexlink.org^
+||pulse-platform.io^
 ||pulsechainpool.com^
 ||pulsecoin-exchange.com^
 ||pulsedigitalmarkets.com^
@@ -13431,6 +13454,7 @@
 ||reocorpptyltd.com^
 ||reoptyltd.com^
 ||repere-dexlink.com^
+||reportscam.net^
 ||reportwavix.net^
 ||republicgestion.cc^
 ||republicgestion.com^
@@ -13817,6 +13841,7 @@
 ||saintmarycptl.com^
 ||saintquant.com^
 ||sairus.net^
+||sakwin.com^
 ||saldc.com^
 ||saldialtd.com^
 ||salexplay.com^
@@ -13859,6 +13884,7 @@
 ||saros-exchange.com^
 ||sarvexid.io^
 ||sashatrading.com^
+||sasowin.com^
 ||satbit.com^
 ||satoby.com^
 ||satodex.top^
@@ -14085,6 +14111,7 @@
 ||shaxdex.com^
 ||shell-deal.com^
 ||shellinvest.org^
+||shellnovatrade.com^
 ||shellscoin.com^
 ||shf-isfca.com^
 ||shf-ltd.com^
@@ -15658,6 +15685,7 @@
 ||tntglobalcapital.com^
 ||to-inv.com^
 ||toacoin.com^
+||toberex.com^
 ||tobitacco.net^
 ||todabit.com^
 ||tofcoin.com^
@@ -18300,6 +18328,7 @@
 ||zaewex.com^
 ||zaf1ai.com^
 ||zagamb.com^
+||zaimprobiznes.ru^
 ||zainfinance.net^
 ||zalog-doveriya.ru^
 ||zalog24.club^

@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-10-08T03:13:13.574Z
-# Domains: 18556
+# Source updated: 2026-10-09T03:13:13.526Z
+# Domains: 18585
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -10,6 +10,7 @@
 0.0.0.0 0mexsed.com
 0.0.0.0 0xcry.xyz
 0.0.0.0 1-slots.world
+0.0.0.0 100-kvartir.ru
 0.0.0.0 1000xelite.com
 0.0.0.0 100crorescompany.com
 0.0.0.0 100eyescryptoscanners.org
@@ -168,6 +169,7 @@
 0.0.0.0 9mc.ai
 0.0.0.0 9mc.org
 0.0.0.0 9soles.top
+0.0.0.0 9stardigital.com
 0.0.0.0 a-egig.vip
 0.0.0.0 a2zprofits.com
 0.0.0.0 a46ztoken.com
@@ -320,6 +322,7 @@
 0.0.0.0 adonvdf.com
 0.0.0.0 adsf3af.com
 0.0.0.0 adsmuraiapp.com
+0.0.0.0 adtrades.top
 0.0.0.0 adtrading.ltd
 0.0.0.0 advanced-car.com
 0.0.0.0 advanced365.com
@@ -964,6 +967,7 @@
 0.0.0.0 apexchainasset.com
 0.0.0.0 apexchaine.com
 0.0.0.0 apexclip.ltd
+0.0.0.0 apexcomresources.com
 0.0.0.0 apexcopy-ai.com
 0.0.0.0 apexcoremarkets.com
 0.0.0.0 apexcredituns.com
@@ -1290,6 +1294,7 @@
 0.0.0.0 assetstocktrades.com
 0.0.0.0 assettradeinvest.com
 0.0.0.0 assettradesfinance.com
+0.0.0.0 assetvaults-broker.live
 0.0.0.0 assetwealth-ltd.com
 0.0.0.0 assetwise-invest.com
 0.0.0.0 assistance-trezor.io
@@ -1984,6 +1989,7 @@
 0.0.0.0 bigetltd.com
 0.0.0.0 bigminings.com
 0.0.0.0 bigminings.org
+0.0.0.0 bigowex.com
 0.0.0.0 bigprofitpulse.io
 0.0.0.0 bigwhales.com
 0.0.0.0 bigxpro.com
@@ -2001,6 +2007,7 @@
 0.0.0.0 bimaster.cc
 0.0.0.0 bin-test.ru
 0.0.0.0 binabit.org
+0.0.0.0 binance.com
 0.0.0.0 binanceproai.com
 0.0.0.0 binany.com
 0.0.0.0 binanzor.com
@@ -3782,6 +3789,7 @@
 0.0.0.0 coclubglass.com
 0.0.0.0 codeveinsurance.com
 0.0.0.0 codexpays.online
+0.0.0.0 codexsharesrise.xyz
 0.0.0.0 coelc.com
 0.0.0.0 coesux.com
 0.0.0.0 coexmate.net
@@ -4650,6 +4658,7 @@
 0.0.0.0 dabaogenisis.com
 0.0.0.0 daekox.com
 0.0.0.0 daexchange.cc
+0.0.0.0 dafowex.com
 0.0.0.0 daftar-boswm.netlify.app
 0.0.0.0 dagdagrail.com
 0.0.0.0 dahe.cc
@@ -6244,6 +6253,7 @@
 0.0.0.0 fatbtc.xyz
 0.0.0.0 fatecas.com
 0.0.0.0 fatima-invest.ru
+0.0.0.0 fatowin.com
 0.0.0.0 faufax.com
 0.0.0.0 faurux.com
 0.0.0.0 favexs.com
@@ -6360,6 +6370,7 @@
 0.0.0.0 fieptheless.com
 0.0.0.0 fiestahubfx.com
 0.0.0.0 figinvestmentsltd.com
+0.0.0.0 fikapex.com
 0.0.0.0 filanex.com
 0.0.0.0 filinvestmentmanagement.com
 0.0.0.0 fillassetglobal.com
@@ -6663,6 +6674,7 @@
 0.0.0.0 flaredropspark.com
 0.0.0.0 flaresparkline.com
 0.0.0.0 flash-usdt.org
+0.0.0.0 flashbeatnu.org
 0.0.0.0 flashtoken.org
 0.0.0.0 flashtrade.us
 0.0.0.0 flashusdt.io
@@ -7318,6 +7330,7 @@
 0.0.0.0 georgecapitalglobal.com
 0.0.0.0 geraldwinfield.net
 0.0.0.0 gerardmcmann.com
+0.0.0.0 gerawin.com
 0.0.0.0 gerolax.com
 0.0.0.0 gerotex.com
 0.0.0.0 gerspin.com
@@ -8272,6 +8285,7 @@
 0.0.0.0 heidax.com
 0.0.0.0 heir-nagyteam.com
 0.0.0.0 heiz-analytics.com
+0.0.0.0 hekodex.com
 0.0.0.0 hel-rantaholm.com
 0.0.0.0 heldge.one
 0.0.0.0 helfenstein-ag.com
@@ -9192,6 +9206,7 @@
 0.0.0.0 jenowex.com
 0.0.0.0 jerowex.com
 0.0.0.0 jesuscripto.es
+0.0.0.0 jesvent-corp.com
 0.0.0.0 jetbix.com
 0.0.0.0 jetfixloxiglobal.net
 0.0.0.0 jetlagstock.com
@@ -9260,6 +9275,7 @@
 0.0.0.0 jupgrow.com
 0.0.0.0 jupiter-coupon.com
 0.0.0.0 jupiterbanking.com
+0.0.0.0 jupwin.com
 0.0.0.0 jusmybit.com
 0.0.0.0 justbet.top
 0.0.0.0 justchillpty.club
@@ -9327,6 +9343,7 @@
 0.0.0.0 kaspycoin.com
 0.0.0.0 kastwin150.pro
 0.0.0.0 katoprime.com
+0.0.0.0 katywin.com
 0.0.0.0 kautax.com
 0.0.0.0 kavenapartners.com
 0.0.0.0 kavomanor.com
@@ -11276,6 +11293,7 @@
 0.0.0.0 nexoraexchanges.com
 0.0.0.0 nexoragroups.net
 0.0.0.0 nexoragroups.org
+0.0.0.0 nexoraint.online
 0.0.0.0 nexorainvestments.net
 0.0.0.0 nexoramarketholdings.com
 0.0.0.0 nexoraprimefx.com
@@ -11411,6 +11429,7 @@
 0.0.0.0 nodtrade.com
 0.0.0.0 noergamb.com
 0.0.0.0 nogentais.finance
+0.0.0.0 nogwin.com
 0.0.0.0 noktox.com
 0.0.0.0 nolimitmarkets.com
 0.0.0.0 nolitex.com
@@ -11418,6 +11437,7 @@
 0.0.0.0 nomyfi.com
 0.0.0.0 noor-cap.com
 0.0.0.0 nopbit.com
+0.0.0.0 nopwin.com
 0.0.0.0 nordelyx-tavrion.com
 0.0.0.0 nordelyxtavrion-ai.com
 0.0.0.0 nordelyxtavrion.com
@@ -11778,6 +11798,7 @@
 0.0.0.0 onchin.com
 0.0.0.0 onchinbank.com
 0.0.0.0 onchnia.com
+0.0.0.0 ondawin.com
 0.0.0.0 ondo-fntrdesbs.live
 0.0.0.0 ondofintrde.sbs
 0.0.0.0 one882026.com
@@ -12673,6 +12694,7 @@
 0.0.0.0 primecryptexa.org
 0.0.0.0 primecryptoassetus.com
 0.0.0.0 primedynamo.net
+0.0.0.0 primeearninvest.ltd
 0.0.0.0 primeedgefinancials.io
 0.0.0.0 primeexpertminers.com
 0.0.0.0 primefinancelimited.net
@@ -12933,6 +12955,7 @@
 0.0.0.0 puloi.com
 0.0.0.0 pulsar-dexlink.com
 0.0.0.0 pulsar-dexlink.org
+0.0.0.0 pulse-platform.io
 0.0.0.0 pulsechainpool.com
 0.0.0.0 pulsecoin-exchange.com
 0.0.0.0 pulsedigitalmarkets.com
@@ -13429,6 +13452,7 @@
 0.0.0.0 reocorpptyltd.com
 0.0.0.0 reoptyltd.com
 0.0.0.0 repere-dexlink.com
+0.0.0.0 reportscam.net
 0.0.0.0 reportwavix.net
 0.0.0.0 republicgestion.cc
 0.0.0.0 republicgestion.com
@@ -13815,6 +13839,7 @@
 0.0.0.0 saintmarycptl.com
 0.0.0.0 saintquant.com
 0.0.0.0 sairus.net
+0.0.0.0 sakwin.com
 0.0.0.0 saldc.com
 0.0.0.0 saldialtd.com
 0.0.0.0 salexplay.com
@@ -13857,6 +13882,7 @@
 0.0.0.0 saros-exchange.com
 0.0.0.0 sarvexid.io
 0.0.0.0 sashatrading.com
+0.0.0.0 sasowin.com
 0.0.0.0 satbit.com
 0.0.0.0 satoby.com
 0.0.0.0 satodex.top
@@ -14083,6 +14109,7 @@
 0.0.0.0 shaxdex.com
 0.0.0.0 shell-deal.com
 0.0.0.0 shellinvest.org
+0.0.0.0 shellnovatrade.com
 0.0.0.0 shellscoin.com
 0.0.0.0 shf-isfca.com
 0.0.0.0 shf-ltd.com
@@ -15656,6 +15683,7 @@
 0.0.0.0 tntglobalcapital.com
 0.0.0.0 to-inv.com
 0.0.0.0 toacoin.com
+0.0.0.0 toberex.com
 0.0.0.0 tobitacco.net
 0.0.0.0 todabit.com
 0.0.0.0 tofcoin.com
@@ -18298,6 +18326,7 @@
 0.0.0.0 zaewex.com
 0.0.0.0 zaf1ai.com
 0.0.0.0 zagamb.com
+0.0.0.0 zaimprobiznes.ru
 0.0.0.0 zainfinance.net
 0.0.0.0 zalog-doveriya.ru
 0.0.0.0 zalog24.club
