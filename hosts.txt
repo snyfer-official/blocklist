@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-10-10T03:13:14.110Z
-# Domains: 18639
+# Source updated: 2026-10-11T03:13:13.613Z
+# Domains: 18650
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -547,6 +547,7 @@
 0.0.0.0 alaiinjuniors.com
 0.0.0.0 alaiocapitals.com
 0.0.0.0 alakaai.com
+0.0.0.0 alanntra.com
 0.0.0.0 alantmc.com
 0.0.0.0 alantra-cfd.com
 0.0.0.0 alantracfd.com
@@ -976,6 +977,7 @@
 0.0.0.0 apexcoremarkets.com
 0.0.0.0 apexcredituns.com
 0.0.0.0 apexcrestcapitals.com
+0.0.0.0 apexcrownmanagement.ltd
 0.0.0.0 apexcryptoforextradings.com
 0.0.0.0 apexcryptomarket.com
 0.0.0.0 apexcryptotraders.com
@@ -1223,6 +1225,7 @@
 0.0.0.0 asfd85.it
 0.0.0.0 asfgroep.com
 0.0.0.0 ashbournewm.org
+0.0.0.0 ashchaincapital.com
 0.0.0.0 ashfordcapitals.com
 0.0.0.0 ashfordwells.com
 0.0.0.0 ashfordwells.net
@@ -2916,6 +2919,7 @@
 0.0.0.0 brightremit.com
 0.0.0.0 brightrooms.world
 0.0.0.0 brilionxinv.com
+0.0.0.0 brilliancebrokers.live
 0.0.0.0 brimcoins.com
 0.0.0.0 brimoidfunds.com
 0.0.0.0 brispin.com
@@ -4140,6 +4144,7 @@
 0.0.0.0 copynestx.com
 0.0.0.0 copynex.live
 0.0.0.0 copynex.net
+0.0.0.0 copyport.cloud
 0.0.0.0 copyprocoins.com
 0.0.0.0 copytradingbroker.io
 0.0.0.0 copyxfi.com
@@ -7536,6 +7541,7 @@
 0.0.0.0 globalsecuredtrade.org
 0.0.0.0 globalsfet.com
 0.0.0.0 globalshopping.co
+0.0.0.0 globalsignalbrokerage.com
 0.0.0.0 globalsmartex.com
 0.0.0.0 globalsmartpip.org
 0.0.0.0 globalstackfx.com
@@ -8524,6 +8530,7 @@
 0.0.0.0 horizonchaincapitals.com
 0.0.0.0 horizonchaininvestments.com
 0.0.0.0 horizonfinancialltd.com
+0.0.0.0 horizonforgebrokers.company
 0.0.0.0 horizonforte.com
 0.0.0.0 horizonglideonline.com
 0.0.0.0 horizonglobalinvestment.com
@@ -10781,6 +10788,7 @@
 0.0.0.0 moawax.com
 0.0.0.0 mobicryp.com
 0.0.0.0 mobiletradeinvest.ltd
+0.0.0.0 mochino-capitals-freedom.com
 0.0.0.0 moctract.xyz
 0.0.0.0 modefi4o.com
 0.0.0.0 moderncitizens-app.com
@@ -16330,6 +16338,7 @@
 0.0.0.0 trustedgebrokerage.com
 0.0.0.0 trustedgemarkets.live
 0.0.0.0 trustedgeoptions.com
+0.0.0.0 trustedloancapital.com
 0.0.0.0 trustedpairs.org
 0.0.0.0 trustedpcpclaims.co.uk
 0.0.0.0 trustedtradereport.com
@@ -16351,6 +16360,7 @@
 0.0.0.0 trustis-ag.com
 0.0.0.0 trustkeyz.com
 0.0.0.0 trustliveasset.com
+0.0.0.0 trustlucidcapital.live
 0.0.0.0 trustmanagementltd.com
 0.0.0.0 trustmarkets.org
 0.0.0.0 trustnetvest.live
@@ -16859,6 +16869,7 @@
 0.0.0.0 universalstudiovip.com
 0.0.0.0 universaltrust-capltal.com
 0.0.0.0 universalwealth.ltd
+0.0.0.0 unlimitedprotrd.online
 0.0.0.0 unlimitedtradingsession.xyz
 0.0.0.0 unrive.io
 0.0.0.0 unsiki.art

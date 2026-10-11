@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-10-10T03:13:14.110Z
-! Domains: 18639
+! Source updated: 2026-10-11T03:13:13.613Z
+! Domains: 18650
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -549,6 +549,7 @@
 ||alaiinjuniors.com^
 ||alaiocapitals.com^
 ||alakaai.com^
+||alanntra.com^
 ||alantmc.com^
 ||alantra-cfd.com^
 ||alantracfd.com^
@@ -978,6 +979,7 @@
 ||apexcoremarkets.com^
 ||apexcredituns.com^
 ||apexcrestcapitals.com^
+||apexcrownmanagement.ltd^
 ||apexcryptoforextradings.com^
 ||apexcryptomarket.com^
 ||apexcryptotraders.com^
@@ -1225,6 +1227,7 @@
 ||asfd85.it^
 ||asfgroep.com^
 ||ashbournewm.org^
+||ashchaincapital.com^
 ||ashfordcapitals.com^
 ||ashfordwells.com^
 ||ashfordwells.net^
@@ -2918,6 +2921,7 @@
 ||brightremit.com^
 ||brightrooms.world^
 ||brilionxinv.com^
+||brilliancebrokers.live^
 ||brimcoins.com^
 ||brimoidfunds.com^
 ||brispin.com^
@@ -4142,6 +4146,7 @@
 ||copynestx.com^
 ||copynex.live^
 ||copynex.net^
+||copyport.cloud^
 ||copyprocoins.com^
 ||copytradingbroker.io^
 ||copyxfi.com^
@@ -7538,6 +7543,7 @@
 ||globalsecuredtrade.org^
 ||globalsfet.com^
 ||globalshopping.co^
+||globalsignalbrokerage.com^
 ||globalsmartex.com^
 ||globalsmartpip.org^
 ||globalstackfx.com^
@@ -8526,6 +8532,7 @@
 ||horizonchaincapitals.com^
 ||horizonchaininvestments.com^
 ||horizonfinancialltd.com^
+||horizonforgebrokers.company^
 ||horizonforte.com^
 ||horizonglideonline.com^
 ||horizonglobalinvestment.com^
@@ -10783,6 +10790,7 @@
 ||moawax.com^
 ||mobicryp.com^
 ||mobiletradeinvest.ltd^
+||mochino-capitals-freedom.com^
 ||moctract.xyz^
 ||modefi4o.com^
 ||moderncitizens-app.com^
@@ -16332,6 +16340,7 @@
 ||trustedgebrokerage.com^
 ||trustedgemarkets.live^
 ||trustedgeoptions.com^
+||trustedloancapital.com^
 ||trustedpairs.org^
 ||trustedpcpclaims.co.uk^
 ||trustedtradereport.com^
@@ -16353,6 +16362,7 @@
 ||trustis-ag.com^
 ||trustkeyz.com^
 ||trustliveasset.com^
+||trustlucidcapital.live^
 ||trustmanagementltd.com^
 ||trustmarkets.org^
 ||trustnetvest.live^
@@ -16861,6 +16871,7 @@
 ||universalstudiovip.com^
 ||universaltrust-capltal.com^
 ||universalwealth.ltd^
+||unlimitedprotrd.online^
 ||unlimitedtradingsession.xyz^
 ||unrive.io^
 ||unsiki.art^
