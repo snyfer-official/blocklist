@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-10-11T03:13:13.613Z
-# Domains: 18650
+# Source updated: 2026-10-13T03:13:13.991Z
+# Domains: 18670
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -1500,6 +1500,7 @@
 0.0.0.0 aus2024.com
 0.0.0.0 ausforex.com
 0.0.0.0 ausglobaluk.com
+0.0.0.0 ausprivatecapital.net
 0.0.0.0 autecomineralsing.com
 0.0.0.0 authbrokers.com
 0.0.0.0 authedx.com
@@ -1782,6 +1783,7 @@
 0.0.0.0 bcvglobal.com
 0.0.0.0 bcvip.club
 0.0.0.0 bcxbalkan.com
+0.0.0.0 bdcinvest-capital.com
 0.0.0.0 bdex.site
 0.0.0.0 bdfoptions.com
 0.0.0.0 bdgestiondeinversionesav.com
@@ -3129,6 +3131,7 @@
 0.0.0.0 buzzechoix.org
 0.0.0.0 buzzstoriza.com
 0.0.0.0 buzzstreamxa.com
+0.0.0.0 buzzzonify.info
 0.0.0.0 bvp-finance.org
 0.0.0.0 bxa.com
 0.0.0.0 bxatgom.com
@@ -3935,6 +3938,7 @@
 0.0.0.0 coinhash.io
 0.0.0.0 coinhkn.com
 0.0.0.0 coinhoah.com
+0.0.0.0 coinhub.pro
 0.0.0.0 coinhubinc.com
 0.0.0.0 coinhubx.net
 0.0.0.0 coinic.ai
@@ -4253,6 +4257,7 @@
 0.0.0.0 cptprouk.com
 0.0.0.0 cpttrading.net
 0.0.0.0 cpttradingex.vip
+0.0.0.0 cptynkj.com
 0.0.0.0 cqhuaan.com
 0.0.0.0 craddle-bezaar.com
 0.0.0.0 cradton.net
@@ -4279,6 +4284,7 @@
 0.0.0.0 credebull.live
 0.0.0.0 credence-trade.com
 0.0.0.0 credessa-it.net
+0.0.0.0 credit-flows.com
 0.0.0.0 creditblockchain.com
 0.0.0.0 creditter.ru
 0.0.0.0 credixhub.com
@@ -5248,6 +5254,7 @@
 0.0.0.0 drakewhale.com
 0.0.0.0 dravan-exchange.com
 0.0.0.0 dravexolysweden.com
+0.0.0.0 draxilux.com
 0.0.0.0 dream48.one
 0.0.0.0 dreamcapitalview.com
 0.0.0.0 dreamtradeoption.live
@@ -5837,6 +5844,7 @@
 0.0.0.0 equiloompro.org
 0.0.0.0 equinoxfinmrt.live
 0.0.0.0 equinoxreitpro.com
+0.0.0.0 equistocktrades.live
 0.0.0.0 equitable-gaintor.com
 0.0.0.0 equitefarms.io
 0.0.0.0 equitiesflows.com
@@ -5998,6 +6006,7 @@
 0.0.0.0 evercrestmarket.com
 0.0.0.0 evercrestmiming.com
 0.0.0.0 evercrestmining.com
+0.0.0.0 everdaleholdingslimited.org
 0.0.0.0 everesttradingltd.com
 0.0.0.0 everestwealthmanagement.net
 0.0.0.0 everfxx.com
@@ -8517,6 +8526,7 @@
 0.0.0.0 hoo.com
 0.0.0.0 hood.fun
 0.0.0.0 hooohsk.com
+0.0.0.0 hopefundbank.com
 0.0.0.0 hopegex.com
 0.0.0.0 hopegroupe.com
 0.0.0.0 hoprbike1.com
@@ -9189,6 +9199,7 @@
 0.0.0.0 izewex.com
 0.0.0.0 iziwallet.io
 0.0.0.0 jac.pro
+0.0.0.0 jack-bits.com
 0.0.0.0 jackehhowell.de
 0.0.0.0 jackexa.com
 0.0.0.0 jackragame.com
@@ -11214,6 +11225,7 @@
 0.0.0.0 neuraxstock.com
 0.0.0.0 neuricinvestment.com
 0.0.0.0 neurofluxpro.sbs
+0.0.0.0 neurolanche.io
 0.0.0.0 neurosigmaaitrading.io
 0.0.0.0 neurotechlabs.org
 0.0.0.0 neutys.net
@@ -12493,6 +12505,7 @@
 0.0.0.0 playgrand.cc
 0.0.0.0 playorbit.cc
 0.0.0.0 playwin.top
+0.0.0.0 plazabet.cc
 0.0.0.0 pledices.shop
 0.0.0.0 plentyrush.com
 0.0.0.0 plenum-investments.com
@@ -12609,6 +12622,7 @@
 0.0.0.0 potatofries.pro
 0.0.0.0 potawin.com
 0.0.0.0 potionalpha.com
+0.0.0.0 poubux.com
 0.0.0.0 poucex.com
 0.0.0.0 povtrade.com
 0.0.0.0 powealthsharing.com
@@ -13552,6 +13566,7 @@
 0.0.0.0 rexbit.cc
 0.0.0.0 rexolex.com
 0.0.0.0 rextenfinance.com
+0.0.0.0 rexubet.com
 0.0.0.0 rexwox.com
 0.0.0.0 reynance.net
 0.0.0.0 rezerva-invest-app.com
@@ -13608,6 +13623,7 @@
 0.0.0.0 riocoin.io
 0.0.0.0 rionbet.com
 0.0.0.0 riorbit.com
+0.0.0.0 rioswin.com
 0.0.0.0 riotchainminer.com
 0.0.0.0 riotunbox.com
 0.0.0.0 riotxai.com
@@ -13711,6 +13727,7 @@
 0.0.0.0 rollchain.world
 0.0.0.0 rollcoincasino.com
 0.0.0.0 rollesy.com
+0.0.0.0 rollgorilla.com
 0.0.0.0 rollincapital.com
 0.0.0.0 rollriot.today
 0.0.0.0 rollsy.cc
@@ -14941,6 +14958,7 @@
 0.0.0.0 sterlingcapitalhub.com
 0.0.0.0 sterlingcrestxfinancial.com
 0.0.0.0 sterlingedgewealthgroups.com
+0.0.0.0 sterlingfundpro.io
 0.0.0.0 sterlinghedgegroup.com
 0.0.0.0 sterlingmarkets.live
 0.0.0.0 sterlingpartnersvip.com
@@ -15378,6 +15396,7 @@
 0.0.0.0 tarillium.com
 0.0.0.0 tariqglobalinc.com
 0.0.0.0 tarma.se
+0.0.0.0 tarubet.com
 0.0.0.0 taskbirds.online
 0.0.0.0 tasmanasset.org
 0.0.0.0 tasowin.com
@@ -17206,6 +17225,7 @@
 0.0.0.0 velvetreel.com
 0.0.0.0 velzynthar.ltd
 0.0.0.0 vemodex.com
+0.0.0.0 vemowin.com
 0.0.0.0 vendorglobaltrades.info
 0.0.0.0 venfico.com
 0.0.0.0 venitance-ai.com
