@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-10-13T03:13:13.991Z
-# Domains: 18670
+# Source updated: 2026-10-14T03:13:13.408Z
+# Domains: 18692
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -1722,6 +1722,7 @@
 0.0.0.0 barcodegeu.com
 0.0.0.0 barick-gold.com
 0.0.0.0 baringo-captron.com
+0.0.0.0 baronfunds.live
 0.0.0.0 baronplace.com
 0.0.0.0 barqmoney.com
 0.0.0.0 barrickmining.trade
@@ -2029,6 +2030,7 @@
 0.0.0.0 binarybasetrade.com
 0.0.0.0 binarycent.app
 0.0.0.0 binaryinvestmentplatform.org
+0.0.0.0 binarylogicoptions.com
 0.0.0.0 binaryoptionspace.com
 0.0.0.0 binaryoptiontrade.pro
 0.0.0.0 binaryprime.online
@@ -2928,6 +2930,7 @@
 0.0.0.0 britexoption.pro
 0.0.0.0 britishglobalmarkets.com
 0.0.0.0 britstradeai.com
+0.0.0.0 brivexequilty.live
 0.0.0.0 brixtonnco.com
 0.0.0.0 brket.cc
 0.0.0.0 brocprime.net
@@ -4474,6 +4477,7 @@
 0.0.0.0 cryptodexy.com
 0.0.0.0 cryptodrainers.net
 0.0.0.0 cryptoeasily.com
+0.0.0.0 cryptoenhanced.net
 0.0.0.0 cryptoex8.com
 0.0.0.0 cryptoexchangeco.com
 0.0.0.0 cryptoexchangeworldwide.net
@@ -5033,6 +5037,7 @@
 0.0.0.0 digital-growthinvext.com
 0.0.0.0 digital-hunch-seo.top
 0.0.0.0 digital-income.org
+0.0.0.0 digital-invests.ltd
 0.0.0.0 digital-master.org
 0.0.0.0 digital-noiro.com
 0.0.0.0 digital-realcapital.click
@@ -5205,6 +5210,7 @@
 0.0.0.0 domexglobal.com
 0.0.0.0 dominanrise.com
 0.0.0.0 dominanrise.org
+0.0.0.0 dominion-profitx.com
 0.0.0.0 dominioncalyxon.com
 0.0.0.0 dominionoptions.com
 0.0.0.0 dominionplatform.online
@@ -6811,6 +6817,7 @@
 0.0.0.0 fondexglobaltd.com
 0.0.0.0 fondsdamgb.com
 0.0.0.0 fonline-vip.com
+0.0.0.0 fonndure.com
 0.0.0.0 fonozo.com
 0.0.0.0 fontus-singapore.com
 0.0.0.0 fontustrader.com
@@ -6892,6 +6899,7 @@
 0.0.0.0 fortuneflix.biz
 0.0.0.0 fortuneforge.biz
 0.0.0.0 fortunegg.com
+0.0.0.0 fortuneinvests.online
 0.0.0.0 fortunenexus.vip
 0.0.0.0 fortuneprimeglobalus.cc
 0.0.0.0 fortuneprimeglobalxins.pro
@@ -7436,6 +7444,7 @@
 0.0.0.0 gleemcapes.biz
 0.0.0.0 glen-capitals.com
 0.0.0.0 glenbrookadvisory.com
+0.0.0.0 glencoemine.net
 0.0.0.0 glencoretrade.io
 0.0.0.0 glencoretrade.net
 0.0.0.0 glenstoneadvisory.com
@@ -7709,6 +7718,7 @@
 0.0.0.0 goldenkingcrab.cc
 0.0.0.0 goldenlegacyshares.com
 0.0.0.0 goldenminersapl.com
+0.0.0.0 goldenmint.net
 0.0.0.0 goldenoakasset.com
 0.0.0.0 goldenoakbk.com
 0.0.0.0 goldenpalmacademy.com
@@ -9437,6 +9447,7 @@
 0.0.0.0 kepwix.com
 0.0.0.0 kerave.com
 0.0.0.0 kerdant.com
+0.0.0.0 kernpragurtrading.com
 0.0.0.0 kerriswo.com
 0.0.0.0 kerunox.com
 0.0.0.0 keryt.se
@@ -10262,6 +10273,7 @@
 0.0.0.0 mandybio.com
 0.0.0.0 mangguo-tv.one
 0.0.0.0 maninvestments-ag.com
+0.0.0.0 manlnuy-astronayx.com
 0.0.0.0 mantistrade.com
 0.0.0.0 mantraclouds.com
 0.0.0.0 manu-investments.com
@@ -10633,6 +10645,7 @@
 0.0.0.0 metrixcapital.info
 0.0.0.0 metrixcapitalltd.com
 0.0.0.0 metrobitchain.com
+0.0.0.0 metrocoin.trade
 0.0.0.0 metroelite.online
 0.0.0.0 metrofinanceltd.com
 0.0.0.0 metrofinltd.com
@@ -10922,6 +10935,7 @@
 0.0.0.0 movexcoin.com
 0.0.0.0 movexispro.com
 0.0.0.0 movingmountains.today
+0.0.0.0 movowin.com
 0.0.0.0 mowdex.com
 0.0.0.0 moxitrade-market.com
 0.0.0.0 mpaybanking.com
@@ -11084,6 +11098,7 @@
 0.0.0.0 nadextradesoption.live
 0.0.0.0 naeban.com
 0.0.0.0 nagumo-densou.co.jp
+0.0.0.0 nahowin.com
 0.0.0.0 najmcapital.com
 0.0.0.0 nalera.com
 0.0.0.0 nalowex.com
@@ -11522,6 +11537,7 @@
 0.0.0.0 nortefondazgo.com
 0.0.0.0 north-capmere.com
 0.0.0.0 northbank.capital
+0.0.0.0 northbridgecapitals.org
 0.0.0.0 northbridgefx.com
 0.0.0.0 northbridgespark.cc
 0.0.0.0 northcratelogistics.com
@@ -13201,6 +13217,7 @@
 0.0.0.0 quantumcaptrade.org
 0.0.0.0 quantumchain.ltd
 0.0.0.0 quantumchainequity.site
+0.0.0.0 quantumcipherskeep.com
 0.0.0.0 quantumcrypto.world
 0.0.0.0 quantumedge.biz
 0.0.0.0 quantumedgealliance.com
@@ -15526,6 +15543,7 @@
 0.0.0.0 teslaxdealer.com
 0.0.0.0 teslaxgroup.com
 0.0.0.0 teslaxinvestcore.com
+0.0.0.0 teslazen.com
 0.0.0.0 teslerpro.com
 0.0.0.0 tesloplay.com
 0.0.0.0 teslstockwealth.com
@@ -15617,6 +15635,7 @@
 0.0.0.0 theminers.net
 0.0.0.0 themistradingllc.com
 0.0.0.0 themoneycompass.net
+0.0.0.0 themoneydetectives.com
 0.0.0.0 thenhlglobal.com
 0.0.0.0 thenorthernmarkets.com
 0.0.0.0 theobsidianstrive.net
@@ -17100,6 +17119,7 @@
 0.0.0.0 vantagemarkets.com
 0.0.0.0 vantagespro.live
 0.0.0.0 vantapeak.info
+0.0.0.0 vantariscapitalgroup.com
 0.0.0.0 vantex.ch
 0.0.0.0 vantrextrades.com
 0.0.0.0 vanweertllp.com
@@ -17860,6 +17880,7 @@
 0.0.0.0 whitmore-calloway.com
 0.0.0.0 whitmoretrust.com
 0.0.0.0 whiua.com
+0.0.0.0 whizsigs.sbs
 0.0.0.0 whowassattiver.club
 0.0.0.0 wibexplays.com
 0.0.0.0 wickedoneth.com
@@ -18160,6 +18181,7 @@
 0.0.0.0 xihlukeit.com
 0.0.0.0 xiifaga.com
 0.0.0.0 xingmarkets.com
+0.0.0.0 xion-trader.com
 0.0.0.0 xirominvest.com
 0.0.0.0 xirosholdings.com
 0.0.0.0 xleofx.com

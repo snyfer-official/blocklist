@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-10-13T03:13:13.991Z
-! Domains: 18670
+! Source updated: 2026-10-14T03:13:13.408Z
+! Domains: 18692
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -1724,6 +1724,7 @@
 ||barcodegeu.com^
 ||barick-gold.com^
 ||baringo-captron.com^
+||baronfunds.live^
 ||baronplace.com^
 ||barqmoney.com^
 ||barrickmining.trade^
@@ -2031,6 +2032,7 @@
 ||binarybasetrade.com^
 ||binarycent.app^
 ||binaryinvestmentplatform.org^
+||binarylogicoptions.com^
 ||binaryoptionspace.com^
 ||binaryoptiontrade.pro^
 ||binaryprime.online^
@@ -2930,6 +2932,7 @@
 ||britexoption.pro^
 ||britishglobalmarkets.com^
 ||britstradeai.com^
+||brivexequilty.live^
 ||brixtonnco.com^
 ||brket.cc^
 ||brocprime.net^
@@ -4476,6 +4479,7 @@
 ||cryptodexy.com^
 ||cryptodrainers.net^
 ||cryptoeasily.com^
+||cryptoenhanced.net^
 ||cryptoex8.com^
 ||cryptoexchangeco.com^
 ||cryptoexchangeworldwide.net^
@@ -5035,6 +5039,7 @@
 ||digital-growthinvext.com^
 ||digital-hunch-seo.top^
 ||digital-income.org^
+||digital-invests.ltd^
 ||digital-master.org^
 ||digital-noiro.com^
 ||digital-realcapital.click^
@@ -5207,6 +5212,7 @@
 ||domexglobal.com^
 ||dominanrise.com^
 ||dominanrise.org^
+||dominion-profitx.com^
 ||dominioncalyxon.com^
 ||dominionoptions.com^
 ||dominionplatform.online^
@@ -6813,6 +6819,7 @@
 ||fondexglobaltd.com^
 ||fondsdamgb.com^
 ||fonline-vip.com^
+||fonndure.com^
 ||fonozo.com^
 ||fontus-singapore.com^
 ||fontustrader.com^
@@ -6894,6 +6901,7 @@
 ||fortuneflix.biz^
 ||fortuneforge.biz^
 ||fortunegg.com^
+||fortuneinvests.online^
 ||fortunenexus.vip^
 ||fortuneprimeglobalus.cc^
 ||fortuneprimeglobalxins.pro^
@@ -7438,6 +7446,7 @@
 ||gleemcapes.biz^
 ||glen-capitals.com^
 ||glenbrookadvisory.com^
+||glencoemine.net^
 ||glencoretrade.io^
 ||glencoretrade.net^
 ||glenstoneadvisory.com^
@@ -7711,6 +7720,7 @@
 ||goldenkingcrab.cc^
 ||goldenlegacyshares.com^
 ||goldenminersapl.com^
+||goldenmint.net^
 ||goldenoakasset.com^
 ||goldenoakbk.com^
 ||goldenpalmacademy.com^
@@ -9439,6 +9449,7 @@
 ||kepwix.com^
 ||kerave.com^
 ||kerdant.com^
+||kernpragurtrading.com^
 ||kerriswo.com^
 ||kerunox.com^
 ||keryt.se^
@@ -10264,6 +10275,7 @@
 ||mandybio.com^
 ||mangguo-tv.one^
 ||maninvestments-ag.com^
+||manlnuy-astronayx.com^
 ||mantistrade.com^
 ||mantraclouds.com^
 ||manu-investments.com^
@@ -10635,6 +10647,7 @@
 ||metrixcapital.info^
 ||metrixcapitalltd.com^
 ||metrobitchain.com^
+||metrocoin.trade^
 ||metroelite.online^
 ||metrofinanceltd.com^
 ||metrofinltd.com^
@@ -10924,6 +10937,7 @@
 ||movexcoin.com^
 ||movexispro.com^
 ||movingmountains.today^
+||movowin.com^
 ||mowdex.com^
 ||moxitrade-market.com^
 ||mpaybanking.com^
@@ -11086,6 +11100,7 @@
 ||nadextradesoption.live^
 ||naeban.com^
 ||nagumo-densou.co.jp^
+||nahowin.com^
 ||najmcapital.com^
 ||nalera.com^
 ||nalowex.com^
@@ -11524,6 +11539,7 @@
 ||nortefondazgo.com^
 ||north-capmere.com^
 ||northbank.capital^
+||northbridgecapitals.org^
 ||northbridgefx.com^
 ||northbridgespark.cc^
 ||northcratelogistics.com^
@@ -13203,6 +13219,7 @@
 ||quantumcaptrade.org^
 ||quantumchain.ltd^
 ||quantumchainequity.site^
+||quantumcipherskeep.com^
 ||quantumcrypto.world^
 ||quantumedge.biz^
 ||quantumedgealliance.com^
@@ -15528,6 +15545,7 @@
 ||teslaxdealer.com^
 ||teslaxgroup.com^
 ||teslaxinvestcore.com^
+||teslazen.com^
 ||teslerpro.com^
 ||tesloplay.com^
 ||teslstockwealth.com^
@@ -15619,6 +15637,7 @@
 ||theminers.net^
 ||themistradingllc.com^
 ||themoneycompass.net^
+||themoneydetectives.com^
 ||thenhlglobal.com^
 ||thenorthernmarkets.com^
 ||theobsidianstrive.net^
@@ -17102,6 +17121,7 @@
 ||vantagemarkets.com^
 ||vantagespro.live^
 ||vantapeak.info^
+||vantariscapitalgroup.com^
 ||vantex.ch^
 ||vantrextrades.com^
 ||vanweertllp.com^
@@ -17862,6 +17882,7 @@
 ||whitmore-calloway.com^
 ||whitmoretrust.com^
 ||whiua.com^
+||whizsigs.sbs^
 ||whowassattiver.club^
 ||wibexplays.com^
 ||wickedoneth.com^
@@ -18162,6 +18183,7 @@
 ||xihlukeit.com^
 ||xiifaga.com^
 ||xingmarkets.com^
+||xion-trader.com^
 ||xirominvest.com^
 ||xirosholdings.com^
 ||xleofx.com^
