@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-10-14T03:13:13.408Z
-# Domains: 18692
+# Source updated: 2026-10-15T03:13:17.221Z
+# Domains: 18711
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -1105,6 +1105,7 @@
 0.0.0.0 apx-ca.com
 0.0.0.0 apx-ca.io
 0.0.0.0 apxcapro.com
+0.0.0.0 aqgpartner.com
 0.0.0.0 aqpazk.top
 0.0.0.0 aqrl-trade.com
 0.0.0.0 aquila-markets.com
@@ -3298,6 +3299,7 @@
 0.0.0.0 capitalcrestline.com
 0.0.0.0 capitalcrypto.net
 0.0.0.0 capitaledgemarket.com
+0.0.0.0 capitaledgemarket.live
 0.0.0.0 capitalelan.com
 0.0.0.0 capitalexparttraders.net
 0.0.0.0 capitalexpertise.live
@@ -3484,6 +3486,7 @@
 0.0.0.0 cbullscryptexchg.com
 0.0.0.0 cc-globaltrading.com
 0.0.0.0 ccacouncil.com
+0.0.0.0 ccamarkets.com
 0.0.0.0 ccapitalfx.com
 0.0.0.0 ccbiglobal.com
 0.0.0.0 cce-inv.com
@@ -5014,6 +5017,7 @@
 0.0.0.0 diamondluxe236.vip
 0.0.0.0 diamondprimecap.com
 0.0.0.0 diamondridgeai.com
+0.0.0.0 diamondstock.org
 0.0.0.0 diamondwels.ltd
 0.0.0.0 dibitcoin.com
 0.0.0.0 dibqc.com
@@ -5573,6 +5577,7 @@
 0.0.0.0 ehamarkets.com
 0.0.0.0 ehamarkets.icu
 0.0.0.0 ehamarkets.net
+0.0.0.0 ehamarkets.pro
 0.0.0.0 ehomohsk.top
 0.0.0.0 ehoxohsk.top
 0.0.0.0 eicash.com
@@ -5679,6 +5684,7 @@
 0.0.0.0 elitesprotrade.com
 0.0.0.0 elitestartlimited.com
 0.0.0.0 elitestockholdings.com
+0.0.0.0 elitestockscapital.org
 0.0.0.0 elitesvaults.com
 0.0.0.0 elitesynctrade.com
 0.0.0.0 elitetimelinecopytrade.com
@@ -6083,6 +6089,7 @@
 0.0.0.0 exchangepro.org
 0.0.0.0 exchangesky.in
 0.0.0.0 exchfxstocks.com
+0.0.0.0 exchsec.com
 0.0.0.0 exclusive-trades.online
 0.0.0.0 exclusivemarkets.com
 0.0.0.0 exclusivemarketsid.com
@@ -6386,6 +6393,7 @@
 0.0.0.0 fibotracemarket.com
 0.0.0.0 fibovest.com
 0.0.0.0 fibrafx.com
+0.0.0.0 fid-tradetech.com
 0.0.0.0 fidareprime.com
 0.0.0.0 fidbitix.io
 0.0.0.0 fidel-equity.vip
@@ -6693,6 +6701,7 @@
 0.0.0.0 fixoneglobal.com
 0.0.0.0 fixtrezor.com
 0.0.0.0 fixvesta.com
+0.0.0.0 fjordfinance.no
 0.0.0.0 fkq30.com
 0.0.0.0 fladrex.com
 0.0.0.0 flaggschiff.ag
@@ -7235,6 +7244,7 @@
 0.0.0.0 galerendholmofficial.com
 0.0.0.0 galidix-v3.com
 0.0.0.0 galidix.com
+0.0.0.0 gallaeciafx.com
 0.0.0.0 galomex.com
 0.0.0.0 galowex.com
 0.0.0.0 galvestonadvisory.com
@@ -10407,6 +10417,7 @@
 0.0.0.0 mavenaccord-finance.ltd
 0.0.0.0 maventrades.vip
 0.0.0.0 mavisglobaltrading.com
+0.0.0.0 mavoratrade.org
 0.0.0.0 mavro.club
 0.0.0.0 max7trade.com
 0.0.0.0 maxbetwin.cc
@@ -13105,6 +13116,7 @@
 0.0.0.0 qfsnesaravault.org
 0.0.0.0 qfsquantumsecurity.com
 0.0.0.0 qfw.cc
+0.0.0.0 qfxmarket.co.uk
 0.0.0.0 qgkne.com
 0.0.0.0 qhazanah.com
 0.0.0.0 qihgeitx.com
@@ -13293,6 +13305,7 @@
 0.0.0.0 qumasai.org
 0.0.0.0 quocoin.com
 0.0.0.0 quorixtrading.com
+0.0.0.0 quorumcapitalltd.com
 0.0.0.0 quoteklerk.com
 0.0.0.0 quotemego.com
 0.0.0.0 quotexfunding.com
@@ -14194,6 +14207,7 @@
 0.0.0.0 shieldgoldsignals-pro.com
 0.0.0.0 shieldleafs.com
 0.0.0.0 shieldstonecu.com
+0.0.0.0 shinenwt.com
 0.0.0.0 shipping-xl.com
 0.0.0.0 shiuhr.com
 0.0.0.0 shogun-markets.com
@@ -15636,6 +15650,7 @@
 0.0.0.0 themistradingllc.com
 0.0.0.0 themoneycompass.net
 0.0.0.0 themoneydetectives.com
+0.0.0.0 thenexvara.com
 0.0.0.0 thenhlglobal.com
 0.0.0.0 thenorthernmarkets.com
 0.0.0.0 theobsidianstrive.net
@@ -15850,6 +15865,7 @@
 0.0.0.0 topoptiontraders.com
 0.0.0.0 toppipsinvestment.com
 0.0.0.0 topraceglobal.com
+0.0.0.0 topstepprime.live
 0.0.0.0 topta1.com
 0.0.0.0 toptier-finance.com
 0.0.0.0 toptiermngt.com
@@ -17830,6 +17846,7 @@
 0.0.0.0 westernaitraders.com
 0.0.0.0 westernmarkettrade.com
 0.0.0.0 westernstandard.vip
+0.0.0.0 westiquant.com
 0.0.0.0 westpaylite.com
 0.0.0.0 westrisecorebit.live
 0.0.0.0 westrogain.pro
@@ -17935,6 +17952,7 @@
 0.0.0.0 winz.surf
 0.0.0.0 wiodex.com
 0.0.0.0 wiowax.com
+0.0.0.0 wirebit.ca
 0.0.0.0 wirebroker.io
 0.0.0.0 wirenow.app
 0.0.0.0 wirezee-ltd.co
@@ -18636,6 +18654,7 @@
 0.0.0.0 zseinvestmenthub.xyz
 0.0.0.0 zstlbike.vip
 0.0.0.0 zsxlxh.net
+0.0.0.0 zsysc.com
 0.0.0.0 ztremo.com
 0.0.0.0 ztron-nmn.com
 0.0.0.0 ztxbit.com
