@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-10-15T03:13:17.221Z
-# Domains: 18711
+# Source updated: 2026-10-16T03:13:13.279Z
+# Domains: 18733
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -474,6 +474,7 @@
 0.0.0.0 aimcryptospacec.com
 0.0.0.0 aimcryptox.com
 0.0.0.0 aimeta.ltd
+0.0.0.0 aimex.cc
 0.0.0.0 aiminers.pro
 0.0.0.0 aiminers.vip
 0.0.0.0 aiminingex.com
@@ -2696,6 +2697,7 @@
 0.0.0.0 blueberryinvtrading.com
 0.0.0.0 blueberrymarkets.com
 0.0.0.0 bluebridgecapitals.com
+0.0.0.0 bluecandleai.com
 0.0.0.0 bluecex.com
 0.0.0.0 bluechaincapital.com
 0.0.0.0 bluechip-expert.com
@@ -3213,6 +3215,7 @@
 0.0.0.0 caldernance.com
 0.0.0.0 calderonfx.live
 0.0.0.0 calderwren.com
+0.0.0.0 caldovex.com
 0.0.0.0 caldwelasets.com
 0.0.0.0 caligo.top
 0.0.0.0 calistatrade.com
@@ -5250,6 +5253,7 @@
 0.0.0.0 doxfundchain.net
 0.0.0.0 doyos.com
 0.0.0.0 dp57.com
+0.0.0.0 dpi-investment.com
 0.0.0.0 dprestigebroker.com
 0.0.0.0 dracosbet.com
 0.0.0.0 dragofund.com
@@ -5394,6 +5398,7 @@
 0.0.0.0 duex.com
 0.0.0.0 duffytop.com
 0.0.0.0 dufourbit.com
+0.0.0.0 dukenergytrade.ltd
 0.0.0.0 dunegex.com
 0.0.0.0 duneintegrated.com
 0.0.0.0 duneriat.fi
@@ -6055,6 +6060,7 @@
 0.0.0.0 evoglobaltrade.com
 0.0.0.0 evoltex.org
 0.0.0.0 evolutionempire.net
+0.0.0.0 evolutionmitservices.com
 0.0.0.0 evolutisgroup.co
 0.0.0.0 evolutontradx.com
 0.0.0.0 evolutpaypoints.com
@@ -8247,6 +8253,7 @@
 0.0.0.0 harborstonesociety.com
 0.0.0.0 harborvestes.com
 0.0.0.0 harbournaturetrade.com
+0.0.0.0 harbourswealthgroups.com
 0.0.0.0 hardson.com
 0.0.0.0 hardspinner.com
 0.0.0.0 harindale.trade
@@ -8968,6 +8975,7 @@
 0.0.0.0 inteltradecapital.com
 0.0.0.0 intenfix.com
 0.0.0.0 intensinvest.com
+0.0.0.0 inter-actives.com
 0.0.0.0 inter-cove.net
 0.0.0.0 inter-forex.com
 0.0.0.0 interactinvest.com
@@ -9616,6 +9624,7 @@
 0.0.0.0 kriptowealth.com
 0.0.0.0 krivi.xyz
 0.0.0.0 kroamex.com
+0.0.0.0 kroi-invest.com
 0.0.0.0 kronex.top
 0.0.0.0 kronexcapital.com
 0.0.0.0 kronxkings.us
@@ -10894,6 +10903,7 @@
 0.0.0.0 montaracapitals.com
 0.0.0.0 montarae.com
 0.0.0.0 montaria-sa.ch
+0.0.0.0 montaris-ag.com
 0.0.0.0 montblancltd.com
 0.0.0.0 montechcenterinvest.com
 0.0.0.0 montelsyvra.com
@@ -12749,6 +12759,7 @@
 0.0.0.0 primeapextrade.com
 0.0.0.0 primearb-crypto.com
 0.0.0.0 primeart.org
+0.0.0.0 primeassets-trading.net
 0.0.0.0 primeaura.fi
 0.0.0.0 primeaurasweden.com
 0.0.0.0 primeautoinvest.ru
@@ -13935,6 +13946,7 @@
 0.0.0.0 salpremiumaline.live
 0.0.0.0 saltswap.io
 0.0.0.0 saluno.io
+0.0.0.0 sama-schnell.com
 0.0.0.0 samashopreview.cc
 0.0.0.0 samodex.com
 0.0.0.0 samstarcapital.com
@@ -14970,6 +14982,7 @@
 0.0.0.0 steerum.com
 0.0.0.0 stegeritfinanz.com
 0.0.0.0 steinip.net
+0.0.0.0 steinvault.com
 0.0.0.0 stelarcapital.com
 0.0.0.0 stellablueltd.com
 0.0.0.0 stellamusks.com
@@ -15050,6 +15063,7 @@
 0.0.0.0 stocksexplorer.live
 0.0.0.0 stocksprofits.com
 0.0.0.0 stockstrategy.click
+0.0.0.0 stocksyieldict.net
 0.0.0.0 stocktrademarketx.com
 0.0.0.0 stockvestglobal.com
 0.0.0.0 stockwealthinvestment.online
@@ -15494,6 +15508,7 @@
 0.0.0.0 telonux.com
 0.0.0.0 telsbullmarket.com
 0.0.0.0 temaforex.com
+0.0.0.0 tempstone-cap.com
 0.0.0.0 tempx-revogain.app
 0.0.0.0 temstarlimited.com
 0.0.0.0 tenadex.com
@@ -15656,6 +15671,7 @@
 0.0.0.0 theobsidianstrive.net
 0.0.0.0 thepb.click
 0.0.0.0 theprofitlegion.net
+0.0.0.0 thepropertyinsight.com
 0.0.0.0 therealtradesignal.com
 0.0.0.0 therealworldunplugged.com
 0.0.0.0 thetatrade.org
@@ -17091,6 +17107,9 @@
 0.0.0.0 valero-markets.com
 0.0.0.0 valexfinancial.com
 0.0.0.0 valexspin.com
+0.0.0.0 valgreen-ag.com
+0.0.0.0 valgreen.xyz
+0.0.0.0 valgreentrad.com
 0.0.0.0 valiant-markets.com
 0.0.0.0 valiantequities.com
 0.0.0.0 valiantmarkets.com
@@ -17310,6 +17329,7 @@
 0.0.0.0 veritycopyoption.com
 0.0.0.0 verogreatnest.com
 0.0.0.0 versamind.io
+0.0.0.0 versoinvestments.com
 0.0.0.0 versus.trade
 0.0.0.0 vertastik.com
 0.0.0.0 vertaxchange.com
@@ -17758,6 +17778,8 @@
 0.0.0.0 wealthwavestart.info
 0.0.0.0 wealthwillis.com
 0.0.0.0 wealthwise-invn.space
+0.0.0.0 wealthyassetmanag.com
+0.0.0.0 wealthyassets.com
 0.0.0.0 wealvox.com
 0.0.0.0 weareauvrax.com
 0.0.0.0 weareshop.cc
