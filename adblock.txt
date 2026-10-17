@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-10-16T03:13:13.279Z
-! Domains: 18733
+! Source updated: 2026-10-17T03:13:13.877Z
+! Domains: 18757
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -318,6 +318,7 @@
 ||adler-ch.com^
 ||adm-group.ac^
 ||adm-group.cc^
+||adm-group.co^
 ||adm-international.net^
 ||admiral-trade.ai^
 ||admiral.markets^
@@ -416,6 +417,7 @@
 ||agrofinance-autoearning.cloud^
 ||agrolive.org^
 ||agrowealthbuilder.com^
+||agtefondvik.net^
 ||aguero-casino.com^
 ||aguilarcapital.ch^
 ||agung-fondholm.com^
@@ -766,6 +768,7 @@
 ||alquity-investments.uk^
 ||alr-cure.link^
 ||alrminer.com^
+||alsetmarkets.com^
 ||alshagairionline.com^
 ||alsignals.live^
 ||alskaworld.com^
@@ -1124,6 +1127,7 @@
 ||arbinio.es^
 ||arbiniosweden.com^
 ||arbionassets.com^
+||arbionassetsmanagement.com^
 ||arbionis-ireland.com^
 ||arbionis-se.com^
 ||arbionswift.com^
@@ -3222,6 +3226,7 @@
 ||caligo.top^
 ||calistatrade.com^
 ||call4trade.com^
+||callassists.com^
 ||callistofx.com^
 ||calowex.com^
 ||calvenridge-trust.com^
@@ -3715,6 +3720,7 @@
 ||claim-gettrumpmemes.com^
 ||claimfinder.top^
 ||claimgrid.co.uk^
+||claimmydisrepair.co.uk^
 ||claimscheck.live^
 ||claimsureltd.co.uk^
 ||clair-montfils.com^
@@ -4020,6 +4026,7 @@
 ||coinscans.cc^
 ||coinsco.io^
 ||coinscobe.com^
+||coinscryp.com^
 ||coinscyclone.org^
 ||coinsexchangemarket.com^
 ||coinsfasttrades.com^
@@ -5989,6 +5996,7 @@
 ||eu-markets.co^
 ||eucex.icu^
 ||eunhyukcapital.com^
+||eunoiamarket.com^
 ||euoctafx.com^
 ||eurfxttrade.net^
 ||eurkron.com^
@@ -7200,6 +7208,7 @@
 ||fxprotalk.com^
 ||fxprovip.com^
 ||fxpulsy.com^
+||fxquantixoption.com^
 ||fxr-ai.com^
 ||fxrevenues.co^
 ||fxrk.com^
@@ -7410,6 +7419,7 @@
 ||getocap.trade^
 ||getocapit.trade^
 ||gexertmax.com^
+||geyser-sparrow.com^
 ||gezorex.com^
 ||gezowin.com^
 ||gf-limited.co^
@@ -8969,6 +8979,7 @@
 ||integratebase.com^
 ||intelapp2.com^
 ||intelilawllp.com^
+||intellariotradepro-ai.com^
 ||intellias.online^
 ||intelligencechipgrouplimited.cc^
 ||intelliwealthgp.com^
@@ -9414,6 +9425,7 @@
 ||kastwin150.pro^
 ||katoprime.com^
 ||katywin.com^
+||kaudecto.net^
 ||kautax.com^
 ||kavenapartners.com^
 ||kavomanor.com^
@@ -10487,6 +10499,7 @@
 ||mcugs.com^
 ||mdtc.group^
 ||me75.com^
+||meadowcrist.info^
 ||mebgroupe.com^
 ||mebitx.com^
 ||mebleri.com^
@@ -11102,6 +11115,7 @@
 ||myqbn.com^
 ||myquoteswiss.com^
 ||myronexcipher69.com^
+||myroyality.com^
 ||myrtle.ltd^
 ||mysti-win.com^
 ||mystrade0.com^
@@ -11490,6 +11504,7 @@
 ||noanux.com^
 ||noarax.com^
 ||nobilisnova.com^
+||nobilzestriune.net^
 ||noble-funds.com^
 ||noble-gaingrove.com^
 ||noblebridgebank.info^
@@ -13537,6 +13552,7 @@
 ||remus-corp.com^
 ||remyinvestments.com^
 ||rendaxo.com^
+||rendelioai.net^
 ||renditix-ai.net^
 ||renditixpro.space^
 ||rendwex.com^
@@ -13833,6 +13849,7 @@
 ||rr-inv.com^
 ||rrdgs.com^
 ||rrenditixai.it^
+||rrjpro.com^
 ||rrtxqq.com^
 ||rsbond.net^
 ||rsinvestlimited.com^
@@ -15134,6 +15151,7 @@
 ||stryvaxtop.com^
 ||stryvaxweb.com^
 ||stton.vip^
+||studypathq.com^
 ||stupal.com^
 ||sturdyfx.com^
 ||stuwen-opulex.com^
@@ -15234,6 +15252,7 @@
 ||svcapitalists.com^
 ||sverilan.online^
 ||svexchangepro.net^
+||svjetlobrfinlore.net^
 ||svktraderpro.com^
 ||svongor.com^
 ||sw003.com^
@@ -15700,6 +15719,7 @@
 ||third-party.com^
 ||thkafa.com^
 ||thompsonimb.com^
+||thornmeadowcox.com^
 ||threemholding.com^
 ||threxity.com^
 ||thrivalance.com^
@@ -17122,6 +17142,7 @@
 ||valmeks.com^
 ||valodex.pro^
 ||valorabitnex.com^
+||valorafinancialbank.com^
 ||valoranco.com^
 ||valoranco.org^
 ||valoristrust-corp.com^
@@ -17676,6 +17697,7 @@
 ||wanda-tv.one^
 ||wanderzonel.info^
 ||wantage-markets.com^
+||wantonsgroup.com^
 ||wapex.com^
 ||wardcapitalforum.com^
 ||warven-wealthvale.com^
@@ -17818,6 +17840,7 @@
 ||web3max.cc^
 ||web3nexo1.cc^
 ||web3state.com^
+||web3strata.com^
 ||web3teslaworld.com^
 ||web3verse.org^
 ||web6bisqq.cc^
@@ -18093,6 +18116,7 @@
 ||x2crypto.win^
 ||x79710.com^
 ||x99s7.games^
+||x9digitalpr0.com^
 ||xa22p-token.com^
 ||xa24d.com^
 ||xa28r.org^

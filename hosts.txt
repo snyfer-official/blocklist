@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-10-16T03:13:13.279Z
-# Domains: 18733
+# Source updated: 2026-10-17T03:13:13.877Z
+# Domains: 18757
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -316,6 +316,7 @@
 0.0.0.0 adler-ch.com
 0.0.0.0 adm-group.ac
 0.0.0.0 adm-group.cc
+0.0.0.0 adm-group.co
 0.0.0.0 adm-international.net
 0.0.0.0 admiral-trade.ai
 0.0.0.0 admiral.markets
@@ -414,6 +415,7 @@
 0.0.0.0 agrofinance-autoearning.cloud
 0.0.0.0 agrolive.org
 0.0.0.0 agrowealthbuilder.com
+0.0.0.0 agtefondvik.net
 0.0.0.0 aguero-casino.com
 0.0.0.0 aguilarcapital.ch
 0.0.0.0 agung-fondholm.com
@@ -764,6 +766,7 @@
 0.0.0.0 alquity-investments.uk
 0.0.0.0 alr-cure.link
 0.0.0.0 alrminer.com
+0.0.0.0 alsetmarkets.com
 0.0.0.0 alshagairionline.com
 0.0.0.0 alsignals.live
 0.0.0.0 alskaworld.com
@@ -1122,6 +1125,7 @@
 0.0.0.0 arbinio.es
 0.0.0.0 arbiniosweden.com
 0.0.0.0 arbionassets.com
+0.0.0.0 arbionassetsmanagement.com
 0.0.0.0 arbionis-ireland.com
 0.0.0.0 arbionis-se.com
 0.0.0.0 arbionswift.com
@@ -3220,6 +3224,7 @@
 0.0.0.0 caligo.top
 0.0.0.0 calistatrade.com
 0.0.0.0 call4trade.com
+0.0.0.0 callassists.com
 0.0.0.0 callistofx.com
 0.0.0.0 calowex.com
 0.0.0.0 calvenridge-trust.com
@@ -3713,6 +3718,7 @@
 0.0.0.0 claim-gettrumpmemes.com
 0.0.0.0 claimfinder.top
 0.0.0.0 claimgrid.co.uk
+0.0.0.0 claimmydisrepair.co.uk
 0.0.0.0 claimscheck.live
 0.0.0.0 claimsureltd.co.uk
 0.0.0.0 clair-montfils.com
@@ -4018,6 +4024,7 @@
 0.0.0.0 coinscans.cc
 0.0.0.0 coinsco.io
 0.0.0.0 coinscobe.com
+0.0.0.0 coinscryp.com
 0.0.0.0 coinscyclone.org
 0.0.0.0 coinsexchangemarket.com
 0.0.0.0 coinsfasttrades.com
@@ -5987,6 +5994,7 @@
 0.0.0.0 eu-markets.co
 0.0.0.0 eucex.icu
 0.0.0.0 eunhyukcapital.com
+0.0.0.0 eunoiamarket.com
 0.0.0.0 euoctafx.com
 0.0.0.0 eurfxttrade.net
 0.0.0.0 eurkron.com
@@ -7198,6 +7206,7 @@
 0.0.0.0 fxprotalk.com
 0.0.0.0 fxprovip.com
 0.0.0.0 fxpulsy.com
+0.0.0.0 fxquantixoption.com
 0.0.0.0 fxr-ai.com
 0.0.0.0 fxrevenues.co
 0.0.0.0 fxrk.com
@@ -7408,6 +7417,7 @@
 0.0.0.0 getocap.trade
 0.0.0.0 getocapit.trade
 0.0.0.0 gexertmax.com
+0.0.0.0 geyser-sparrow.com
 0.0.0.0 gezorex.com
 0.0.0.0 gezowin.com
 0.0.0.0 gf-limited.co
@@ -8967,6 +8977,7 @@
 0.0.0.0 integratebase.com
 0.0.0.0 intelapp2.com
 0.0.0.0 intelilawllp.com
+0.0.0.0 intellariotradepro-ai.com
 0.0.0.0 intellias.online
 0.0.0.0 intelligencechipgrouplimited.cc
 0.0.0.0 intelliwealthgp.com
@@ -9412,6 +9423,7 @@
 0.0.0.0 kastwin150.pro
 0.0.0.0 katoprime.com
 0.0.0.0 katywin.com
+0.0.0.0 kaudecto.net
 0.0.0.0 kautax.com
 0.0.0.0 kavenapartners.com
 0.0.0.0 kavomanor.com
@@ -10485,6 +10497,7 @@
 0.0.0.0 mcugs.com
 0.0.0.0 mdtc.group
 0.0.0.0 me75.com
+0.0.0.0 meadowcrist.info
 0.0.0.0 mebgroupe.com
 0.0.0.0 mebitx.com
 0.0.0.0 mebleri.com
@@ -11100,6 +11113,7 @@
 0.0.0.0 myqbn.com
 0.0.0.0 myquoteswiss.com
 0.0.0.0 myronexcipher69.com
+0.0.0.0 myroyality.com
 0.0.0.0 myrtle.ltd
 0.0.0.0 mysti-win.com
 0.0.0.0 mystrade0.com
@@ -11488,6 +11502,7 @@
 0.0.0.0 noanux.com
 0.0.0.0 noarax.com
 0.0.0.0 nobilisnova.com
+0.0.0.0 nobilzestriune.net
 0.0.0.0 noble-funds.com
 0.0.0.0 noble-gaingrove.com
 0.0.0.0 noblebridgebank.info
@@ -13535,6 +13550,7 @@
 0.0.0.0 remus-corp.com
 0.0.0.0 remyinvestments.com
 0.0.0.0 rendaxo.com
+0.0.0.0 rendelioai.net
 0.0.0.0 renditix-ai.net
 0.0.0.0 renditixpro.space
 0.0.0.0 rendwex.com
@@ -13831,6 +13847,7 @@
 0.0.0.0 rr-inv.com
 0.0.0.0 rrdgs.com
 0.0.0.0 rrenditixai.it
+0.0.0.0 rrjpro.com
 0.0.0.0 rrtxqq.com
 0.0.0.0 rsbond.net
 0.0.0.0 rsinvestlimited.com
@@ -15132,6 +15149,7 @@
 0.0.0.0 stryvaxtop.com
 0.0.0.0 stryvaxweb.com
 0.0.0.0 stton.vip
+0.0.0.0 studypathq.com
 0.0.0.0 stupal.com
 0.0.0.0 sturdyfx.com
 0.0.0.0 stuwen-opulex.com
@@ -15232,6 +15250,7 @@
 0.0.0.0 svcapitalists.com
 0.0.0.0 sverilan.online
 0.0.0.0 svexchangepro.net
+0.0.0.0 svjetlobrfinlore.net
 0.0.0.0 svktraderpro.com
 0.0.0.0 svongor.com
 0.0.0.0 sw003.com
@@ -15698,6 +15717,7 @@
 0.0.0.0 third-party.com
 0.0.0.0 thkafa.com
 0.0.0.0 thompsonimb.com
+0.0.0.0 thornmeadowcox.com
 0.0.0.0 threemholding.com
 0.0.0.0 threxity.com
 0.0.0.0 thrivalance.com
@@ -17120,6 +17140,7 @@
 0.0.0.0 valmeks.com
 0.0.0.0 valodex.pro
 0.0.0.0 valorabitnex.com
+0.0.0.0 valorafinancialbank.com
 0.0.0.0 valoranco.com
 0.0.0.0 valoranco.org
 0.0.0.0 valoristrust-corp.com
@@ -17674,6 +17695,7 @@
 0.0.0.0 wanda-tv.one
 0.0.0.0 wanderzonel.info
 0.0.0.0 wantage-markets.com
+0.0.0.0 wantonsgroup.com
 0.0.0.0 wapex.com
 0.0.0.0 wardcapitalforum.com
 0.0.0.0 warven-wealthvale.com
@@ -17816,6 +17838,7 @@
 0.0.0.0 web3max.cc
 0.0.0.0 web3nexo1.cc
 0.0.0.0 web3state.com
+0.0.0.0 web3strata.com
 0.0.0.0 web3teslaworld.com
 0.0.0.0 web3verse.org
 0.0.0.0 web6bisqq.cc
@@ -18091,6 +18114,7 @@
 0.0.0.0 x2crypto.win
 0.0.0.0 x79710.com
 0.0.0.0 x99s7.games
+0.0.0.0 x9digitalpr0.com
 0.0.0.0 xa22p-token.com
 0.0.0.0 xa24d.com
 0.0.0.0 xa28r.org
