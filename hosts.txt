@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-10-17T03:13:13.877Z
-# Domains: 18757
+# Source updated: 2026-10-18T03:13:13.627Z
+# Domains: 18766
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -383,6 +383,7 @@
 0.0.0.0 affluence-management.com
 0.0.0.0 affluence-markets.com
 0.0.0.0 affluencetradinghub.live
+0.0.0.0 affluenttd.live
 0.0.0.0 afg-wealth.cc
 0.0.0.0 afk-invest.com
 0.0.0.0 afmb.netlify.app
@@ -649,6 +650,7 @@
 0.0.0.0 alliancx-trades.com
 0.0.0.0 alliedholdingslimited.com
 0.0.0.0 alliedstockslimited.com
+0.0.0.0 allkryptostrategies.com
 0.0.0.0 allmarkettrades.com
 0.0.0.0 alloyedmining.com
 0.0.0.0 allp.uk
@@ -7521,6 +7523,7 @@
 0.0.0.0 globalcryptofinnex.live
 0.0.0.0 globalcryptosfx.space
 0.0.0.0 globalcryptoyield.com
+0.0.0.0 globaldiamondlmt.com
 0.0.0.0 globaldigitalmarketonline.com
 0.0.0.0 globaldigitaltrades.com
 0.0.0.0 globaldynamictrade.org
@@ -8884,6 +8887,7 @@
 0.0.0.0 indexstrategyftse.com
 0.0.0.0 indextradingvip.com
 0.0.0.0 indluno.com
+0.0.0.0 indoxtrade.org
 0.0.0.0 industria-forsakring.com
 0.0.0.0 inefex.com
 0.0.0.0 inefex.org
@@ -10484,6 +10488,7 @@
 0.0.0.0 mbf-limited.com
 0.0.0.0 mbgc.live
 0.0.0.0 mbit-eth.com
+0.0.0.0 mbxpro.com
 0.0.0.0 mc-patrimoine-sa.com
 0.0.0.0 mc-patrimoine.ch
 0.0.0.0 mc-prime.cx
@@ -11087,6 +11092,7 @@
 0.0.0.0 mycoinstrike.net
 0.0.0.0 mycoinstrike.org
 0.0.0.0 mycryptofinance.net
+0.0.0.0 mycryptoftmo.com
 0.0.0.0 mycurrencyexpert.com
 0.0.0.0 mydex.ltd
 0.0.0.0 myelitetradesolutions.com
@@ -14493,6 +14499,7 @@
 0.0.0.0 sofinanse.se
 0.0.0.0 sofiswift.com
 0.0.0.0 softwareautorefixnode.co
+0.0.0.0 softwareservice24.com
 0.0.0.0 sogamb.cc
 0.0.0.0 sogoinvest.com
 0.0.0.0 sohayaa.online
@@ -15527,6 +15534,7 @@
 0.0.0.0 telonux.com
 0.0.0.0 telsbullmarket.com
 0.0.0.0 temaforex.com
+0.0.0.0 tempinsurecover.ie
 0.0.0.0 tempstone-cap.com
 0.0.0.0 tempx-revogain.app
 0.0.0.0 temstarlimited.com
@@ -17866,6 +17874,7 @@
 0.0.0.0 weezlimited.com
 0.0.0.0 wefunder.com
 0.0.0.0 wegdex.com
+0.0.0.0 wegoinsure.ie
 0.0.0.0 weibix.com
 0.0.0.0 weissgruppe.cz
 0.0.0.0 welcomeville-investment.info

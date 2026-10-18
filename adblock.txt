@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-10-17T03:13:13.877Z
-! Domains: 18757
+! Source updated: 2026-10-18T03:13:13.627Z
+! Domains: 18766
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -385,6 +385,7 @@
 ||affluence-management.com^
 ||affluence-markets.com^
 ||affluencetradinghub.live^
+||affluenttd.live^
 ||afg-wealth.cc^
 ||afk-invest.com^
 ||afmb.netlify.app^
@@ -651,6 +652,7 @@
 ||alliancx-trades.com^
 ||alliedholdingslimited.com^
 ||alliedstockslimited.com^
+||allkryptostrategies.com^
 ||allmarkettrades.com^
 ||alloyedmining.com^
 ||allp.uk^
@@ -7523,6 +7525,7 @@
 ||globalcryptofinnex.live^
 ||globalcryptosfx.space^
 ||globalcryptoyield.com^
+||globaldiamondlmt.com^
 ||globaldigitalmarketonline.com^
 ||globaldigitaltrades.com^
 ||globaldynamictrade.org^
@@ -8886,6 +8889,7 @@
 ||indexstrategyftse.com^
 ||indextradingvip.com^
 ||indluno.com^
+||indoxtrade.org^
 ||industria-forsakring.com^
 ||inefex.com^
 ||inefex.org^
@@ -10486,6 +10490,7 @@
 ||mbf-limited.com^
 ||mbgc.live^
 ||mbit-eth.com^
+||mbxpro.com^
 ||mc-patrimoine-sa.com^
 ||mc-patrimoine.ch^
 ||mc-prime.cx^
@@ -11089,6 +11094,7 @@
 ||mycoinstrike.net^
 ||mycoinstrike.org^
 ||mycryptofinance.net^
+||mycryptoftmo.com^
 ||mycurrencyexpert.com^
 ||mydex.ltd^
 ||myelitetradesolutions.com^
@@ -14495,6 +14501,7 @@
 ||sofinanse.se^
 ||sofiswift.com^
 ||softwareautorefixnode.co^
+||softwareservice24.com^
 ||sogamb.cc^
 ||sogoinvest.com^
 ||sohayaa.online^
@@ -15529,6 +15536,7 @@
 ||telonux.com^
 ||telsbullmarket.com^
 ||temaforex.com^
+||tempinsurecover.ie^
 ||tempstone-cap.com^
 ||tempx-revogain.app^
 ||temstarlimited.com^
@@ -17868,6 +17876,7 @@
 ||weezlimited.com^
 ||wefunder.com^
 ||wegdex.com^
+||wegoinsure.ie^
 ||weibix.com^
 ||weissgruppe.cz^
 ||welcomeville-investment.info^
