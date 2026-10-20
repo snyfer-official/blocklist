@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-10-19T03:13:13.871Z
-! Domains: 18766
+! Source updated: 2026-10-20T03:13:13.658Z
+! Domains: 18781
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -1440,6 +1440,7 @@
 ||auextrade.com^
 ||augurcapitaltrade.xyz^
 ||aukbridge.com^
+||aumarketstoday.com^
 ||aumentsec.com^
 ||aumsecs.com^
 ||auracapitalvest.com^
@@ -3616,6 +3617,7 @@
 ||cfxfund.com^
 ||cfxlegacy.pro^
 ||cfxstockmkt.com^
+||cfxtradepro.com^
 ||cfxtradesystem.com^
 ||cgsisd.vip^
 ||chaikon.com^
@@ -3786,6 +3788,7 @@
 ||cloutchainsfx.ltd^
 ||cloveradopt.top^
 ||clpfc.com^
+||clrsky-capt.com^
 ||clseo.com^
 ||clymero.com^
 ||clyvoagrowth.online^
@@ -4895,6 +4898,7 @@
 ||deluxxegloball.ltd^
 ||dembit.com^
 ||demetrixcoins.com^
+||deminitradefx.com^
 ||demisto.xyz^
 ||demobuchi.com^
 ||denoex.com^
@@ -5712,6 +5716,7 @@
 ||elitetradingbot.com^
 ||elitetradingsol.com^
 ||elitetrustglobal.org^
+||elitevaultholding.com^
 ||elitevestpro.com^
 ||eliteviewtrades.com^
 ||elitevisiononline.com^
@@ -6584,6 +6589,7 @@
 ||finmost24.ru^
 ||finnosure.com^
 ||finnova-limited.com^
+||finnova-limited.net^
 ||finnova-limited.org^
 ||finnvera500plus.com^
 ||finoglob.com^
@@ -7596,6 +7602,7 @@
 ||globalstackfx.com^
 ||globalstarks.com^
 ||globalstock-assets.com^
+||globalstock-trading.com^
 ||globalstockcomodity.com^
 ||globalstockmarket247.com^
 ||globalstocksexchange.com^
@@ -9531,6 +9538,7 @@
 ||kittabit.com^
 ||kivorafin.com^
 ||kixdex.com^
+||kixyplus.com^
 ||kk9090.net^
 ||kkinstagram.com^
 ||kkminer.top^
@@ -10884,6 +10892,7 @@
 ||monanx.com^
 ||monaonlinecapital.com^
 ||monarg-investgroup.com^
+||monarobondleigh.net^
 ||mondcapitreu.live^
 ||mondial-houseinvest.com^
 ||mondoi.com^
@@ -12122,6 +12131,7 @@
 ||orizon.vip^
 ||orizoninvest.app^
 ||orkmark.com^
+||orman-co.ai^
 ||ormelqisra.com^
 ||orontrade.com^
 ||orox.investments^
@@ -12446,6 +12456,7 @@
 ||phtmyjhg.com^
 ||phyntexmarkets.com^
 ||phyrx.com^
+||piaocool.com^
 ||pibcorporate.com^
 ||pibrown.com^
 ||picktancapital.com^
@@ -12579,6 +12590,7 @@
 ||plurbit.com^
 ||plus500.com^
 ||plus500invest.pro^
+||plus500m.com^
 ||pluscapitaladvisor.com^
 ||pluscoinmarket.com^
 ||pluseventuress.com^
@@ -17269,6 +17281,7 @@
 ||veld-luxaris.com^
 ||veldan-pro.com^
 ||velecoin.com^
+||veliongroup-ltd.com^
 ||velionluck.com^
 ||velionmarkets.org^
 ||velionx.vip^
@@ -17551,6 +17564,7 @@
 ||vjc.cc^
 ||vkrbnk.com^
 ||vleppofx.com^
+||vll-grp.com^
 ||vlnn.ru^
 ||vnexchange.me^
 ||vnukeltarai.live^
@@ -17878,6 +17892,7 @@
 ||wegdex.com^
 ||wegoinsure.ie^
 ||weibix.com^
+||weinvesta.com^
 ||weissgruppe.cz^
 ||welcomeville-investment.info^
 ||welcomeville.com^

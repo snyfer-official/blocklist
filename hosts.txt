@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-10-19T03:13:13.871Z
-# Domains: 18766
+# Source updated: 2026-10-20T03:13:13.658Z
+# Domains: 18781
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -1438,6 +1438,7 @@
 0.0.0.0 auextrade.com
 0.0.0.0 augurcapitaltrade.xyz
 0.0.0.0 aukbridge.com
+0.0.0.0 aumarketstoday.com
 0.0.0.0 aumentsec.com
 0.0.0.0 aumsecs.com
 0.0.0.0 auracapitalvest.com
@@ -3614,6 +3615,7 @@
 0.0.0.0 cfxfund.com
 0.0.0.0 cfxlegacy.pro
 0.0.0.0 cfxstockmkt.com
+0.0.0.0 cfxtradepro.com
 0.0.0.0 cfxtradesystem.com
 0.0.0.0 cgsisd.vip
 0.0.0.0 chaikon.com
@@ -3784,6 +3786,7 @@
 0.0.0.0 cloutchainsfx.ltd
 0.0.0.0 cloveradopt.top
 0.0.0.0 clpfc.com
+0.0.0.0 clrsky-capt.com
 0.0.0.0 clseo.com
 0.0.0.0 clymero.com
 0.0.0.0 clyvoagrowth.online
@@ -4893,6 +4896,7 @@
 0.0.0.0 deluxxegloball.ltd
 0.0.0.0 dembit.com
 0.0.0.0 demetrixcoins.com
+0.0.0.0 deminitradefx.com
 0.0.0.0 demisto.xyz
 0.0.0.0 demobuchi.com
 0.0.0.0 denoex.com
@@ -5710,6 +5714,7 @@
 0.0.0.0 elitetradingbot.com
 0.0.0.0 elitetradingsol.com
 0.0.0.0 elitetrustglobal.org
+0.0.0.0 elitevaultholding.com
 0.0.0.0 elitevestpro.com
 0.0.0.0 eliteviewtrades.com
 0.0.0.0 elitevisiononline.com
@@ -6582,6 +6587,7 @@
 0.0.0.0 finmost24.ru
 0.0.0.0 finnosure.com
 0.0.0.0 finnova-limited.com
+0.0.0.0 finnova-limited.net
 0.0.0.0 finnova-limited.org
 0.0.0.0 finnvera500plus.com
 0.0.0.0 finoglob.com
@@ -7594,6 +7600,7 @@
 0.0.0.0 globalstackfx.com
 0.0.0.0 globalstarks.com
 0.0.0.0 globalstock-assets.com
+0.0.0.0 globalstock-trading.com
 0.0.0.0 globalstockcomodity.com
 0.0.0.0 globalstockmarket247.com
 0.0.0.0 globalstocksexchange.com
@@ -9529,6 +9536,7 @@
 0.0.0.0 kittabit.com
 0.0.0.0 kivorafin.com
 0.0.0.0 kixdex.com
+0.0.0.0 kixyplus.com
 0.0.0.0 kk9090.net
 0.0.0.0 kkinstagram.com
 0.0.0.0 kkminer.top
@@ -10882,6 +10890,7 @@
 0.0.0.0 monanx.com
 0.0.0.0 monaonlinecapital.com
 0.0.0.0 monarg-investgroup.com
+0.0.0.0 monarobondleigh.net
 0.0.0.0 mondcapitreu.live
 0.0.0.0 mondial-houseinvest.com
 0.0.0.0 mondoi.com
@@ -12120,6 +12129,7 @@
 0.0.0.0 orizon.vip
 0.0.0.0 orizoninvest.app
 0.0.0.0 orkmark.com
+0.0.0.0 orman-co.ai
 0.0.0.0 ormelqisra.com
 0.0.0.0 orontrade.com
 0.0.0.0 orox.investments
@@ -12444,6 +12454,7 @@
 0.0.0.0 phtmyjhg.com
 0.0.0.0 phyntexmarkets.com
 0.0.0.0 phyrx.com
+0.0.0.0 piaocool.com
 0.0.0.0 pibcorporate.com
 0.0.0.0 pibrown.com
 0.0.0.0 picktancapital.com
@@ -12577,6 +12588,7 @@
 0.0.0.0 plurbit.com
 0.0.0.0 plus500.com
 0.0.0.0 plus500invest.pro
+0.0.0.0 plus500m.com
 0.0.0.0 pluscapitaladvisor.com
 0.0.0.0 pluscoinmarket.com
 0.0.0.0 pluseventuress.com
@@ -17267,6 +17279,7 @@
 0.0.0.0 veld-luxaris.com
 0.0.0.0 veldan-pro.com
 0.0.0.0 velecoin.com
+0.0.0.0 veliongroup-ltd.com
 0.0.0.0 velionluck.com
 0.0.0.0 velionmarkets.org
 0.0.0.0 velionx.vip
@@ -17549,6 +17562,7 @@
 0.0.0.0 vjc.cc
 0.0.0.0 vkrbnk.com
 0.0.0.0 vleppofx.com
+0.0.0.0 vll-grp.com
 0.0.0.0 vlnn.ru
 0.0.0.0 vnexchange.me
 0.0.0.0 vnukeltarai.live
@@ -17876,6 +17890,7 @@
 0.0.0.0 wegdex.com
 0.0.0.0 wegoinsure.ie
 0.0.0.0 weibix.com
+0.0.0.0 weinvesta.com
 0.0.0.0 weissgruppe.cz
 0.0.0.0 welcomeville-investment.info
 0.0.0.0 welcomeville.com
