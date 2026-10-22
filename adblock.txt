@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-10-21T03:13:13.401Z
-! Domains: 18822
+! Source updated: 2026-10-22T03:13:13.765Z
+! Domains: 18837
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -177,6 +177,7 @@
 ||9stardigital.com^
 ||a-egig.vip^
 ||a2zprofits.com^
+||a3lab.io^
 ||a46ztoken.com^
 ||aa9090.net^
 ||aaarating.cc^
@@ -280,6 +281,7 @@
 ||acmarkets-webtraderplatform.com^
 ||acmarketsltd.com^
 ||acmindex.com^
+||acornpropertyinvest.com^
 ||acornstradeglobal.com^
 ||acorntrusts.co^
 ||acosta-work.xyz^
@@ -688,6 +690,7 @@
 ||alpenstark.online^
 ||alpextrading.com^
 ||alpha-achieveer.co^
+||alpha-ai.inc^
 ||alpha-connects.com^
 ||alpha-flow.ai^
 ||alpha-mercado.com^
@@ -2114,6 +2117,7 @@
 ||birlikglobalmarkets.com^
 ||biscoins.com^
 ||biscreditgroup.com^
+||bisglobals.com^
 ||bishuaidq.com^
 ||bisoswap.io^
 ||bissecurit24.cz^
@@ -2642,6 +2646,7 @@
 ||blockbet.live^
 ||blockcapitallimited.com^
 ||blockchain-crypto.org^
+||blockchain-networks.net^
 ||blockchaincloudmining.com^
 ||blockchainforexmarket.net^
 ||blockchainfx.com^
@@ -5312,6 +5317,7 @@
 ||drioprimecapital.com^
 ||driptox.com^
 ||drive-money.com^
+||drivewisely.app^
 ||drmlminer.com^
 ||droga5.click^
 ||drom.ru^
@@ -5675,6 +5681,7 @@
 ||eliteanalysishub.com^
 ||elitebase.cc^
 ||elitebit.net^
+||eliteblocklimited.com^
 ||elitebondsgroup.com^
 ||elitebrokerltd.com^
 ||elitebull.net^
@@ -7860,6 +7867,7 @@
 ||goshillsfinance.com^
 ||gostonemax.com^
 ||goteex.com^
+||gotempcover.com^
 ||gotemps.co.uk^
 ||gotexcoin.com^
 ||gotexplay.com^
@@ -10836,6 +10844,7 @@
 ||mirror-livetrades.com^
 ||mirrorcon.com^
 ||mirrormoontrading.com^
+||mirrubinotrx.com^
 ||mirwd.com^
 ||mistyswap.com^
 ||mitaxcoin.com^
@@ -11631,6 +11640,7 @@
 ||northwoodsinsurance.net^
 ||nortonfund.sbs^
 ||nosh.ng^
+||nosinasset.com^
 ||noswin.com^
 ||notchlinetrades.live^
 ||notice-trezor.io^
@@ -12131,6 +12141,7 @@
 ||orbitilife.com^
 ||orbitradecapital.net^
 ||orbitxassets.com^
+||orbitxtradingfx.com^
 ||orbstrategies.com^
 ||ordefocoassetmanagement.com^
 ||order-trezor.io^
@@ -13788,6 +13799,7 @@
 ||robinhood-z.com^
 ||robinledgermarkets.com^
 ||robintradepremium.com^
+||robo-traders.com^
 ||robobrokerltd.com^
 ||robocapitalfund.com^
 ||robofindeal.com^
@@ -14641,6 +14653,7 @@
 ||spacevisionx.com^
 ||spaceworldcapital.com^
 ||spacex.best^
+||spacexcapitalsecuredinvestmentcompany.com^
 ||spacexmarketsfund.com^
 ||spacexoptions.com^
 ||spacexplay.com^
@@ -17327,6 +17340,7 @@
 ||vellionpro500.com^
 ||vellius.com^
 ||vellmontholdings.com^
+||vellumeu.com^
 ||vellumthistle.com^
 ||velminatex.org^
 ||velmocoinsweden.com^
@@ -18488,6 +18502,7 @@
 ||yelloweye.in^
 ||yellowstonecapinc.com^
 ||yelpselects.com^
+||yeokl.com^
 ||yepbaa.com^
 ||yepbii.com^
 ||yepbit.com^

@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-10-21T03:13:13.401Z
-# Domains: 18822
+# Source updated: 2026-10-22T03:13:13.765Z
+# Domains: 18837
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -175,6 +175,7 @@
 0.0.0.0 9stardigital.com
 0.0.0.0 a-egig.vip
 0.0.0.0 a2zprofits.com
+0.0.0.0 a3lab.io
 0.0.0.0 a46ztoken.com
 0.0.0.0 aa9090.net
 0.0.0.0 aaarating.cc
@@ -278,6 +279,7 @@
 0.0.0.0 acmarkets-webtraderplatform.com
 0.0.0.0 acmarketsltd.com
 0.0.0.0 acmindex.com
+0.0.0.0 acornpropertyinvest.com
 0.0.0.0 acornstradeglobal.com
 0.0.0.0 acorntrusts.co
 0.0.0.0 acosta-work.xyz
@@ -686,6 +688,7 @@
 0.0.0.0 alpenstark.online
 0.0.0.0 alpextrading.com
 0.0.0.0 alpha-achieveer.co
+0.0.0.0 alpha-ai.inc
 0.0.0.0 alpha-connects.com
 0.0.0.0 alpha-flow.ai
 0.0.0.0 alpha-mercado.com
@@ -2112,6 +2115,7 @@
 0.0.0.0 birlikglobalmarkets.com
 0.0.0.0 biscoins.com
 0.0.0.0 biscreditgroup.com
+0.0.0.0 bisglobals.com
 0.0.0.0 bishuaidq.com
 0.0.0.0 bisoswap.io
 0.0.0.0 bissecurit24.cz
@@ -2640,6 +2644,7 @@
 0.0.0.0 blockbet.live
 0.0.0.0 blockcapitallimited.com
 0.0.0.0 blockchain-crypto.org
+0.0.0.0 blockchain-networks.net
 0.0.0.0 blockchaincloudmining.com
 0.0.0.0 blockchainforexmarket.net
 0.0.0.0 blockchainfx.com
@@ -5310,6 +5315,7 @@
 0.0.0.0 drioprimecapital.com
 0.0.0.0 driptox.com
 0.0.0.0 drive-money.com
+0.0.0.0 drivewisely.app
 0.0.0.0 drmlminer.com
 0.0.0.0 droga5.click
 0.0.0.0 drom.ru
@@ -5673,6 +5679,7 @@
 0.0.0.0 eliteanalysishub.com
 0.0.0.0 elitebase.cc
 0.0.0.0 elitebit.net
+0.0.0.0 eliteblocklimited.com
 0.0.0.0 elitebondsgroup.com
 0.0.0.0 elitebrokerltd.com
 0.0.0.0 elitebull.net
@@ -7858,6 +7865,7 @@
 0.0.0.0 goshillsfinance.com
 0.0.0.0 gostonemax.com
 0.0.0.0 goteex.com
+0.0.0.0 gotempcover.com
 0.0.0.0 gotemps.co.uk
 0.0.0.0 gotexcoin.com
 0.0.0.0 gotexplay.com
@@ -10834,6 +10842,7 @@
 0.0.0.0 mirror-livetrades.com
 0.0.0.0 mirrorcon.com
 0.0.0.0 mirrormoontrading.com
+0.0.0.0 mirrubinotrx.com
 0.0.0.0 mirwd.com
 0.0.0.0 mistyswap.com
 0.0.0.0 mitaxcoin.com
@@ -11629,6 +11638,7 @@
 0.0.0.0 northwoodsinsurance.net
 0.0.0.0 nortonfund.sbs
 0.0.0.0 nosh.ng
+0.0.0.0 nosinasset.com
 0.0.0.0 noswin.com
 0.0.0.0 notchlinetrades.live
 0.0.0.0 notice-trezor.io
@@ -12129,6 +12139,7 @@
 0.0.0.0 orbitilife.com
 0.0.0.0 orbitradecapital.net
 0.0.0.0 orbitxassets.com
+0.0.0.0 orbitxtradingfx.com
 0.0.0.0 orbstrategies.com
 0.0.0.0 ordefocoassetmanagement.com
 0.0.0.0 order-trezor.io
@@ -13786,6 +13797,7 @@
 0.0.0.0 robinhood-z.com
 0.0.0.0 robinledgermarkets.com
 0.0.0.0 robintradepremium.com
+0.0.0.0 robo-traders.com
 0.0.0.0 robobrokerltd.com
 0.0.0.0 robocapitalfund.com
 0.0.0.0 robofindeal.com
@@ -14639,6 +14651,7 @@
 0.0.0.0 spacevisionx.com
 0.0.0.0 spaceworldcapital.com
 0.0.0.0 spacex.best
+0.0.0.0 spacexcapitalsecuredinvestmentcompany.com
 0.0.0.0 spacexmarketsfund.com
 0.0.0.0 spacexoptions.com
 0.0.0.0 spacexplay.com
@@ -17325,6 +17338,7 @@
 0.0.0.0 vellionpro500.com
 0.0.0.0 vellius.com
 0.0.0.0 vellmontholdings.com
+0.0.0.0 vellumeu.com
 0.0.0.0 vellumthistle.com
 0.0.0.0 velminatex.org
 0.0.0.0 velmocoinsweden.com
@@ -18486,6 +18500,7 @@
 0.0.0.0 yelloweye.in
 0.0.0.0 yellowstonecapinc.com
 0.0.0.0 yelpselects.com
+0.0.0.0 yeokl.com
 0.0.0.0 yepbaa.com
 0.0.0.0 yepbii.com
 0.0.0.0 yepbit.com
