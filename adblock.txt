@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-10-22T03:13:13.765Z
-! Domains: 18837
+! Source updated: 2026-10-23T03:13:14.225Z
+! Domains: 18860
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -123,6 +123,7 @@
 ||60yg.com^
 ||66-access.vip^
 ||66corgibet27.com^
+||673800.com^
 ||67691-cdn-satoshilabs.com^
 ||683.cc^
 ||68ea-idn.com^
@@ -988,6 +989,7 @@
 ||apexclip.ltd^
 ||apexcomresources.com^
 ||apexcopy-ai.com^
+||apexcorecapitals.org^
 ||apexcoremarkets.com^
 ||apexcredituns.com^
 ||apexcrestcapitals.com^
@@ -1529,6 +1531,7 @@
 ||auto-earnglobal.com^
 ||auto-profit.io^
 ||auto-zaim35.ru^
+||auto5crypextrad.net^
 ||autobasetrade.live^
 ||autoboss39.ru^
 ||autobotcrypto.com^
@@ -1793,6 +1796,7 @@
 ||bcexus.com^
 ||bcgameru1.com^
 ||bchaincapitals.com^
+||bchainltd.com^
 ||bchmimer.info^
 ||bcmail3.com^
 ||bcmex.io^
@@ -1919,6 +1923,7 @@
 ||bestmining.top^
 ||bestminner.org^
 ||bestonbinary.online^
+||bestoptionwave.live^
 ||besttechltd.com^
 ||bestwallet.com^
 ||bestwealthtrade.com^
@@ -2002,6 +2007,8 @@
 ||bicapitex.com^
 ||biccord.com^
 ||bicomexlaker.com^
+||biconomy.com^
+||biconomy.my^
 ||biconomys.com^
 ||bid-n-ask.com^
 ||bidesk.io^
@@ -2621,6 +2628,7 @@
 ||bleexyn.com^
 ||bleutrade.io^
 ||blexbet.com^
+||blexosinvestment.cc^
 ||blexta.com^
 ||blezefgroup.com^
 ||blfcwgroup.com^
@@ -3202,6 +3210,7 @@
 ||c-trade.ca^
 ||c.group^
 ||c14.money^
+||c4-first.ch^
 ||ca-finances.com^
 ||ca-rfis.com^
 ||caagex.com^
@@ -5088,6 +5097,7 @@
 ||digitalassetwealth.net^
 ||digitalblitztrue.com^
 ||digitalcab.org^
+||digitalcapital-unify.live^
 ||digitalcapitalfx.com^
 ||digitalcapitalmarketingtrade.com^
 ||digitalcapitaloptions.org^
@@ -5481,6 +5491,7 @@
 ||eaconomy.best^
 ||eadsmy.com^
 ||eagetrade.com^
+||eagl-prime.org^
 ||eagle-plantz.biz^
 ||eagleeyetrading.net^
 ||eaglevests.pro^
@@ -5716,6 +5727,7 @@
 ||elitepipsfx.com^
 ||elitepipsmarket.com^
 ||eliteprofessionaltrade.co^
+||eliteprofessionaltrade.com^
 ||elitequestmarkets.com^
 ||eliteroyaltytrading.com^
 ||elitesbrokerage.com^
@@ -6053,6 +6065,7 @@
 ||evanstradehousee.com^
 ||evapimez.com^
 ||evatrades.com^
+||evayield.com^
 ||evedextrading.com^
 ||eveletrics.com^
 ||ever-ia.com^
@@ -6204,6 +6217,7 @@
 ||expertfunds-traders.ltd^
 ||expertfxtrader.com^
 ||expertisetrademarket.com^
+||expertlegitchampstrade.com^
 ||expertpinnacletrades.com^
 ||expertpointpro.com^
 ||expertprofitsphere1.com^
@@ -7781,6 +7795,7 @@
 ||goldenfxoptions.com^
 ||goldenkingcrab.cc^
 ||goldenlegacyshares.com^
+||goldenlnvestment.com^
 ||goldenminersapl.com^
 ||goldenmint.net^
 ||goldenoakasset.com^
@@ -7901,6 +7916,7 @@
 ||grainance.com^
 ||grainfutureslimited.com^
 ||gramebit.com^
+||gramopus.com^
 ||grancex.com^
 ||grand-x.pro^
 ||grandalliancebnk.com^
@@ -8312,6 +8328,7 @@
 ||hartmangreycapital.com^
 ||haruwex.com^
 ||harvest-managementag.com^
+||harvestgain.org^
 ||harvestguards.com^
 ||harvestproassetltd.com^
 ||harveyton.com^
@@ -11492,6 +11509,7 @@
 ||nexustrade-company.com^
 ||nexustrade.company^
 ||nexusxaloryx.com^
+||nexvariacapital.cc^
 ||nexvaultrade.pro^
 ||nexverges.com^
 ||nexvestors.com^
@@ -12815,6 +12833,7 @@
 ||primacryptos.com^
 ||primalvalue.com^
 ||primarkets.io^
+||primary-markets.com^
 ||primaxaitrade.com^
 ||primaxbroker.com^
 ||primaxcapital.com^
@@ -12928,6 +12947,7 @@
 ||primevaultfx.com^
 ||primeversebrokerage.com^
 ||primevestcopytrd.com^
+||primevestequity.com^
 ||primevestfin.com^
 ||primevesthub.com^
 ||primevestor.org^
@@ -15034,6 +15054,7 @@
 ||starlinkchain.com^
 ||starlinpay.com^
 ||starnetfx.com^
+||starpeakmarkets.com^
 ||starpronto-prosperity.group^
 ||starseabit.com^
 ||starship-shares.com^
@@ -18086,6 +18107,7 @@
 ||wisedatarec.com^
 ||wiseequites.com^
 ||wiseinvestmentltd.com^
+||wisemarketzone.com^
 ||wiserates.org^
 ||wisestepholdings.com^
 ||wisetradelimited.com^
@@ -18354,6 +18376,7 @@
 ||xn--btfnex-p9ac.com^
 ||xn--finanshjlp-x5a.eu^
 ||xnovadex.com^
+||xnovamarkets.com^
 ||xoarupro.com^
 ||xobeast.com^
 ||xobeto.com^
