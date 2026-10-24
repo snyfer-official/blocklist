@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-10-23T03:13:14.225Z
-# Domains: 18860
+# Source updated: 2026-10-24T03:13:13.634Z
+# Domains: 18884
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -343,6 +343,7 @@
 0.0.0.0 advanceoptionspro.com
 0.0.0.0 advancetdpro.com
 0.0.0.0 advantaexperts.com
+0.0.0.0 advantage-office.com
 0.0.0.0 advantcrest.com
 0.0.0.0 adventureprofit-remunaration.com
 0.0.0.0 adventuresinscamming.site
@@ -1589,6 +1590,7 @@
 0.0.0.0 avaxholdings.info
 0.0.0.0 avaxtitan.com
 0.0.0.0 avcs-systemgroupp.com
+0.0.0.0 avenixmarkets.com
 0.0.0.0 avennipro.com
 0.0.0.0 aventara-limited.com
 0.0.0.0 aventara-ltd.com
@@ -2524,6 +2526,7 @@
 0.0.0.0 bittradeexchange.net
 0.0.0.0 bittradefinancelimited.ltd
 0.0.0.0 bittradego.com
+0.0.0.0 bittrademaster.com
 0.0.0.0 bittradexchange.com
 0.0.0.0 bittradexes.com
 0.0.0.0 bittrusttrade.com
@@ -2572,6 +2575,7 @@
 0.0.0.0 bitzond.com
 0.0.0.0 bitzrock.com
 0.0.0.0 bivaltofx.com
+0.0.0.0 bivalut.pro
 0.0.0.0 bixerytrades.com
 0.0.0.0 bixetrade.com
 0.0.0.0 bixocointrade.com
@@ -2966,6 +2970,7 @@
 0.0.0.0 broker2utrade.com
 0.0.0.0 brokerlyte.online
 0.0.0.0 brokerz.com
+0.0.0.0 brokevo.com
 0.0.0.0 brokraexchange.cc
 0.0.0.0 brontix.live
 0.0.0.0 broox-corp.com
@@ -3658,6 +3663,7 @@
 0.0.0.0 chainminescapital.com
 0.0.0.0 chainovex.net
 0.0.0.0 chainox.io
+0.0.0.0 chainpall.site
 0.0.0.0 chainrealm.org
 0.0.0.0 chainsafefx.net
 0.0.0.0 chainseeker.io
@@ -3808,6 +3814,7 @@
 0.0.0.0 clrsky-capt.com
 0.0.0.0 clseo.com
 0.0.0.0 clymero.com
+0.0.0.0 clyvantodremuzen.net
 0.0.0.0 clyvoagrowth.online
 0.0.0.0 cmani-wealth.com
 0.0.0.0 cmani.com
@@ -4327,6 +4334,7 @@
 0.0.0.0 credebull.live
 0.0.0.0 credence-trade.com
 0.0.0.0 credessa-it.net
+0.0.0.0 crediflex.ie
 0.0.0.0 credit-flows.com
 0.0.0.0 creditblockchain.com
 0.0.0.0 creditter.ru
@@ -5852,6 +5860,7 @@
 0.0.0.0 eng-ledger.io
 0.0.0.0 eng-trezor.org
 0.0.0.0 eng-trezorsuite.org
+0.0.0.0 engelasset.com
 0.0.0.0 enhancedcapital.icu
 0.0.0.0 enhancedinvestments.com
 0.0.0.0 eni-official-update.com
@@ -6291,6 +6300,7 @@
 0.0.0.0 faceauthantications.com
 0.0.0.0 faciemluxe.com
 0.0.0.0 fadex.cc
+0.0.0.0 faena-fondorio.org
 0.0.0.0 faexbet.com
 0.0.0.0 fagruvil.biz
 0.0.0.0 fagruvil.fyi
@@ -6863,6 +6873,7 @@
 0.0.0.0 fnb1.click
 0.0.0.0 fnbc.pt
 0.0.0.0 fnbcinvest.com
+0.0.0.0 fndandco.com
 0.0.0.0 fnmarkets.com
 0.0.0.0 fns-investgroup.com
 0.0.0.0 fnsswe.com
@@ -9187,6 +9198,7 @@
 0.0.0.0 invtgcm.com
 0.0.0.0 invurge.com
 0.0.0.0 invxphilippines.app
+0.0.0.0 inxforex.com
 0.0.0.0 io-websuite.com
 0.0.0.0 iodefi.com
 0.0.0.0 iokcop.com
@@ -9292,6 +9304,7 @@
 0.0.0.0 izea.top
 0.0.0.0 izewex.com
 0.0.0.0 iziwallet.io
+0.0.0.0 jaaimsapp.com
 0.0.0.0 jac.pro
 0.0.0.0 jack-bits.com
 0.0.0.0 jackehhowell.de
@@ -10049,6 +10062,7 @@
 0.0.0.0 localtrader.shop
 0.0.0.0 lockcoin.net
 0.0.0.0 lockxera.com
+0.0.0.0 lodeminting.com
 0.0.0.0 lodgiqtraffic.com
 0.0.0.0 loft.trade
 0.0.0.0 logicprofitblock.com
@@ -10515,6 +10529,7 @@
 0.0.0.0 maxitfstrd.com
 0.0.0.0 maxiwebdigitals.com
 0.0.0.0 maxlifeinvestment.com
+0.0.0.0 maxluxurymarketing.com
 0.0.0.0 maxodigitaltrade.com
 0.0.0.0 maxon365.com
 0.0.0.0 maxoptimacore.com
@@ -11381,6 +11396,7 @@
 0.0.0.0 news24fine.com
 0.0.0.0 news55.online
 0.0.0.0 newsdigestes.com
+0.0.0.0 newsingermany.com
 0.0.0.0 newslinxo.net
 0.0.0.0 newstartgsb.com
 0.0.0.0 newtech-finance.com
@@ -11608,6 +11624,7 @@
 0.0.0.0 nordelyxtavrion.se
 0.0.0.0 nordelyxtavrionai.com
 0.0.0.0 nordelyxtavriontrade.com
+0.0.0.0 nordencore-ai.net
 0.0.0.0 nordeqinvest.com
 0.0.0.0 nordic-ct.com
 0.0.0.0 nordic-finanx.com
@@ -12143,6 +12160,7 @@
 0.0.0.0 orbimarkets.com
 0.0.0.0 orbimount.io
 0.0.0.0 orbinxt.com
+0.0.0.0 orbisbank.org
 0.0.0.0 orbisfx.com
 0.0.0.0 orbisimg.com
 0.0.0.0 orbisniche.com
@@ -15649,6 +15667,7 @@
 0.0.0.0 terraxvip.com
 0.0.0.0 terremassif.com
 0.0.0.0 terrixgroup.com
+0.0.0.0 tervarwermer.com
 0.0.0.0 tesbv.cc
 0.0.0.0 tescavs.com
 0.0.0.0 tesdigital.us
@@ -15810,6 +15829,7 @@
 0.0.0.0 thompsonimb.com
 0.0.0.0 thornmeadowcox.com
 0.0.0.0 threemholding.com
+0.0.0.0 threeriverscapitalwealth.com
 0.0.0.0 threxity.com
 0.0.0.0 thrivalance.com
 0.0.0.0 thrivecapital.ltd
@@ -16103,6 +16123,7 @@
 0.0.0.0 tradealrex.ai
 0.0.0.0 tradealrex.app
 0.0.0.0 tradeapexvisionpro.com
+0.0.0.0 tradeassetlimited.com
 0.0.0.0 tradebase.top
 0.0.0.0 tradebitinvestments.com
 0.0.0.0 tradebitpic.com
@@ -17048,6 +17069,7 @@
 0.0.0.0 universalgroup.ink
 0.0.0.0 universalprofitsociety.com
 0.0.0.0 universalqnetfund.com
+0.0.0.0 universalstocktrading.com
 0.0.0.0 universalstudiovip.com
 0.0.0.0 universaltrust-capltal.com
 0.0.0.0 universalwealth.ltd
@@ -17816,6 +17838,7 @@
 0.0.0.0 wbfzdefi.vip
 0.0.0.0 wbtradingeducation.com
 0.0.0.0 wci7.com
+0.0.0.0 wcsec.com
 0.0.0.0 wdd33.net
 0.0.0.0 we-bulls.art
 0.0.0.0 we2umalaysia.com
@@ -18828,6 +18851,7 @@
 0.0.0.0 zyncoin.global
 0.0.0.0 zynerix.net
 0.0.0.0 zynex.vip
+0.0.0.0 zynovolt.net
 0.0.0.0 zynthera-limited.com
 0.0.0.0 zyntheramarket.com
 0.0.0.0 zyntraxvault.co.uk

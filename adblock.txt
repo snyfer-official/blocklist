@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-10-23T03:13:14.225Z
-! Domains: 18860
+! Source updated: 2026-10-24T03:13:13.634Z
+! Domains: 18884
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -345,6 +345,7 @@
 ||advanceoptionspro.com^
 ||advancetdpro.com^
 ||advantaexperts.com^
+||advantage-office.com^
 ||advantcrest.com^
 ||adventureprofit-remunaration.com^
 ||adventuresinscamming.site^
@@ -1591,6 +1592,7 @@
 ||avaxholdings.info^
 ||avaxtitan.com^
 ||avcs-systemgroupp.com^
+||avenixmarkets.com^
 ||avennipro.com^
 ||aventara-limited.com^
 ||aventara-ltd.com^
@@ -2526,6 +2528,7 @@
 ||bittradeexchange.net^
 ||bittradefinancelimited.ltd^
 ||bittradego.com^
+||bittrademaster.com^
 ||bittradexchange.com^
 ||bittradexes.com^
 ||bittrusttrade.com^
@@ -2574,6 +2577,7 @@
 ||bitzond.com^
 ||bitzrock.com^
 ||bivaltofx.com^
+||bivalut.pro^
 ||bixerytrades.com^
 ||bixetrade.com^
 ||bixocointrade.com^
@@ -2968,6 +2972,7 @@
 ||broker2utrade.com^
 ||brokerlyte.online^
 ||brokerz.com^
+||brokevo.com^
 ||brokraexchange.cc^
 ||brontix.live^
 ||broox-corp.com^
@@ -3660,6 +3665,7 @@
 ||chainminescapital.com^
 ||chainovex.net^
 ||chainox.io^
+||chainpall.site^
 ||chainrealm.org^
 ||chainsafefx.net^
 ||chainseeker.io^
@@ -3810,6 +3816,7 @@
 ||clrsky-capt.com^
 ||clseo.com^
 ||clymero.com^
+||clyvantodremuzen.net^
 ||clyvoagrowth.online^
 ||cmani-wealth.com^
 ||cmani.com^
@@ -4329,6 +4336,7 @@
 ||credebull.live^
 ||credence-trade.com^
 ||credessa-it.net^
+||crediflex.ie^
 ||credit-flows.com^
 ||creditblockchain.com^
 ||creditter.ru^
@@ -5854,6 +5862,7 @@
 ||eng-ledger.io^
 ||eng-trezor.org^
 ||eng-trezorsuite.org^
+||engelasset.com^
 ||enhancedcapital.icu^
 ||enhancedinvestments.com^
 ||eni-official-update.com^
@@ -6293,6 +6302,7 @@
 ||faceauthantications.com^
 ||faciemluxe.com^
 ||fadex.cc^
+||faena-fondorio.org^
 ||faexbet.com^
 ||fagruvil.biz^
 ||fagruvil.fyi^
@@ -6865,6 +6875,7 @@
 ||fnb1.click^
 ||fnbc.pt^
 ||fnbcinvest.com^
+||fndandco.com^
 ||fnmarkets.com^
 ||fns-investgroup.com^
 ||fnsswe.com^
@@ -9189,6 +9200,7 @@
 ||invtgcm.com^
 ||invurge.com^
 ||invxphilippines.app^
+||inxforex.com^
 ||io-websuite.com^
 ||iodefi.com^
 ||iokcop.com^
@@ -9294,6 +9306,7 @@
 ||izea.top^
 ||izewex.com^
 ||iziwallet.io^
+||jaaimsapp.com^
 ||jac.pro^
 ||jack-bits.com^
 ||jackehhowell.de^
@@ -10051,6 +10064,7 @@
 ||localtrader.shop^
 ||lockcoin.net^
 ||lockxera.com^
+||lodeminting.com^
 ||lodgiqtraffic.com^
 ||loft.trade^
 ||logicprofitblock.com^
@@ -10517,6 +10531,7 @@
 ||maxitfstrd.com^
 ||maxiwebdigitals.com^
 ||maxlifeinvestment.com^
+||maxluxurymarketing.com^
 ||maxodigitaltrade.com^
 ||maxon365.com^
 ||maxoptimacore.com^
@@ -11383,6 +11398,7 @@
 ||news24fine.com^
 ||news55.online^
 ||newsdigestes.com^
+||newsingermany.com^
 ||newslinxo.net^
 ||newstartgsb.com^
 ||newtech-finance.com^
@@ -11610,6 +11626,7 @@
 ||nordelyxtavrion.se^
 ||nordelyxtavrionai.com^
 ||nordelyxtavriontrade.com^
+||nordencore-ai.net^
 ||nordeqinvest.com^
 ||nordic-ct.com^
 ||nordic-finanx.com^
@@ -12145,6 +12162,7 @@
 ||orbimarkets.com^
 ||orbimount.io^
 ||orbinxt.com^
+||orbisbank.org^
 ||orbisfx.com^
 ||orbisimg.com^
 ||orbisniche.com^
@@ -15651,6 +15669,7 @@
 ||terraxvip.com^
 ||terremassif.com^
 ||terrixgroup.com^
+||tervarwermer.com^
 ||tesbv.cc^
 ||tescavs.com^
 ||tesdigital.us^
@@ -15812,6 +15831,7 @@
 ||thompsonimb.com^
 ||thornmeadowcox.com^
 ||threemholding.com^
+||threeriverscapitalwealth.com^
 ||threxity.com^
 ||thrivalance.com^
 ||thrivecapital.ltd^
@@ -16105,6 +16125,7 @@
 ||tradealrex.ai^
 ||tradealrex.app^
 ||tradeapexvisionpro.com^
+||tradeassetlimited.com^
 ||tradebase.top^
 ||tradebitinvestments.com^
 ||tradebitpic.com^
@@ -17050,6 +17071,7 @@
 ||universalgroup.ink^
 ||universalprofitsociety.com^
 ||universalqnetfund.com^
+||universalstocktrading.com^
 ||universalstudiovip.com^
 ||universaltrust-capltal.com^
 ||universalwealth.ltd^
@@ -17818,6 +17840,7 @@
 ||wbfzdefi.vip^
 ||wbtradingeducation.com^
 ||wci7.com^
+||wcsec.com^
 ||wdd33.net^
 ||we-bulls.art^
 ||we2umalaysia.com^
@@ -18830,6 +18853,7 @@
 ||zyncoin.global^
 ||zynerix.net^
 ||zynex.vip^
+||zynovolt.net^
 ||zynthera-limited.com^
 ||zyntheramarket.com^
 ||zyntraxvault.co.uk^
