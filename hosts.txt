@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-10-24T03:13:13.634Z
-# Domains: 18884
+# Source updated: 2026-10-25T03:13:13.589Z
+# Domains: 18893
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -31,6 +31,7 @@
 0.0.0.0 1rolls.pro
 0.0.0.0 1stccapitals.com
 0.0.0.0 1xbitcoins.com
+0.0.0.0 1xbroker.com
 0.0.0.0 1xjett.com
 0.0.0.0 1xtrade.com
 0.0.0.0 200invest.com
@@ -943,6 +944,7 @@
 0.0.0.0 anggleloan.com
 0.0.0.0 anima-capitalpartners.com
 0.0.0.0 anima-partnerscapital.com
+0.0.0.0 animalworld.store
 0.0.0.0 animalz-pro.com
 0.0.0.0 ankabox.com
 0.0.0.0 ankatic.com
@@ -6744,6 +6746,7 @@
 0.0.0.0 firstlenen.com
 0.0.0.0 firstlening.com
 0.0.0.0 firstmarkettips.com
+0.0.0.0 firstmassitrade.us
 0.0.0.0 firstnexus.org
 0.0.0.0 firstpointoption.com
 0.0.0.0 firstprivate-finad.com
@@ -7178,6 +7181,7 @@
 0.0.0.0 futuremarket.online
 0.0.0.0 futuremarkets.online
 0.0.0.0 futureprimex.org
+0.0.0.0 futures-equity.com
 0.0.0.0 futuretradeyield.com
 0.0.0.0 futuretradingtech.com
 0.0.0.0 futurewealthinvestment.online
@@ -11467,6 +11471,7 @@
 0.0.0.0 nexora.surf
 0.0.0.0 nexoracapitalltd.com
 0.0.0.0 nexoraexchanges.com
+0.0.0.0 nexorage.com
 0.0.0.0 nexoragroups.net
 0.0.0.0 nexoragroups.org
 0.0.0.0 nexoraint.online
@@ -11748,6 +11753,7 @@
 0.0.0.0 novavestcapital.net
 0.0.0.0 novaxchange.live
 0.0.0.0 novelvico.com
+0.0.0.0 noven-trix.com
 0.0.0.0 novenance.us
 0.0.0.0 noventraglobalmarkets.com
 0.0.0.0 novesync.com
@@ -12540,6 +12546,7 @@
 0.0.0.0 pierpoint-global.com
 0.0.0.0 pilabit.com
 0.0.0.0 pilexo.com
+0.0.0.0 pilotafx.com
 0.0.0.0 pilotrange.com
 0.0.0.0 pilvorax.pro
 0.0.0.0 pimcoex.net
@@ -13127,7 +13134,9 @@
 0.0.0.0 prplife.com
 0.0.0.0 prulkovizan.cfd
 0.0.0.0 prunkelvor-nl.com
+0.0.0.0 prymex-trade.com
 0.0.0.0 prymexenergy.com
+0.0.0.0 prymexxhorizon.com
 0.0.0.0 prynamite.co
 0.0.0.0 prysmtrading.com
 0.0.0.0 prysmvest.com
