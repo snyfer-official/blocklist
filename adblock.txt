@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-10-26T03:13:13.718Z
-! Domains: 18893
+! Source updated: 2026-10-27T03:13:14.003Z
+! Domains: 18907
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -2042,6 +2042,7 @@
 ||bikitoken.com^
 ||bilenex.com^
 ||bilinterface.com^
+||billabongbrief.com^
 ||billetecap.com^
 ||billionaireprimecapital.com^
 ||billionairesflx.com^
@@ -2482,6 +2483,7 @@
 ||bitru.vc^
 ||bitrue.com^
 ||bitrue.io^
+||bitrumarket.icu^
 ||bitruvix.cc^
 ||bitruxe.ltd^
 ||bitrya.com^
@@ -4676,6 +4678,7 @@
 ||ctxequity.com^
 ||cuadrillarcommoditylimited.com^
 ||cuahax.com^
+||cubewex.com^
 ||cubomarkets.com^
 ||cudewin.at^
 ||cuesax.com^
@@ -9530,6 +9533,7 @@
 ||keezyx.com^
 ||keftox.com^
 ||kegasdett.com^
+||kegwin.com^
 ||keine-project.vercel.app^
 ||keksik-invest.ru^
 ||kelddigitholm.live^
@@ -9578,6 +9582,7 @@
 ||kibkrforexpro.com^
 ||kickexcurrency.com^
 ||kicomarket.top^
+||kidamex.com^
 ||kieger-agfund.xyz^
 ||kilowin.com^
 ||kimchiswap.io^
@@ -9816,6 +9821,7 @@
 ||landix.group^
 ||lanecapitalimited.com^
 ||lannapedia.online^
+||lanorex.com^
 ||lantorix.com^
 ||larbidex.com^
 ||larlfs.com^
@@ -9863,6 +9869,7 @@
 ||ledgeractivation.com^
 ||ledgercheckapi.com^
 ||ledgercoinshield.com^
+||ledgerfintech.com^
 ||ledgerfxinvestment.com^
 ||ledgergrowthfund.ltd^
 ||ledgerholm.com^
@@ -10070,6 +10077,7 @@
 ||lockxera.com^
 ||lodeminting.com^
 ||lodgiqtraffic.com^
+||lofotenaliqua.info^
 ||loft.trade^
 ||logicprofitblock.com^
 ||loginarmor.com^
@@ -10404,6 +10412,7 @@
 ||marblezinsara.net^
 ||marcjacobsm.top^
 ||marenvault-institute.com^
+||marewin.com^
 ||marexprimeltd.com^
 ||margex.cc^
 ||margex.com^
@@ -10518,6 +10527,7 @@
 ||mavisglobaltrading.com^
 ||mavoratrade.org^
 ||mavro.club^
+||mavubet.com^
 ||max7trade.com^
 ||maxbetwin.cc^
 ||maxbitcapitals.com^
@@ -11039,6 +11049,7 @@
 ||morvath.com^
 ||mosacoin.com^
 ||mostcapital.net^
+||mosubet.com^
 ||motcapital.com^
 ||motionglobalassets.com^
 ||motiontrade.site^
@@ -11844,6 +11855,7 @@
 ||oakhaven-capital.com^
 ||oaklodgecapital.com^
 ||oakmontdigitalonline.com^
+||oakridgeau.com^
 ||oakstonesociety.com^
 ||oakvaultmarkets.com^
 ||oakvesthub.com^
@@ -12302,6 +12314,7 @@
 ||pacificpeak-cp.com^
 ||pacificworld-trades.com^
 ||pacifiquefinance.com^
+||padowin.com^
 ||pagangods.io^
 ||pagi-inv.com^
 ||pagtrixaiapp.com^
@@ -15599,6 +15612,7 @@
 ||taxrefundcredit.com^
 ||taxwex.com^
 ||tbxex.com^
+||tcap-group.com^
 ||tccxex.com^
 ||tcehk.com^
 ||tceincvi.com^

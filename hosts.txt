@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-10-26T03:13:13.718Z
-# Domains: 18893
+# Source updated: 2026-10-27T03:13:14.003Z
+# Domains: 18907
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -2040,6 +2040,7 @@
 0.0.0.0 bikitoken.com
 0.0.0.0 bilenex.com
 0.0.0.0 bilinterface.com
+0.0.0.0 billabongbrief.com
 0.0.0.0 billetecap.com
 0.0.0.0 billionaireprimecapital.com
 0.0.0.0 billionairesflx.com
@@ -2480,6 +2481,7 @@
 0.0.0.0 bitru.vc
 0.0.0.0 bitrue.com
 0.0.0.0 bitrue.io
+0.0.0.0 bitrumarket.icu
 0.0.0.0 bitruvix.cc
 0.0.0.0 bitruxe.ltd
 0.0.0.0 bitrya.com
@@ -4674,6 +4676,7 @@
 0.0.0.0 ctxequity.com
 0.0.0.0 cuadrillarcommoditylimited.com
 0.0.0.0 cuahax.com
+0.0.0.0 cubewex.com
 0.0.0.0 cubomarkets.com
 0.0.0.0 cudewin.at
 0.0.0.0 cuesax.com
@@ -9528,6 +9531,7 @@
 0.0.0.0 keezyx.com
 0.0.0.0 keftox.com
 0.0.0.0 kegasdett.com
+0.0.0.0 kegwin.com
 0.0.0.0 keine-project.vercel.app
 0.0.0.0 keksik-invest.ru
 0.0.0.0 kelddigitholm.live
@@ -9576,6 +9580,7 @@
 0.0.0.0 kibkrforexpro.com
 0.0.0.0 kickexcurrency.com
 0.0.0.0 kicomarket.top
+0.0.0.0 kidamex.com
 0.0.0.0 kieger-agfund.xyz
 0.0.0.0 kilowin.com
 0.0.0.0 kimchiswap.io
@@ -9814,6 +9819,7 @@
 0.0.0.0 landix.group
 0.0.0.0 lanecapitalimited.com
 0.0.0.0 lannapedia.online
+0.0.0.0 lanorex.com
 0.0.0.0 lantorix.com
 0.0.0.0 larbidex.com
 0.0.0.0 larlfs.com
@@ -9861,6 +9867,7 @@
 0.0.0.0 ledgeractivation.com
 0.0.0.0 ledgercheckapi.com
 0.0.0.0 ledgercoinshield.com
+0.0.0.0 ledgerfintech.com
 0.0.0.0 ledgerfxinvestment.com
 0.0.0.0 ledgergrowthfund.ltd
 0.0.0.0 ledgerholm.com
@@ -10068,6 +10075,7 @@
 0.0.0.0 lockxera.com
 0.0.0.0 lodeminting.com
 0.0.0.0 lodgiqtraffic.com
+0.0.0.0 lofotenaliqua.info
 0.0.0.0 loft.trade
 0.0.0.0 logicprofitblock.com
 0.0.0.0 loginarmor.com
@@ -10402,6 +10410,7 @@
 0.0.0.0 marblezinsara.net
 0.0.0.0 marcjacobsm.top
 0.0.0.0 marenvault-institute.com
+0.0.0.0 marewin.com
 0.0.0.0 marexprimeltd.com
 0.0.0.0 margex.cc
 0.0.0.0 margex.com
@@ -10516,6 +10525,7 @@
 0.0.0.0 mavisglobaltrading.com
 0.0.0.0 mavoratrade.org
 0.0.0.0 mavro.club
+0.0.0.0 mavubet.com
 0.0.0.0 max7trade.com
 0.0.0.0 maxbetwin.cc
 0.0.0.0 maxbitcapitals.com
@@ -11037,6 +11047,7 @@
 0.0.0.0 morvath.com
 0.0.0.0 mosacoin.com
 0.0.0.0 mostcapital.net
+0.0.0.0 mosubet.com
 0.0.0.0 motcapital.com
 0.0.0.0 motionglobalassets.com
 0.0.0.0 motiontrade.site
@@ -11842,6 +11853,7 @@
 0.0.0.0 oakhaven-capital.com
 0.0.0.0 oaklodgecapital.com
 0.0.0.0 oakmontdigitalonline.com
+0.0.0.0 oakridgeau.com
 0.0.0.0 oakstonesociety.com
 0.0.0.0 oakvaultmarkets.com
 0.0.0.0 oakvesthub.com
@@ -12300,6 +12312,7 @@
 0.0.0.0 pacificpeak-cp.com
 0.0.0.0 pacificworld-trades.com
 0.0.0.0 pacifiquefinance.com
+0.0.0.0 padowin.com
 0.0.0.0 pagangods.io
 0.0.0.0 pagi-inv.com
 0.0.0.0 pagtrixaiapp.com
@@ -15597,6 +15610,7 @@
 0.0.0.0 taxrefundcredit.com
 0.0.0.0 taxwex.com
 0.0.0.0 tbxex.com
+0.0.0.0 tcap-group.com
 0.0.0.0 tccxex.com
 0.0.0.0 tcehk.com
 0.0.0.0 tceincvi.com
