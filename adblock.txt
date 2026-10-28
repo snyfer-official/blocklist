@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-10-27T03:13:14.003Z
-! Domains: 18907
+! Source updated: 2026-10-28T03:13:13.697Z
+! Domains: 18938
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -825,6 +825,7 @@
 ||alturafinance.live^
 ||alturafx.com^
 ||alturalgo.ai^
+||alturaprime.trade^
 ||alturatrades.com^
 ||alturex.net^
 ||altusfx.com^
@@ -1128,6 +1129,7 @@
 ||aqpazk.top^
 ||aqrl-trade.com^
 ||aquila-markets.com^
+||arabhousecredit.com^
 ||aramco-sale.vip^
 ||aramcoamericainvest.com^
 ||arancoin.com^
@@ -1173,6 +1175,7 @@
 ||arcticternadvisory.com^
 ||arcticvaltrixai.com^
 ||ardaex.com^
+||ardencecapital.com^
 ||ardovex.com^
 ||ardovextrade.com^
 ||areabarsa.com^
@@ -1380,6 +1383,7 @@
 ||aswapdigitals.live^
 ||aszornpro.com^
 ||at-trading.com^
+||atchrbomb.com^
 ||atcoptions.com^
 ||atfglobalx.co^
 ||atgau.com^
@@ -1906,6 +1910,7 @@
 ||berformance.group^
 ||berge.ink^
 ||bergev.org^
+||bergmanncore.de^
 ||beriwex.com^
 ||berk-forte.com^
 ||berkatnasionalberhad.com^
@@ -2156,6 +2161,7 @@
 ||bit2-invest.com^
 ||bit2invest.com^
 ||bitai.fund^
+||bitalapp.net^
 ||bitalpha.live^
 ||bitaprokapital.com^
 ||bitaryx.com^
@@ -2776,6 +2782,7 @@
 ||blueskymintltd.com^
 ||blueskyrocketray.com^
 ||bluestoneluxent.com^
+||bluevaultddexeris.org^
 ||bluevestly.com^
 ||blueview-holdings.com^
 ||blueware-nexus.com^
@@ -3165,6 +3172,7 @@
 ||buysahara.shop^
 ||buyspacex.org^
 ||buytko.shop^
+||buytoon.io^
 ||buytwt.shop^
 ||buywithbit.com^
 ||buyxai.org^
@@ -3494,6 +3502,7 @@
 ||caytradax.group^
 ||cazbit.bet^
 ||cazcapitaltrading.com^
+||cazkadelufepm.pro^
 ||caznex.com^
 ||caznox.com^
 ||cbacrsecurity.com^
@@ -4295,6 +4304,7 @@
 ||covenantxpro.com^
 ||coventrymgmt.com^
 ||coventrysecuritiesllc.org^
+||coveredbywise.com^
 ||coverfast.io^
 ||coversimply.com^
 ||covert.exchange^
@@ -4716,6 +4726,7 @@
 ||cyberdefensefunds.com^
 ||cyberfixrecovery.com^
 ||cyberknx.com^
+||cybersmartsolutions.com^
 ||cybersphereova.shop^
 ||cyberxtrade.com^
 ||cygnetwestag.com^
@@ -5341,6 +5352,7 @@
 ||driptox.com^
 ||drive-money.com^
 ||drivewisely.app^
+||drivewithmettle.com^
 ||drmlminer.com^
 ||droga5.click^
 ||drom.ru^
@@ -6633,6 +6645,7 @@
 ||finio24.com^
 ||finitefin.com^
 ||finitestrides.com^
+||finixobrain.net^
 ||finixtopmarkets.live^
 ||finixure.com^
 ||finlenddach.de^
@@ -7538,6 +7551,7 @@
 ||glencoemine.net^
 ||glencoretrade.io^
 ||glencoretrade.net^
+||glenelgininvestments.com^
 ||glenstoneadvisory.com^
 ||glenvarrickalderhume.uk^
 ||glevorcapital.com^
@@ -8172,6 +8186,7 @@
 ||grouppictet.crypto^
 ||groupsecuritiesdublin.com^
 ||grovast.io^
+||grovestafund.com^
 ||grovevaultltd.com^
 ||grow3.io^
 ||growaveonline.com^
@@ -8897,6 +8912,7 @@
 ||immediateavita.com^
 ||immediatebienestar-ia.co^
 ||immediateconnect.org^
+||immediateincome.net^
 ||immediateintal.net^
 ||immediateintal360.com^
 ||immediateintalai.com^
@@ -9923,6 +9939,7 @@
 ||lenuwin.com^
 ||lenway.pro^
 ||lenzcapital.pro^
+||leonardscorvin.com^
 ||leromex.com^
 ||lerotex.com^
 ||lesolution.eu^
@@ -10954,6 +10971,7 @@
 ||mokent.com^
 ||mol-hungaryenergy.com^
 ||molenax.com^
+||molenwaardhoph.com^
 ||molexcoin.com^
 ||momentix.trade^
 ||momentumfinspire.com^
@@ -11054,6 +11072,7 @@
 ||motionglobalassets.com^
 ||motiontrade.site^
 ||motlex.com^
+||motorrefunds.co.uk^
 ||mountainfinco.com^
 ||mountainfinco.net^
 ||movatorealtors.com^
@@ -11528,6 +11547,7 @@
 ||nexusaigrouplimited.io^
 ||nexusassethub.com^
 ||nexusbankuk.com^
+||nexuscapital.su^
 ||nexuscoins.com^
 ||nexuscommerce.top^
 ||nexusfinb.com^
@@ -12670,6 +12690,7 @@
 ||playgrand.cc^
 ||playorbit.cc^
 ||playwin.top^
+||plazaactivoire-ai.net^
 ||plazabet.cc^
 ||pledices.shop^
 ||plentyrush.com^
@@ -13013,6 +13034,7 @@
 ||primuspacificpartners.net^
 ||primustradefin.pro^
 ||primvest.live^
+||primwestsa.com^
 ||prinvesment.com^
 ||prioritet-lombard.ru^
 ||prismequity.cc^
@@ -13829,6 +13851,7 @@
 ||rissingold.com^
 ||river7.top^
 ||river7.vip^
+||riverfieldcapital.ch^
 ||riverfrontoliveoil.com^
 ||riverstoneadvisorygrp.com^
 ||riverstonecapital.cc^
@@ -14469,6 +14492,7 @@
 ||skelvurizont.nl^
 ||skickligfinvorosweden.com^
 ||skilletronix.com^
+||skimyfuture.com^
 ||skiptobuy.net^
 ||sklcoin.com^
 ||sklcoinq.com^
@@ -14725,6 +14749,7 @@
 ||spaios.us^
 ||spak41k.org^
 ||spankbang.com^
+||sparesafety.com^
 ||sparkassetsinvest.com^
 ||sparkchain.ai^
 ||sparkearn.com^
@@ -15104,6 +15129,7 @@
 ||starstone-wealth.com^
 ||startex.pro^
 ||startlighttrade.com^
+||startradefinance.net^
 ||startsol-creator.com^
 ||stash-wallstreet.org^
 ||statibet.com^
@@ -16575,6 +16601,7 @@
 ||trusteryai.com^
 ||trustex-exchange.com^
 ||trustex.vg^
+||trustexchangetrade.com^
 ||trustexy.cc^
 ||trustff.net^
 ||trustflowbk.com^
@@ -17013,6 +17040,7 @@
 ||ultimatestock.org^
 ||ultimatetraderslimited.com^
 ||ultimatetradingexchange.org^
+||ultimopay.io^
 ||ultraapp.biz^
 ||ultrabrokers.net^
 ||ultrafin-group.com^
@@ -17508,6 +17536,7 @@
 ||vertexcoreinsights.com^
 ||vertexdigitalcapital.pro^
 ||vertexfinancialestates.org^
+||vertexfluxrov.net^
 ||vertexfunds.org^
 ||vertexgate.com^
 ||vertexglobaltrading.org^
@@ -17539,6 +17568,7 @@
 ||vestofx.net^
 ||vestoraholding.com^
 ||vestoraxcap.online^
+||vestorchoice.com^
 ||vestorholding.com^
 ||vestorpremier.com^
 ||vestorpremier.org^
@@ -18756,6 +18786,7 @@
 ||zentro-maven.pro^
 ||zenturikova.pro^
 ||zenvestgrowth.com^
+||zenvex.pro^
 ||zenviotrade.com^
 ||zenvora.trade^
 ||zeongrowofficial.com^
