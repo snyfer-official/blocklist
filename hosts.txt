@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-10-29T03:13:13.850Z
-# Domains: 18959
+# Source updated: 2026-10-30T03:13:14.120Z
+# Domains: 18977
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -196,6 +196,7 @@
 0.0.0.0 abccdfs.com
 0.0.0.0 abckl.com
 0.0.0.0 abcupdatestoday.com
+0.0.0.0 abeaxgroup.com
 0.0.0.0 abextradelimited.net
 0.0.0.0 abgsundalinvest.it
 0.0.0.0 abisfinance.com
@@ -649,6 +650,7 @@
 0.0.0.0 allegiantmg.com
 0.0.0.0 allegro-investment.com
 0.0.0.0 allenbygroup.com
+0.0.0.0 alleskrediet.com
 0.0.0.0 alliancecryptofxtrade.com
 0.0.0.0 allianceglobalholdingsltd.org
 0.0.0.0 alliancegrowth.pro
@@ -1086,6 +1088,7 @@
 0.0.0.0 apiontrade.com
 0.0.0.0 apixfx.com
 0.0.0.0 apllcinv.icu
+0.0.0.0 aply-n1.com
 0.0.0.0 apmmarketsvr.com
 0.0.0.0 apmoskva.ru
 0.0.0.0 apoassets.com
@@ -1238,6 +1241,7 @@
 0.0.0.0 ascendantasset.org
 0.0.0.0 ascendexeu.com
 0.0.0.0 ascendholdingsltd.com
+0.0.0.0 ascendiacapital.live
 0.0.0.0 ascension-comfort-company.live
 0.0.0.0 ascensiontiontradenet.online
 0.0.0.0 ascensionven.com
@@ -1489,6 +1493,7 @@
 0.0.0.0 aureusmarkets.live
 0.0.0.0 aureusolaris.com
 0.0.0.0 aureuswealth-app.com
+0.0.0.0 aureusx.org
 0.0.0.0 aureviamarkets.com
 0.0.0.0 aureviatradexai.net
 0.0.0.0 aurexassetsignals.online
@@ -2753,6 +2758,7 @@
 0.0.0.0 bluecloudrecovery.com
 0.0.0.0 bluecresthorizon.com
 0.0.0.0 blueedgemarket.com
+0.0.0.0 bluefieldgroups.com
 0.0.0.0 bluefieldinvestments.com
 0.0.0.0 blueforge.cfd
 0.0.0.0 blueforge.ltd
@@ -2859,6 +2865,7 @@
 0.0.0.0 bondratecompare.co.uk
 0.0.0.0 bondshare-investment-ag.com
 0.0.0.0 bondsmith.uk
+0.0.0.0 bondsterling.co.uk
 0.0.0.0 bonexy.com
 0.0.0.0 bonezza.com
 0.0.0.0 boniseinvesttrade.ltd
@@ -3237,6 +3244,7 @@
 0.0.0.0 c4-first.ch
 0.0.0.0 ca-finances.com
 0.0.0.0 ca-rfis.com
+0.0.0.0 ca-tdx.com
 0.0.0.0 caagex.com
 0.0.0.0 caamex.com
 0.0.0.0 caarden.org
@@ -6697,6 +6705,7 @@
 0.0.0.0 fintadoltd.com
 0.0.0.0 fintechmarket-consulting.com
 0.0.0.0 fintera-global.com
+0.0.0.0 finterestkrediet.com
 0.0.0.0 finthormargintrade.cfd
 0.0.0.0 fintiwall.net
 0.0.0.0 finto-fx.com
@@ -6951,6 +6960,7 @@
 0.0.0.0 forexhesap.com
 0.0.0.0 forexlions.com
 0.0.0.0 forexlistenoire.fr
+0.0.0.0 forexluck.ru
 0.0.0.0 forexnoble.com
 0.0.0.0 forexobot.com
 0.0.0.0 forexp.cc
@@ -8448,6 +8458,7 @@
 0.0.0.0 hedgefund-options.com
 0.0.0.0 hedgefusioncapital.com
 0.0.0.0 hedgemarketoption.com
+0.0.0.0 hedgemarksecuritiesllc.com
 0.0.0.0 hedgeperformance.com
 0.0.0.0 hedgeprimemarket.com
 0.0.0.0 hedger.one
@@ -9505,6 +9516,7 @@
 0.0.0.0 kanakmarkets.com
 0.0.0.0 kanbilu.net
 0.0.0.0 kantfinance.pro
+0.0.0.0 kanz-group.ch
 0.0.0.0 kaolax.com
 0.0.0.0 kaopex.com
 0.0.0.0 kaorax.com
@@ -10302,6 +10314,7 @@
 0.0.0.0 lvuuqr.com
 0.0.0.0 lvx.cc
 0.0.0.0 lw-ex.com
+0.0.0.0 lw-mgmt.info
 0.0.0.0 lwex-exchange.com
 0.0.0.0 lwex-lt.com
 0.0.0.0 lwex-sk.com
@@ -10329,6 +10342,7 @@
 0.0.0.0 lwexsk.com
 0.0.0.0 lwhout.com
 0.0.0.0 lwhout001.com
+0.0.0.0 lwp-capitalltd.com
 0.0.0.0 lxcapitalassets.org
 0.0.0.0 lxfx.com
 0.0.0.0 lxlwyn.top
@@ -11150,6 +11164,7 @@
 0.0.0.0 multiassethub.com
 0.0.0.0 multicoin-capital.com
 0.0.0.0 multifinanceltd.com
+0.0.0.0 multifinas.com
 0.0.0.0 multifivetrade.com
 0.0.0.0 multigenuisapp.com
 0.0.0.0 multimarketzone.top
@@ -14118,6 +14133,7 @@
 0.0.0.0 sakwin.com
 0.0.0.0 saldc.com
 0.0.0.0 saldialtd.com
+0.0.0.0 saldolenen.com
 0.0.0.0 salexplay.com
 0.0.0.0 salfordandco.com
 0.0.0.0 salpremiumaline.live
@@ -15885,6 +15901,7 @@
 0.0.0.0 theusdthouse.online
 0.0.0.0 thevascommunity.com
 0.0.0.0 thevngrd.com
+0.0.0.0 thewealthascend.net
 0.0.0.0 thexcelfuture.com
 0.0.0.0 thezenmarket.com
 0.0.0.0 thfthisyr.com
@@ -15940,6 +15957,7 @@
 0.0.0.0 timtopoint.live
 0.0.0.0 tin22.com
 0.0.0.0 tinexcapital.com
+0.0.0.0 tips-seniors-insurance.com
 0.0.0.0 tiraxmin.com
 0.0.0.0 tirscope-in.com
 0.0.0.0 tirveavip.cc

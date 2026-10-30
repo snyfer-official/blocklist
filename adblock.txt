@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-10-29T03:13:13.850Z
-! Domains: 18959
+! Source updated: 2026-10-30T03:13:14.120Z
+! Domains: 18977
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -198,6 +198,7 @@
 ||abccdfs.com^
 ||abckl.com^
 ||abcupdatestoday.com^
+||abeaxgroup.com^
 ||abextradelimited.net^
 ||abgsundalinvest.it^
 ||abisfinance.com^
@@ -651,6 +652,7 @@
 ||allegiantmg.com^
 ||allegro-investment.com^
 ||allenbygroup.com^
+||alleskrediet.com^
 ||alliancecryptofxtrade.com^
 ||allianceglobalholdingsltd.org^
 ||alliancegrowth.pro^
@@ -1088,6 +1090,7 @@
 ||apiontrade.com^
 ||apixfx.com^
 ||apllcinv.icu^
+||aply-n1.com^
 ||apmmarketsvr.com^
 ||apmoskva.ru^
 ||apoassets.com^
@@ -1240,6 +1243,7 @@
 ||ascendantasset.org^
 ||ascendexeu.com^
 ||ascendholdingsltd.com^
+||ascendiacapital.live^
 ||ascension-comfort-company.live^
 ||ascensiontiontradenet.online^
 ||ascensionven.com^
@@ -1491,6 +1495,7 @@
 ||aureusmarkets.live^
 ||aureusolaris.com^
 ||aureuswealth-app.com^
+||aureusx.org^
 ||aureviamarkets.com^
 ||aureviatradexai.net^
 ||aurexassetsignals.online^
@@ -2755,6 +2760,7 @@
 ||bluecloudrecovery.com^
 ||bluecresthorizon.com^
 ||blueedgemarket.com^
+||bluefieldgroups.com^
 ||bluefieldinvestments.com^
 ||blueforge.cfd^
 ||blueforge.ltd^
@@ -2861,6 +2867,7 @@
 ||bondratecompare.co.uk^
 ||bondshare-investment-ag.com^
 ||bondsmith.uk^
+||bondsterling.co.uk^
 ||bonexy.com^
 ||bonezza.com^
 ||boniseinvesttrade.ltd^
@@ -3239,6 +3246,7 @@
 ||c4-first.ch^
 ||ca-finances.com^
 ||ca-rfis.com^
+||ca-tdx.com^
 ||caagex.com^
 ||caamex.com^
 ||caarden.org^
@@ -6699,6 +6707,7 @@
 ||fintadoltd.com^
 ||fintechmarket-consulting.com^
 ||fintera-global.com^
+||finterestkrediet.com^
 ||finthormargintrade.cfd^
 ||fintiwall.net^
 ||finto-fx.com^
@@ -6953,6 +6962,7 @@
 ||forexhesap.com^
 ||forexlions.com^
 ||forexlistenoire.fr^
+||forexluck.ru^
 ||forexnoble.com^
 ||forexobot.com^
 ||forexp.cc^
@@ -8450,6 +8460,7 @@
 ||hedgefund-options.com^
 ||hedgefusioncapital.com^
 ||hedgemarketoption.com^
+||hedgemarksecuritiesllc.com^
 ||hedgeperformance.com^
 ||hedgeprimemarket.com^
 ||hedger.one^
@@ -9507,6 +9518,7 @@
 ||kanakmarkets.com^
 ||kanbilu.net^
 ||kantfinance.pro^
+||kanz-group.ch^
 ||kaolax.com^
 ||kaopex.com^
 ||kaorax.com^
@@ -10304,6 +10316,7 @@
 ||lvuuqr.com^
 ||lvx.cc^
 ||lw-ex.com^
+||lw-mgmt.info^
 ||lwex-exchange.com^
 ||lwex-lt.com^
 ||lwex-sk.com^
@@ -10331,6 +10344,7 @@
 ||lwexsk.com^
 ||lwhout.com^
 ||lwhout001.com^
+||lwp-capitalltd.com^
 ||lxcapitalassets.org^
 ||lxfx.com^
 ||lxlwyn.top^
@@ -11152,6 +11166,7 @@
 ||multiassethub.com^
 ||multicoin-capital.com^
 ||multifinanceltd.com^
+||multifinas.com^
 ||multifivetrade.com^
 ||multigenuisapp.com^
 ||multimarketzone.top^
@@ -14120,6 +14135,7 @@
 ||sakwin.com^
 ||saldc.com^
 ||saldialtd.com^
+||saldolenen.com^
 ||salexplay.com^
 ||salfordandco.com^
 ||salpremiumaline.live^
@@ -15887,6 +15903,7 @@
 ||theusdthouse.online^
 ||thevascommunity.com^
 ||thevngrd.com^
+||thewealthascend.net^
 ||thexcelfuture.com^
 ||thezenmarket.com^
 ||thfthisyr.com^
@@ -15942,6 +15959,7 @@
 ||timtopoint.live^
 ||tin22.com^
 ||tinexcapital.com^
+||tips-seniors-insurance.com^
 ||tiraxmin.com^
 ||tirscope-in.com^
 ||tirveavip.cc^
