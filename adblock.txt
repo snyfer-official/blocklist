@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-10-30T03:13:14.120Z
-! Domains: 18977
+! Source updated: 2026-10-31T03:13:13.829Z
+! Domains: 18994
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -410,6 +410,7 @@
 ||aghlimited.org^
 ||agi-ai.net^
 ||agiboto.com^
+||agifinanz.com^
 ||agileforex.io^
 ||agilitetrade.com^
 ||aglcapitals.com^
@@ -1059,6 +1060,7 @@
 ||apextradeai.com^
 ||apextradeexchange.com^
 ||apextradefxpips.com^
+||apextrademarkets.com^
 ||apextradercorp.com^
 ||apextraderedge.com^
 ||apextraderplc.com^
@@ -1622,6 +1624,7 @@
 ||averixcore.net^
 ||averixcorepro.net^
 ||avexbet.com^
+||aviobull.live^
 ||aviontrade.com^
 ||avnve.com^
 ||avo.trading^
@@ -1889,6 +1892,7 @@
 ||bellatorlife.com^
 ||bellcapitals.com^
 ||belleofx.com^
+||belleriveswiss.com^
 ||bellevuehillcapitalltd.com^
 ||bellhea.ink^
 ||belmontcapital.cc^
@@ -2623,6 +2627,7 @@
 ||bks-invest.com^
 ||bksfintech.com^
 ||bkwealthltd.com^
+||bl-sym.com^
 ||blackbear-ecapital.com^
 ||blackbullmarkets.com^
 ||blackbullsols.fun^
@@ -2792,6 +2797,7 @@
 ||bluerockwealth.com^
 ||bluescoin.net^
 ||blueskyasset.net^
+||blueskymint-ltd.com^
 ||blueskymint.com^
 ||blueskymintltd.com^
 ||blueskyrocketray.com^
@@ -3606,6 +3612,7 @@
 ||centraltrade.cc^
 ||centraltradekeplr.com^
 ||centrexes.com^
+||centrix.to^
 ||centrumapp.com^
 ||centurion-de-canberra.com^
 ||century21fnc.live^
@@ -6770,6 +6777,7 @@
 ||firstcitizensplc.com^
 ||firstclassinvesting.com^
 ||firstcoin.vip^
+||firstcommercialtrust.com^
 ||firstcryptoinvestment.ru^
 ||firstecn.com^
 ||firstedge-capital.co^
@@ -7706,6 +7714,7 @@
 ||globalstockst.com^
 ||globalstocksvest.com^
 ||globalswifttrade.com^
+||globalsynergy.ch^
 ||globaltargetfx.io^
 ||globaltechholdingsltd.com^
 ||globalteslamarket.com^
@@ -9008,6 +9017,7 @@
 ||infinaeon.com^
 ||infinextop.online^
 ||infinite-ideas.co^
+||infinite-yield.com^
 ||infiniteinvestmentltd.com^
 ||infinitemarkets.trade^
 ||infinitenova.org^
@@ -9225,6 +9235,7 @@
 ||investsiqlimited.com^
 ||investspheretrading.com^
 ||investvance.com^
+||investvision-ag.com^
 ||investwealthforge.com^
 ||investwfg.vip^
 ||investwisetrading.com^
@@ -10844,6 +10855,7 @@
 ||mexvorinsweden.com^
 ||mezraxbt.com^
 ||mezwex.com^
+||mfdinvestment.com^
 ||mfinvestmentcompany.com^
 ||mfxtsignals.online^
 ||mgamb.cc^
@@ -11340,6 +11352,7 @@
 ||nelarion.com^
 ||nelobit.com^
 ||nelocas.com^
+||nelomiris.com^
 ||nelowbluemetro.com^
 ||neloza.com^
 ||nemeb.com^
@@ -11945,6 +11958,7 @@
 ||octanetcapitals.org^
 ||octokeep.com^
 ||octopro-finance.cc^
+||octopus-firm.com^
 ||octopusenergylimited.com^
 ||octopuspro.top^
 ||octra.org^
@@ -12435,6 +12449,7 @@
 ||patuhsyariahislamaix.com^
 ||pavloexc.com^
 ||pavonal.com^
+||pawn.guru^
 ||paxasfinance.com^
 ||paxfulprotrade.com^
 ||paxfundz.com^
@@ -13352,6 +13367,7 @@
 ||quan-tarax.com^
 ||quanbitweb3.com^
 ||quanfimkt.cc^
+||quanstumcore.org^
 ||quanta-pulse.com^
 ||quantacapmarket.trade^
 ||quantalgometrics.com^
@@ -14392,6 +14408,7 @@
 ||shadix.to^
 ||shadowflux.vip^
 ||shaftdwke.com^
+||shardcreditpartners.uk^
 ||share2profit.com^
 ||shareadvisors.uno^
 ||sharecoininvestment.org^

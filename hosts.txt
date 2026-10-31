@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-10-30T03:13:14.120Z
-# Domains: 18977
+# Source updated: 2026-10-31T03:13:13.829Z
+# Domains: 18994
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -408,6 +408,7 @@
 0.0.0.0 aghlimited.org
 0.0.0.0 agi-ai.net
 0.0.0.0 agiboto.com
+0.0.0.0 agifinanz.com
 0.0.0.0 agileforex.io
 0.0.0.0 agilitetrade.com
 0.0.0.0 aglcapitals.com
@@ -1057,6 +1058,7 @@
 0.0.0.0 apextradeai.com
 0.0.0.0 apextradeexchange.com
 0.0.0.0 apextradefxpips.com
+0.0.0.0 apextrademarkets.com
 0.0.0.0 apextradercorp.com
 0.0.0.0 apextraderedge.com
 0.0.0.0 apextraderplc.com
@@ -1620,6 +1622,7 @@
 0.0.0.0 averixcore.net
 0.0.0.0 averixcorepro.net
 0.0.0.0 avexbet.com
+0.0.0.0 aviobull.live
 0.0.0.0 aviontrade.com
 0.0.0.0 avnve.com
 0.0.0.0 avo.trading
@@ -1887,6 +1890,7 @@
 0.0.0.0 bellatorlife.com
 0.0.0.0 bellcapitals.com
 0.0.0.0 belleofx.com
+0.0.0.0 belleriveswiss.com
 0.0.0.0 bellevuehillcapitalltd.com
 0.0.0.0 bellhea.ink
 0.0.0.0 belmontcapital.cc
@@ -2621,6 +2625,7 @@
 0.0.0.0 bks-invest.com
 0.0.0.0 bksfintech.com
 0.0.0.0 bkwealthltd.com
+0.0.0.0 bl-sym.com
 0.0.0.0 blackbear-ecapital.com
 0.0.0.0 blackbullmarkets.com
 0.0.0.0 blackbullsols.fun
@@ -2790,6 +2795,7 @@
 0.0.0.0 bluerockwealth.com
 0.0.0.0 bluescoin.net
 0.0.0.0 blueskyasset.net
+0.0.0.0 blueskymint-ltd.com
 0.0.0.0 blueskymint.com
 0.0.0.0 blueskymintltd.com
 0.0.0.0 blueskyrocketray.com
@@ -3604,6 +3610,7 @@
 0.0.0.0 centraltrade.cc
 0.0.0.0 centraltradekeplr.com
 0.0.0.0 centrexes.com
+0.0.0.0 centrix.to
 0.0.0.0 centrumapp.com
 0.0.0.0 centurion-de-canberra.com
 0.0.0.0 century21fnc.live
@@ -6768,6 +6775,7 @@
 0.0.0.0 firstcitizensplc.com
 0.0.0.0 firstclassinvesting.com
 0.0.0.0 firstcoin.vip
+0.0.0.0 firstcommercialtrust.com
 0.0.0.0 firstcryptoinvestment.ru
 0.0.0.0 firstecn.com
 0.0.0.0 firstedge-capital.co
@@ -7704,6 +7712,7 @@
 0.0.0.0 globalstockst.com
 0.0.0.0 globalstocksvest.com
 0.0.0.0 globalswifttrade.com
+0.0.0.0 globalsynergy.ch
 0.0.0.0 globaltargetfx.io
 0.0.0.0 globaltechholdingsltd.com
 0.0.0.0 globalteslamarket.com
@@ -9006,6 +9015,7 @@
 0.0.0.0 infinaeon.com
 0.0.0.0 infinextop.online
 0.0.0.0 infinite-ideas.co
+0.0.0.0 infinite-yield.com
 0.0.0.0 infiniteinvestmentltd.com
 0.0.0.0 infinitemarkets.trade
 0.0.0.0 infinitenova.org
@@ -9223,6 +9233,7 @@
 0.0.0.0 investsiqlimited.com
 0.0.0.0 investspheretrading.com
 0.0.0.0 investvance.com
+0.0.0.0 investvision-ag.com
 0.0.0.0 investwealthforge.com
 0.0.0.0 investwfg.vip
 0.0.0.0 investwisetrading.com
@@ -10842,6 +10853,7 @@
 0.0.0.0 mexvorinsweden.com
 0.0.0.0 mezraxbt.com
 0.0.0.0 mezwex.com
+0.0.0.0 mfdinvestment.com
 0.0.0.0 mfinvestmentcompany.com
 0.0.0.0 mfxtsignals.online
 0.0.0.0 mgamb.cc
@@ -11338,6 +11350,7 @@
 0.0.0.0 nelarion.com
 0.0.0.0 nelobit.com
 0.0.0.0 nelocas.com
+0.0.0.0 nelomiris.com
 0.0.0.0 nelowbluemetro.com
 0.0.0.0 neloza.com
 0.0.0.0 nemeb.com
@@ -11943,6 +11956,7 @@
 0.0.0.0 octanetcapitals.org
 0.0.0.0 octokeep.com
 0.0.0.0 octopro-finance.cc
+0.0.0.0 octopus-firm.com
 0.0.0.0 octopusenergylimited.com
 0.0.0.0 octopuspro.top
 0.0.0.0 octra.org
@@ -12433,6 +12447,7 @@
 0.0.0.0 patuhsyariahislamaix.com
 0.0.0.0 pavloexc.com
 0.0.0.0 pavonal.com
+0.0.0.0 pawn.guru
 0.0.0.0 paxasfinance.com
 0.0.0.0 paxfulprotrade.com
 0.0.0.0 paxfundz.com
@@ -13350,6 +13365,7 @@
 0.0.0.0 quan-tarax.com
 0.0.0.0 quanbitweb3.com
 0.0.0.0 quanfimkt.cc
+0.0.0.0 quanstumcore.org
 0.0.0.0 quanta-pulse.com
 0.0.0.0 quantacapmarket.trade
 0.0.0.0 quantalgometrics.com
@@ -14390,6 +14406,7 @@
 0.0.0.0 shadix.to
 0.0.0.0 shadowflux.vip
 0.0.0.0 shaftdwke.com
+0.0.0.0 shardcreditpartners.uk
 0.0.0.0 share2profit.com
 0.0.0.0 shareadvisors.uno
 0.0.0.0 sharecoininvestment.org
