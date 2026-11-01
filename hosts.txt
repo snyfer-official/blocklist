@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-10-31T03:13:13.829Z
-# Domains: 18994
+# Source updated: 2026-11-01T03:13:14.169Z
+# Domains: 19002
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -298,6 +298,7 @@
 0.0.0.0 act-capital.io
 0.0.0.0 actiave.com
 0.0.0.0 activ-maplatform.com
+0.0.0.0 active-capital.business
 0.0.0.0 activecapitals.com
 0.0.0.0 activeprimesfx.com
 0.0.0.0 activeprogresslive.com
@@ -6401,6 +6402,7 @@
 0.0.0.0 fastprofitincome.co
 0.0.0.0 fastspar.se
 0.0.0.0 fastthrifallin.com
+0.0.0.0 fasttrackintlholding.online
 0.0.0.0 fastwave-crypto.com
 0.0.0.0 fastwin1.com
 0.0.0.0 fatbtc.xyz
@@ -6425,6 +6427,7 @@
 0.0.0.0 fcxtrade.com
 0.0.0.0 fdasv.com
 0.0.0.0 fdctrade.asia
+0.0.0.0 fddigital.com.tr
 0.0.0.0 fdinvestmentsapo.com
 0.0.0.0 fdinvestmentsmrl.com
 0.0.0.0 fdinvestmentsmrw.com
@@ -8880,6 +8883,7 @@
 0.0.0.0 ifinex.co
 0.0.0.0 ifinx.com
 0.0.0.0 ifserveex.com
+0.0.0.0 ig-ipco.com
 0.0.0.0 igalgo.com
 0.0.0.0 igam.cc
 0.0.0.0 igaus.org
@@ -9345,6 +9349,7 @@
 0.0.0.0 itradeinvestment.com
 0.0.0.0 itraderstocks.com
 0.0.0.0 itrustcap.com
+0.0.0.0 itsmart.digital
 0.0.0.0 iue-marts.com
 0.0.0.0 ivecoglobaltrades.com
 0.0.0.0 ivelistrade72.com
@@ -11375,6 +11380,7 @@
 0.0.0.0 neonox.pro
 0.0.0.0 neonx-exchange.com
 0.0.0.0 neoriseway.com
+0.0.0.0 neoriseway.net
 0.0.0.0 neoswiss-trade.com
 0.0.0.0 neotradeforge.com
 0.0.0.0 neouro.xyz
@@ -12657,6 +12663,7 @@
 0.0.0.0 pinnaclewealth.trade
 0.0.0.0 pinnu.com
 0.0.0.0 pintailglove.today
+0.0.0.0 pintarfxindo.com
 0.0.0.0 pintronzify.com
 0.0.0.0 pinvortexmarket.com
 0.0.0.0 pioneeriobox.org
@@ -16475,6 +16482,7 @@
 0.0.0.0 tradnoerska.com
 0.0.0.0 tradock.me
 0.0.0.0 tradock.tech
+0.0.0.0 tradock.vip
 0.0.0.0 tradopex.com
 0.0.0.0 tradora-holdings.com
 0.0.0.0 tradovalx.com
