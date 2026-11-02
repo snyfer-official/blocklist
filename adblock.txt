@@ -2,7 +2,7 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-11-01T03:13:14.169Z
+! Source updated: 2026-11-02T03:13:13.939Z
 ! Domains: 19002
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
