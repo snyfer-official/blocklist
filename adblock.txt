@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-11-02T03:13:13.939Z
-! Domains: 19002
+! Source updated: 2026-11-03T03:13:13.496Z
+! Domains: 19012
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -478,6 +478,7 @@
 ||aifundx.net^
 ||aig-alvainternasionalglobe.com^
 ||aigcoin.top^
+||aigloballyinvest.com^
 ||aigroup.xin^
 ||aigti.net^
 ||aigtrade.com^
@@ -1143,6 +1144,7 @@
 ||aramcoamericainvest.com^
 ||arancoin.com^
 ||aras-ai.com^
+||arawafundex.org^
 ||arbcore.app^
 ||arbcore.info^
 ||arbedex.com^
@@ -3873,6 +3875,7 @@
 ||cmglobalmarket.com^
 ||cmglobals.com^
 ||cmlcfd.com^
+||cmlcltd.uk^
 ||cmlteamplm.com^
 ||cmlteamyhb.com^
 ||cmltopth.com^
@@ -6011,6 +6014,7 @@
 ||erqiai.vip^
 ||erspce.org^
 ||erub.site^
+||erysoldelyven.com^
 ||eryxavin-invest.com^
 ||eryxavin.com^
 ||eryxavin.net^
@@ -6527,6 +6531,7 @@
 ||fidstkinv.com^
 ||field-oilcrops.online^
 ||fieptheless.com^
+||fierpatrimoire.com^
 ||fiestahubfx.com^
 ||figinvestmentsltd.com^
 ||fikapex.com^
@@ -7686,6 +7691,7 @@
 ||globalnetxchange.com^
 ||globalnordicinvestapp.com^
 ||globalofficialtrade.com^
+||globalpipmarkets.com^
 ||globalpremiertrade.net^
 ||globalprimeassets.org^
 ||globalprimetr.com^
@@ -9201,6 +9207,7 @@
 ||investime-capital.ru^
 ||investing-coin.com^
 ||investing-in.ltd^
+||investingclever.com^
 ||investingib.com^
 ||investio-ai.com^
 ||investiswiss.ch^
@@ -10744,6 +10751,7 @@
 ||meridianbrightgate.live^
 ||meridiancapitals.top^
 ||merilledgeltd.com^
+||meritbrace-equity.org^
 ||meritsinvestment.top^
 ||meritzmarkets.com^
 ||merivmarket.com^
@@ -11332,6 +11340,7 @@
 ||naviarkpmk.com^
 ||navikex.com^
 ||naxcoin.com^
+||naxelqoryv.com^
 ||nckzx.com^
 ||ndvist.ru^
 ||ndxtrd.com^
@@ -13082,6 +13091,7 @@
 ||primextb.org^
 ||primextradeinvest.online^
 ||primextradevip.io^
+||primeyieldassets.com^
 ||primezaim.ru^
 ||primostratique.com^
 ||primuspacificpartners.com^
