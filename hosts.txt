@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-11-03T03:13:13.496Z
-# Domains: 19012
+# Source updated: 2026-11-04T03:13:14.390Z
+# Domains: 19016
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -27,6 +27,7 @@
 0.0.0.0 1fuel.io
 0.0.0.0 1inch-connect.org
 0.0.0.0 1inchcc.com
+0.0.0.0 1kvk.ru
 0.0.0.0 1nvesttradingmarket.com
 0.0.0.0 1rolls.pro
 0.0.0.0 1stccapitals.com
@@ -5990,6 +5991,7 @@
 0.0.0.0 equitypinnacle.com
 0.0.0.0 equityplus.ltd
 0.0.0.0 equityplusfx.ltd
+0.0.0.0 equityplusoptions.com
 0.0.0.0 equityprice.live
 0.0.0.0 equityprimecapital.com
 0.0.0.0 equitypulsenow.com
@@ -11177,6 +11179,7 @@
 0.0.0.0 mtgoxaccounts.com
 0.0.0.0 mtofxus.com
 0.0.0.0 mtrade-global.net
+0.0.0.0 mucors.com
 0.0.0.0 mudraone.io
 0.0.0.0 mudresinvestfx.com
 0.0.0.0 mudrexcapitalfx.com
@@ -11749,6 +11752,7 @@
 0.0.0.0 norovex.co
 0.0.0.0 norovex.io
 0.0.0.0 norovex.vip
+0.0.0.0 norqela.xyz
 0.0.0.0 nortefondazgo.com
 0.0.0.0 north-capmere.com
 0.0.0.0 northbank.capital

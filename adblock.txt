@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-11-03T03:13:13.496Z
-! Domains: 19012
+! Source updated: 2026-11-04T03:13:14.390Z
+! Domains: 19016
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -29,6 +29,7 @@
 ||1fuel.io^
 ||1inch-connect.org^
 ||1inchcc.com^
+||1kvk.ru^
 ||1nvesttradingmarket.com^
 ||1rolls.pro^
 ||1stccapitals.com^
@@ -5992,6 +5993,7 @@
 ||equitypinnacle.com^
 ||equityplus.ltd^
 ||equityplusfx.ltd^
+||equityplusoptions.com^
 ||equityprice.live^
 ||equityprimecapital.com^
 ||equitypulsenow.com^
@@ -11179,6 +11181,7 @@
 ||mtgoxaccounts.com^
 ||mtofxus.com^
 ||mtrade-global.net^
+||mucors.com^
 ||mudraone.io^
 ||mudresinvestfx.com^
 ||mudrexcapitalfx.com^
@@ -11751,6 +11754,7 @@
 ||norovex.co^
 ||norovex.io^
 ||norovex.vip^
+||norqela.xyz^
 ||nortefondazgo.com^
 ||north-capmere.com^
 ||northbank.capital^
