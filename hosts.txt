@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-11-04T03:13:14.390Z
-# Domains: 19016
+# Source updated: 2026-11-05T03:13:13.557Z
+# Domains: 19031
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -5612,6 +5612,7 @@
 0.0.0.0 eclectica-capital.com
 0.0.0.0 eclem-kt.com
 0.0.0.0 eclemkt.net
+0.0.0.0 ecm-invest.com
 0.0.0.0 ecmarketsltd.cc
 0.0.0.0 ecn-open.com
 0.0.0.0 ecoassetsmgt.com
@@ -7747,6 +7748,7 @@
 0.0.0.0 globalvest.cfd
 0.0.0.0 globalwavefx.com
 0.0.0.0 globalwealthcorporation.com
+0.0.0.0 globalwealthfx.com
 0.0.0.0 globalwealthinv.com
 0.0.0.0 globalwealthinv.ltd
 0.0.0.0 globalwealthinvests.ltd
@@ -8799,6 +8801,7 @@
 0.0.0.0 husewin.cc
 0.0.0.0 huwomex.com
 0.0.0.0 huxham-futures.com
+0.0.0.0 hvppro.com
 0.0.0.0 hw-mall.com
 0.0.0.0 hwinvest.cc
 0.0.0.0 hx-ltd.icu
@@ -9134,6 +9137,7 @@
 0.0.0.0 interactivecrypto.net
 0.0.0.0 interactiveetrader.com
 0.0.0.0 interactiveetraders.com
+0.0.0.0 interactivestocksmarkets.com
 0.0.0.0 interchainbroker.com
 0.0.0.0 intercitygain.com
 0.0.0.0 intercontinentalexchange.finance
@@ -9245,6 +9249,7 @@
 0.0.0.0 investserch.fyi
 0.0.0.0 investsiqlimited.com
 0.0.0.0 investspheretrading.com
+0.0.0.0 investteamgroup7.workers.dev
 0.0.0.0 investvance.com
 0.0.0.0 investvision-ag.com
 0.0.0.0 investwealthforge.com
@@ -11052,6 +11057,7 @@
 0.0.0.0 monetamarketsonline.com
 0.0.0.0 monetrova.com
 0.0.0.0 monetrum.com
+0.0.0.0 monex-markets.com
 0.0.0.0 monexafinans.com
 0.0.0.0 monexai.tech
 0.0.0.0 monexis.org
@@ -11238,6 +11244,7 @@
 0.0.0.0 mxpartners.ch
 0.0.0.0 mxprofits.org
 0.0.0.0 mxstoc.com
+0.0.0.0 my-hvp.com
 0.0.0.0 my-polar.net
 0.0.0.0 myactivetrades.com
 0.0.0.0 myapexbluetop.com
@@ -12451,6 +12458,7 @@
 0.0.0.0 pariscoin.vip
 0.0.0.0 parmtex7.com
 0.0.0.0 parthenongrpllc.com
+0.0.0.0 partivest.com
 0.0.0.0 partnershipsresources.com
 0.0.0.0 pasobamine.net
 0.0.0.0 pasopay.org
@@ -12767,6 +12775,7 @@
 0.0.0.0 plobsi.net
 0.0.0.0 plucex.com
 0.0.0.0 plumall.com
+0.0.0.0 plunzar.com
 0.0.0.0 plurbit.com
 0.0.0.0 plus500.com
 0.0.0.0 plus500invest.pro
@@ -13716,6 +13725,7 @@
 0.0.0.0 redmars.ltd
 0.0.0.0 redmatter.capital
 0.0.0.0 redmindfundex.com
+0.0.0.0 redmondsterling.net
 0.0.0.0 redmontcapitals.com
 0.0.0.0 redobtc.com
 0.0.0.0 redoxcapitals.net
@@ -14478,6 +14488,7 @@
 0.0.0.0 sidradex.org
 0.0.0.0 siemiq.net
 0.0.0.0 siera-kaudalor.com
+0.0.0.0 sigma-limited.xyz
 0.0.0.0 sigma-onecapital.com
 0.0.0.0 sigmabetrix.org
 0.0.0.0 sigmainvestglobal.com
@@ -15245,6 +15256,7 @@
 0.0.0.0 sterlingedgewealthgroups.com
 0.0.0.0 sterlingfundpro.io
 0.0.0.0 sterlinghedgegroup.com
+0.0.0.0 sterlingmakeopt.com
 0.0.0.0 sterlingmarkets.live
 0.0.0.0 sterlingpartnersvip.com
 0.0.0.0 sterlingpointbrokerage.com
@@ -17876,6 +17888,8 @@
 0.0.0.0 vtmarkets.net
 0.0.0.0 vtmarketsfr.com
 0.0.0.0 vtmarketsglobal.com
+0.0.0.0 vtmarkett.com
+0.0.0.0 vtmarrkets-ltd.co
 0.0.0.0 vtmfr.com
 0.0.0.0 vtsn.org
 0.0.0.0 vtw-management.info
@@ -18086,6 +18100,7 @@
 0.0.0.0 web3mainledger.com
 0.0.0.0 web3max.cc
 0.0.0.0 web3nexo1.cc
+0.0.0.0 web3quantumassets.ltd
 0.0.0.0 web3state.com
 0.0.0.0 web3strata.com
 0.0.0.0 web3teslaworld.com

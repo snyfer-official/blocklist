@@ -5606,6 +5606,7 @@ ecibn.com
 eclectica-capital.com
 eclem-kt.com
 eclemkt.net
+ecm-invest.com
 ecmarketsltd.cc
 ecn-open.com
 ecoassetsmgt.com
@@ -7741,6 +7742,7 @@ globalunionprime.com
 globalvest.cfd
 globalwavefx.com
 globalwealthcorporation.com
+globalwealthfx.com
 globalwealthinv.com
 globalwealthinv.ltd
 globalwealthinvests.ltd
@@ -8793,6 +8795,7 @@ hurtiglan.com
 husewin.cc
 huwomex.com
 huxham-futures.com
+hvppro.com
 hw-mall.com
 hwinvest.cc
 hx-ltd.icu
@@ -9128,6 +9131,7 @@ interactivecrypto.com
 interactivecrypto.net
 interactiveetrader.com
 interactiveetraders.com
+interactivestocksmarkets.com
 interchainbroker.com
 intercitygain.com
 intercontinentalexchange.finance
@@ -9239,6 +9243,7 @@ investscaribbean.com
 investserch.fyi
 investsiqlimited.com
 investspheretrading.com
+investteamgroup7.workers.dev
 investvance.com
 investvision-ag.com
 investwealthforge.com
@@ -11046,6 +11051,7 @@ monesiap.it
 monetamarketsonline.com
 monetrova.com
 monetrum.com
+monex-markets.com
 monexafinans.com
 monexai.tech
 monexis.org
@@ -11232,6 +11238,7 @@ mxltgo.com
 mxpartners.ch
 mxprofits.org
 mxstoc.com
+my-hvp.com
 my-polar.net
 myactivetrades.com
 myapexbluetop.com
@@ -12445,6 +12452,7 @@ paris-titrisation.fr
 pariscoin.vip
 parmtex7.com
 parthenongrpllc.com
+partivest.com
 partnershipsresources.com
 pasobamine.net
 pasopay.org
@@ -12761,6 +12769,7 @@ pliniobet.com
 plobsi.net
 plucex.com
 plumall.com
+plunzar.com
 plurbit.com
 plus500.com
 plus500invest.pro
@@ -13710,6 +13719,7 @@ redcex.com
 redmars.ltd
 redmatter.capital
 redmindfundex.com
+redmondsterling.net
 redmontcapitals.com
 redobtc.com
 redoxcapitals.net
@@ -14472,6 +14482,7 @@ sicurotrade.org
 sidradex.org
 siemiq.net
 siera-kaudalor.com
+sigma-limited.xyz
 sigma-onecapital.com
 sigmabetrix.org
 sigmainvestglobal.com
@@ -15239,6 +15250,7 @@ sterlingcrestxfinancial.com
 sterlingedgewealthgroups.com
 sterlingfundpro.io
 sterlinghedgegroup.com
+sterlingmakeopt.com
 sterlingmarkets.live
 sterlingpartnersvip.com
 sterlingpointbrokerage.com
@@ -17870,6 +17882,8 @@ vtmarkets.com
 vtmarkets.net
 vtmarketsfr.com
 vtmarketsglobal.com
+vtmarkett.com
+vtmarrkets-ltd.co
 vtmfr.com
 vtsn.org
 vtw-management.info
@@ -18080,6 +18094,7 @@ web3ledgernet.com
 web3mainledger.com
 web3max.cc
 web3nexo1.cc
+web3quantumassets.ltd
 web3state.com
 web3strata.com
 web3teslaworld.com
