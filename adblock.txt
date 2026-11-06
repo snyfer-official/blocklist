@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-11-05T03:13:13.557Z
-! Domains: 19031
+! Source updated: 2026-11-06T03:13:14.556Z
+! Domains: 19041
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -1197,6 +1197,7 @@
 ||aretephoenix.com^
 ||arexueth.com^
 ||argentis-capora.com^
+||argentumtrade.pro^
 ||argnautgoldmine.com^
 ||argos.me^
 ||argusstockbrokers.com^
@@ -2669,6 +2670,7 @@
 ||blezefgroup.com^
 ||blfcwgroup.com^
 ||blgpro.com^
+||blick99-mont41.live^
 ||blinancetrades.com^
 ||blinkbridge.cc^
 ||blissp2p.com^
@@ -7028,6 +7030,7 @@
 ||fortradefx.ae^
 ||fortradelimited.com^
 ||fortressglobalcu.org^
+||fortressglobalhub.com^
 ||fortressoption.live^
 ||fortresstradecapital.com^
 ||fortsk.cc^
@@ -8618,6 +8621,7 @@
 ||highapexplanning.net^
 ||highcoin.top^
 ||highendscapital.com^
+||highlandtradecapital.com^
 ||highmont-group.com^
 ||highness.pro^
 ||highpeak-zenix.com^
@@ -13365,6 +13369,7 @@
 ||qgkne.com^
 ||qhazanah.com^
 ||qihgeitx.com^
+||qikap.com^
 ||qinlock.pro^
 ||qinpinsqy.com^
 ||qmbit.org^
@@ -13423,6 +13428,7 @@
 ||quantexpertsgroup.net^
 ||quantexpertsgroup.org^
 ||quantfury.com^
+||quantiravaultbank.com^
 ||quantispherecapital.com^
 ||quantistrade.com^
 ||quantitativealphattc.com^
@@ -14495,6 +14501,7 @@
 ||sigmabetrix.org^
 ||sigmainvestglobal.com^
 ||sigmatrapartners.live^
+||signal-lab.ai^
 ||signal-markets.com^
 ||signals.now^
 ||signals2trade.io^
@@ -14582,6 +14589,7 @@
 ||skollunion.com^
 ||skvqmining.com^
 ||skwave.net^
+||skybingbank.online^
 ||skybit.world^
 ||skycrest-valtrio.net^
 ||skycrestvaltrio.org^
@@ -16235,6 +16243,7 @@
 ||tracingfundsonline.com^
 ||trackcormaxhex.com^
 ||trackmarketfx.com^
+||tractustrade.pro^
 ||trade-123.com^
 ||trade-algoquanthft.com^
 ||trade-alphaedge.pro^
@@ -17506,6 +17515,7 @@
 ||veimalaysia.com^
 ||veivex.com^
 ||vekbit.com^
+||vekstonia.com^
 ||velacasino.vu^
 ||velarplay.vip^
 ||velbrios.com^

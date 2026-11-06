@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-11-05T03:13:13.557Z
-# Domains: 19031
+# Source updated: 2026-11-06T03:13:14.556Z
+# Domains: 19041
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -1195,6 +1195,7 @@
 0.0.0.0 aretephoenix.com
 0.0.0.0 arexueth.com
 0.0.0.0 argentis-capora.com
+0.0.0.0 argentumtrade.pro
 0.0.0.0 argnautgoldmine.com
 0.0.0.0 argos.me
 0.0.0.0 argusstockbrokers.com
@@ -2667,6 +2668,7 @@
 0.0.0.0 blezefgroup.com
 0.0.0.0 blfcwgroup.com
 0.0.0.0 blgpro.com
+0.0.0.0 blick99-mont41.live
 0.0.0.0 blinancetrades.com
 0.0.0.0 blinkbridge.cc
 0.0.0.0 blissp2p.com
@@ -7026,6 +7028,7 @@
 0.0.0.0 fortradefx.ae
 0.0.0.0 fortradelimited.com
 0.0.0.0 fortressglobalcu.org
+0.0.0.0 fortressglobalhub.com
 0.0.0.0 fortressoption.live
 0.0.0.0 fortresstradecapital.com
 0.0.0.0 fortsk.cc
@@ -8616,6 +8619,7 @@
 0.0.0.0 highapexplanning.net
 0.0.0.0 highcoin.top
 0.0.0.0 highendscapital.com
+0.0.0.0 highlandtradecapital.com
 0.0.0.0 highmont-group.com
 0.0.0.0 highness.pro
 0.0.0.0 highpeak-zenix.com
@@ -13363,6 +13367,7 @@
 0.0.0.0 qgkne.com
 0.0.0.0 qhazanah.com
 0.0.0.0 qihgeitx.com
+0.0.0.0 qikap.com
 0.0.0.0 qinlock.pro
 0.0.0.0 qinpinsqy.com
 0.0.0.0 qmbit.org
@@ -13421,6 +13426,7 @@
 0.0.0.0 quantexpertsgroup.net
 0.0.0.0 quantexpertsgroup.org
 0.0.0.0 quantfury.com
+0.0.0.0 quantiravaultbank.com
 0.0.0.0 quantispherecapital.com
 0.0.0.0 quantistrade.com
 0.0.0.0 quantitativealphattc.com
@@ -14493,6 +14499,7 @@
 0.0.0.0 sigmabetrix.org
 0.0.0.0 sigmainvestglobal.com
 0.0.0.0 sigmatrapartners.live
+0.0.0.0 signal-lab.ai
 0.0.0.0 signal-markets.com
 0.0.0.0 signals.now
 0.0.0.0 signals2trade.io
@@ -14580,6 +14587,7 @@
 0.0.0.0 skollunion.com
 0.0.0.0 skvqmining.com
 0.0.0.0 skwave.net
+0.0.0.0 skybingbank.online
 0.0.0.0 skybit.world
 0.0.0.0 skycrest-valtrio.net
 0.0.0.0 skycrestvaltrio.org
@@ -16233,6 +16241,7 @@
 0.0.0.0 tracingfundsonline.com
 0.0.0.0 trackcormaxhex.com
 0.0.0.0 trackmarketfx.com
+0.0.0.0 tractustrade.pro
 0.0.0.0 trade-123.com
 0.0.0.0 trade-algoquanthft.com
 0.0.0.0 trade-alphaedge.pro
@@ -17504,6 +17513,7 @@
 0.0.0.0 veimalaysia.com
 0.0.0.0 veivex.com
 0.0.0.0 vekbit.com
+0.0.0.0 vekstonia.com
 0.0.0.0 velacasino.vu
 0.0.0.0 velarplay.vip
 0.0.0.0 velbrios.com
