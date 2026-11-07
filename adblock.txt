@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-11-06T03:13:14.556Z
-! Domains: 19041
+! Source updated: 2026-11-07T03:13:13.948Z
+! Domains: 19072
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -279,6 +279,7 @@
 ||achieverfx.com^
 ||ackermanfoster.com^
 ||aclear.online^
+||aclfinco.cc^
 ||aclloan.com^
 ||aclr.online^
 ||acmalaysia.com^
@@ -629,6 +630,7 @@
 ||algorixtradertrade.com^
 ||algorixy.io^
 ||algosone.ai^
+||algospheremarkets.com^
 ||algotekxm.com^
 ||algotradingapi.com^
 ||algovestai.com^
@@ -980,6 +982,7 @@
 ||apemars.com^
 ||apertum.io^
 ||apex-cloudsfx.com^
+||apex-globalassets.com^
 ||apex-globe.com^
 ||apex-option.to^
 ||apex-options.com^
@@ -1031,6 +1034,7 @@
 ||apexglobalstoc.com^
 ||apexglobaltrx.com^
 ||apexguard.sbs^
+||apexihl.com^
 ||apexincrease.ltd^
 ||apexiumtrusts.com^
 ||apexliveprogram.org^
@@ -4591,6 +4595,7 @@
 ||cryptofusion-btc.us^
 ||cryptofutureguide.com^
 ||cryptofxtradex.live^
+||cryptoglobalbrokerage.pro^
 ||cryptogold.exchange^
 ||cryptogold.online^
 ||cryptohaven.biz^
@@ -4852,6 +4857,7 @@
 ||datatrending.com^
 ||daveminers.com^
 ||davikem.info^
+||davisandcole.com^
 ||davixtrd.com^
 ||davortrade.com^
 ||davyunlimited.com^
@@ -5222,6 +5228,7 @@
 ||directdeliveryofficaillogistics.com^
 ||directiveaa.com^
 ||directiveex.com^
+||directvalue.io^
 ||directverge.com^
 ||disbull.org^
 ||disperstockspip.net^
@@ -5239,6 +5246,7 @@
 ||divine-group.finance^
 ||divine-group.io^
 ||divinealliancetraders.com^
+||divinegold.co.uk^
 ||division-capital.com^
 ||diwinbet.one^
 ||diwinindia.top^
@@ -6133,6 +6141,7 @@
 ||ever-ia.com^
 ||ever-vest.com^
 ||everbrfs.com^
+||evercredpartners.com^
 ||evercrest-investments.com^
 ||evercrestmarket.com^
 ||evercrestmiming.com^
@@ -6517,6 +6526,7 @@
 ||fibotracemarket.com^
 ||fibovest.com^
 ||fibrafx.com^
+||ficibank.com^
 ||fid-tradetech.com^
 ||fidareprime.com^
 ||fidbitix.io^
@@ -6602,6 +6612,7 @@
 ||financialaitool.com^
 ||financialbrigdeconsulting.com^
 ||financialfundadvisor.com^
+||financialmarketing-csa.com^
 ||financialmarkettrade.icu^
 ||financialmarkt.com^
 ||financials.capital^
@@ -6824,6 +6835,7 @@
 ||fivepillarstoken.com^
 ||fivetecglobalcapital.com^
 ||fivexcals.com^
+||fivonix.com^
 ||fixagates.com^
 ||fixedpumpstrade.com^
 ||fixgy.com^
@@ -7034,6 +7046,7 @@
 ||fortressoption.live^
 ||fortresstradecapital.com^
 ||fortsk.cc^
+||fortuna-l.ru^
 ||fortuna-wins.com^
 ||fortune-base.org^
 ||fortune-gainholm.com^
@@ -8877,6 +8890,7 @@
 ||icrinvest.ai^
 ||icrvc.com^
 ||ictcapitalmarkets.com^
+||icumarkets.com^
 ||icunity.com^
 ||icwebru.com^
 ||idaley.net^
@@ -9247,6 +9261,7 @@
 ||investos360.io^
 ||investpathline.com^
 ||investpathwealth.com^
+||investpilot.vip^
 ||investpro20.com^
 ||investproai.fr^
 ||investprotrading.com^
@@ -9282,6 +9297,7 @@
 ||inxforex.com^
 ||io-websuite.com^
 ||iodefi.com^
+||iogcompany.com^
 ||iokcop.com^
 ||ionmining.com^
 ||ipo.capital^
@@ -9574,6 +9590,7 @@
 ||kasewin.at^
 ||kasowin.com^
 ||kaspycoin.com^
+||kasscoin.store^
 ||kastwin150.pro^
 ||katoprime.com^
 ||katywin.com^
@@ -10445,6 +10462,7 @@
 ||majesticdragonfund.com^
 ||majesticea.com^
 ||majesticplay.net^
+||majestiglobal.com^
 ||majestitrade.com^
 ||majestyfx.com^
 ||makanexaa.com^
@@ -10517,6 +10535,7 @@
 ||marketaccesslimited.net^
 ||marketbridgeltd.com^
 ||marketcapitalpro.com^
+||marketexpertgroup.co.uk^
 ||marketflowgridz.top^
 ||marketflows.icu^
 ||marketflowtrades.com^
@@ -10692,6 +10711,7 @@
 ||megalithacq.com^
 ||megaproai.com^
 ||megaprofitincome.com^
+||megaproforextrade.com^
 ||megaprotradeservices.com^
 ||megasharkpro.com^
 ||megasparktrade.com^
@@ -10723,6 +10743,7 @@
 ||melslot.com^
 ||melsmirzis.info^
 ||meltigate.com^
+||meltropic.com^
 ||melunix.com^
 ||meme-mining.xyz^
 ||memecointechh.com^
@@ -10971,6 +10992,7 @@
 ||mirpp.vip^
 ||mirror-livetrades.com^
 ||mirrorcon.com^
+||mirroredgetrades.com^
 ||mirrormoontrading.com^
 ||mirrubinotrx.com^
 ||mirwd.com^
@@ -11514,6 +11536,7 @@
 ||newy-se.exchange^
 ||newyorkdepositary.com^
 ||nex-diverse.com^
+||nex-investment.com^
 ||nexa-trader.com^
 ||nexabitrades.com^
 ||nexabullcapital.com^
@@ -11917,6 +11940,7 @@
 ||nuvilon.io^
 ||nuvion-capital.com^
 ||nuxeros.app^
+||nv-group.cc^
 ||nvb-beratung.de^
 ||nvdaglobalmarket.com^
 ||nventuresai.net^
@@ -14463,6 +14487,7 @@
 ||shellinvest.org^
 ||shellnovatrade.com^
 ||shellscoin.com^
+||shelvipstokinv.trade^
 ||shf-isfca.com^
 ||shf-ltd.com^
 ||shfonline.com^
@@ -15352,6 +15377,7 @@
 ||stonezencapital-consortium.com^
 ||store-uni-app.com^
 ||storewalldex.vip^
+||storm.tg^
 ||stormcapitalgroup.cc^
 ||stormledger.com^
 ||stovexglobal.com^
@@ -15993,6 +16019,7 @@
 ||tickmillgroupus.com^
 ||tickupab.se^
 ||tidexcup.com^
+||tierrafi.com^
 ||tiffintin.org^
 ||tikglobalsp.co^
 ||tikiint.net^
@@ -16642,9 +16669,11 @@
 ||trrexe.com^
 ||trsone-official.com^
 ||trubluefx.biz^
+||trueability.io^
 ||truecrestenterprise.com^
 ||trueearnersnetwork.sbs^
 ||trueedgecapitals.com^
+||truefin.finance^
 ||trueledgeroptions.org^
 ||trueledgevikca.com^
 ||truelightbeamd.pro^
@@ -17527,6 +17556,7 @@
 ||veliongroup-ltd.com^
 ||velionluck.com^
 ||velionmarkets.org^
+||veliontrade.com^
 ||velionx.vip^
 ||velkorinc.com^
 ||vellionpro500.com^
@@ -17987,6 +18017,7 @@
 ||waxxmarket.com^
 ||wayatrading.com^
 ||wayatrading.trade^
+||waylitefinance.com^
 ||waypointmarkets.com^
 ||waypointstrategies.live^
 ||wb-tradingroom.com^
