@@ -1,7 +1,7 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-11-08T03:13:14.199Z
+# Source updated: 2026-11-09T03:13:14.080Z
 # Domains: 19091
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
