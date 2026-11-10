@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-11-09T03:13:14.080Z
-! Domains: 19091
+! Source updated: 2026-11-10T03:13:14.250Z
+! Domains: 19098
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -1368,6 +1368,7 @@
 ||asterax.com^
 ||asterdex.com^
 ||asteriskmining.com^
+||asteriwealth.com^
 ||asterms.com^
 ||astertrades.com^
 ||astertrust.com^
@@ -2994,6 +2995,7 @@
 ||brightinsightlawfirm.com^
 ||brighton-wealth.io^
 ||brightonwealth-client.io^
+||brightonwealth-smsf.io^
 ||brightonwealth-webtrader.io^
 ||brightonwealth.io^
 ||brightonwealthfx.io^
@@ -7757,6 +7759,7 @@
 ||globaltradesmarkets.com^
 ||globaltradespot.com^
 ||globaltradestatiionltd.co^
+||globaltradexmarket.com^
 ||globaltradezentrix.com^
 ||globaltrust-group.ltd^
 ||globaltrustcoins.ltd^
@@ -10935,6 +10938,7 @@
 ||millibitcoins.com^
 ||millioneiz.biz^
 ||milltonchange.com^
+||milnercorporategrp.com^
 ||milobyfinans.com^
 ||miloer-exchange.com^
 ||miloer-overview.com^
@@ -15942,6 +15946,7 @@
 ||the-bitcoinaussiesystem.com^
 ||the-pmg.com^
 ||the-quantcastz.com^
+||the-real-fx.live^
 ||theaccessfunds.com^
 ||theace.bet^
 ||theadvanceglory.com^
@@ -16305,6 +16310,7 @@
 ||trade26.com^
 ||trade2wealthinvestments.pro^
 ||trade360hq.com^
+||trade4worldfx.com^
 ||trade6.net^
 ||tradeai.co.com^
 ||tradeaicfd.com^
@@ -17725,6 +17731,7 @@
 ||vesxbit.com^
 ||vetafro.com^
 ||veterancredittunionbnk.com^
+||vetexwealth.com^
 ||vetipay.net^
 ||vetipays.com^
 ||vetirex.com^

@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-11-09T03:13:14.080Z
-# Domains: 19091
+# Source updated: 2026-11-10T03:13:14.250Z
+# Domains: 19098
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -1366,6 +1366,7 @@
 0.0.0.0 asterax.com
 0.0.0.0 asterdex.com
 0.0.0.0 asteriskmining.com
+0.0.0.0 asteriwealth.com
 0.0.0.0 asterms.com
 0.0.0.0 astertrades.com
 0.0.0.0 astertrust.com
@@ -2992,6 +2993,7 @@
 0.0.0.0 brightinsightlawfirm.com
 0.0.0.0 brighton-wealth.io
 0.0.0.0 brightonwealth-client.io
+0.0.0.0 brightonwealth-smsf.io
 0.0.0.0 brightonwealth-webtrader.io
 0.0.0.0 brightonwealth.io
 0.0.0.0 brightonwealthfx.io
@@ -7755,6 +7757,7 @@
 0.0.0.0 globaltradesmarkets.com
 0.0.0.0 globaltradespot.com
 0.0.0.0 globaltradestatiionltd.co
+0.0.0.0 globaltradexmarket.com
 0.0.0.0 globaltradezentrix.com
 0.0.0.0 globaltrust-group.ltd
 0.0.0.0 globaltrustcoins.ltd
@@ -10933,6 +10936,7 @@
 0.0.0.0 millibitcoins.com
 0.0.0.0 millioneiz.biz
 0.0.0.0 milltonchange.com
+0.0.0.0 milnercorporategrp.com
 0.0.0.0 milobyfinans.com
 0.0.0.0 miloer-exchange.com
 0.0.0.0 miloer-overview.com
@@ -15940,6 +15944,7 @@
 0.0.0.0 the-bitcoinaussiesystem.com
 0.0.0.0 the-pmg.com
 0.0.0.0 the-quantcastz.com
+0.0.0.0 the-real-fx.live
 0.0.0.0 theaccessfunds.com
 0.0.0.0 theace.bet
 0.0.0.0 theadvanceglory.com
@@ -16303,6 +16308,7 @@
 0.0.0.0 trade26.com
 0.0.0.0 trade2wealthinvestments.pro
 0.0.0.0 trade360hq.com
+0.0.0.0 trade4worldfx.com
 0.0.0.0 trade6.net
 0.0.0.0 tradeai.co.com
 0.0.0.0 tradeaicfd.com
@@ -17723,6 +17729,7 @@
 0.0.0.0 vesxbit.com
 0.0.0.0 vetafro.com
 0.0.0.0 veterancredittunionbnk.com
+0.0.0.0 vetexwealth.com
 0.0.0.0 vetipay.net
 0.0.0.0 vetipays.com
 0.0.0.0 vetirex.com
