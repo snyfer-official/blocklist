@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-11-10T03:13:14.250Z
-! Domains: 19098
+! Source updated: 2026-11-11T03:13:14.163Z
+! Domains: 19117
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -1522,6 +1522,7 @@
 ||aurexvaultcapital.com^
 ||auricrypt-sphereton.vip^
 ||aurictrade.live^
+||aurimgold.com^
 ||aurinmovia-ai.com^
 ||aurion.investments^
 ||aurioncapital.org^
@@ -3736,6 +3737,7 @@
 ||changepye.com^
 ||charsbank.com^
 ||charter-zinsode.com^
+||chartsking.com^
 ||charwex.com^
 ||chasespeedfx.net^
 ||chclcare.engineer^
@@ -5151,6 +5153,7 @@
 ||digital-edgeconnect.com^
 ||digital-grownt.com^
 ||digital-growthinvext.com^
+||digital-holding.company^
 ||digital-hunch-seo.top^
 ||digital-income.org^
 ||digital-invests.ltd^
@@ -5247,6 +5250,7 @@
 ||dividenda.app^
 ||dividenda.finance^
 ||dividendluxentiaofficial.com^
+||dividonic.com^
 ||divine-group.cfd^
 ||divine-group.finance^
 ||divine-group.io^
@@ -5352,6 +5356,7 @@
 ||dora-energy.biz^
 ||doricglobaal-krediet.com^
 ||doronzo-ag.net^
+||dospijosta.org^
 ||dotamarket.online^
 ||doterex.com^
 ||dotexplay.com^
@@ -6582,6 +6587,7 @@
 ||finaltomarkets.com^
 ||finance-extra.net^
 ||finance-extrra.com^
+||finance-global.ltd^
 ||finance-grand-trades.com^
 ||finance-grandtrade.com^
 ||finance-kamino.org^
@@ -8073,6 +8079,7 @@
 ||grayvestscale.com^
 ||greasc.com^
 ||great-landventures.com^
+||greatachievers.ltd^
 ||greatmindcapital.com^
 ||grecbex.com^
 ||greebex.com^
@@ -9098,6 +9105,7 @@
 ||innometricspro.com^
 ||innosylius.top^
 ||innotecae.com^
+||innovata-portal.com^
 ||innovatech.com^
 ||innovatexcapital.trade^
 ||innovation-tact.com^
@@ -9153,6 +9161,7 @@
 ||inter-actives.com^
 ||inter-cove.net^
 ||inter-forex.com^
+||interact-capital.com^
 ||interactinvest.com^
 ||interactive-market.net^
 ||interactive-tradex.com^
@@ -9807,6 +9816,7 @@
 ||krediet48.com^
 ||kredietennu.com^
 ||kredietzeker.com^
+||kredoxpro.com^
 ||kreminer.org^
 ||kreolbit.com^
 ||krestfodler.com^
@@ -10214,6 +10224,7 @@
 ||lopebit.com^
 ||lopesgroups.com^
 ||lopugamb.com^
+||lorgandir-leech.com^
 ||lorpcoin.com^
 ||lorzen-capitalpartners.com^
 ||lostmining.com^
@@ -10375,6 +10386,7 @@
 ||lvx.cc^
 ||lw-ex.com^
 ||lw-mgmt.info^
+||lw-mt.info^
 ||lwex-exchange.com^
 ||lwex-lt.com^
 ||lwex-sk.com^
@@ -10600,6 +10612,7 @@
 ||marsxec.com^
 ||martons.group^
 ||martonvos.com^
+||marviestex.com^
 ||masa-ho.com^
 ||maseglobalresources.com^
 ||mashminer.xyz^
@@ -12695,6 +12708,7 @@
 ||piedraluz-monvex.com^
 ||pierpoint-global.com^
 ||pilabit.com^
+||pilbaradaily.pro^
 ||pilexo.com^
 ||pilotafx.com^
 ||pilotrange.com^
@@ -12862,6 +12876,7 @@
 ||pojewin.com^
 ||pokemart.click^
 ||pokups.com^
+||polancoinvestmenttrade.com^
 ||polar-ai.io^
 ||polar-capital.org^
 ||polar-tensor-marketing.com^
@@ -14696,6 +14711,7 @@
 ||smartfxbot.com^
 ||smartfxplatform.com^
 ||smartfxplatform.net^
+||smartgrowthindia.com^
 ||smartgruve.com^
 ||smartholdlings.com^
 ||smartincometrade.com^
@@ -16239,6 +16255,7 @@
 ||tovarglobal.com^
 ||tovdex.com^
 ||tovicoin.com^
+||towemer.com^
 ||toxabe.com^
 ||tp24globalfx.com^
 ||tpbit.com^
@@ -16540,6 +16557,7 @@
 ||tradingdistrict.org^
 ||tradingeuropebv.com^
 ||tradingfortressltd.org^
+||tradinggruppe.com^
 ||tradinghubs.live^
 ||tradingia.net^
 ||tradinginsightspro.com^
@@ -18224,6 +18242,7 @@
 ||westaridge.com^
 ||westaridges.ltd^
 ||westernaitraders.com^
+||westerncapitalslimited.ltd^
 ||westernmarkettrade.com^
 ||westernstandard.vip^
 ||westiquant.com^

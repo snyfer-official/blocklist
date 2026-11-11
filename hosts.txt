@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-11-10T03:13:14.250Z
-# Domains: 19098
+# Source updated: 2026-11-11T03:13:14.163Z
+# Domains: 19117
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -1520,6 +1520,7 @@
 0.0.0.0 aurexvaultcapital.com
 0.0.0.0 auricrypt-sphereton.vip
 0.0.0.0 aurictrade.live
+0.0.0.0 aurimgold.com
 0.0.0.0 aurinmovia-ai.com
 0.0.0.0 aurion.investments
 0.0.0.0 aurioncapital.org
@@ -3734,6 +3735,7 @@
 0.0.0.0 changepye.com
 0.0.0.0 charsbank.com
 0.0.0.0 charter-zinsode.com
+0.0.0.0 chartsking.com
 0.0.0.0 charwex.com
 0.0.0.0 chasespeedfx.net
 0.0.0.0 chclcare.engineer
@@ -5149,6 +5151,7 @@
 0.0.0.0 digital-edgeconnect.com
 0.0.0.0 digital-grownt.com
 0.0.0.0 digital-growthinvext.com
+0.0.0.0 digital-holding.company
 0.0.0.0 digital-hunch-seo.top
 0.0.0.0 digital-income.org
 0.0.0.0 digital-invests.ltd
@@ -5245,6 +5248,7 @@
 0.0.0.0 dividenda.app
 0.0.0.0 dividenda.finance
 0.0.0.0 dividendluxentiaofficial.com
+0.0.0.0 dividonic.com
 0.0.0.0 divine-group.cfd
 0.0.0.0 divine-group.finance
 0.0.0.0 divine-group.io
@@ -5350,6 +5354,7 @@
 0.0.0.0 dora-energy.biz
 0.0.0.0 doricglobaal-krediet.com
 0.0.0.0 doronzo-ag.net
+0.0.0.0 dospijosta.org
 0.0.0.0 dotamarket.online
 0.0.0.0 doterex.com
 0.0.0.0 dotexplay.com
@@ -6580,6 +6585,7 @@
 0.0.0.0 finaltomarkets.com
 0.0.0.0 finance-extra.net
 0.0.0.0 finance-extrra.com
+0.0.0.0 finance-global.ltd
 0.0.0.0 finance-grand-trades.com
 0.0.0.0 finance-grandtrade.com
 0.0.0.0 finance-kamino.org
@@ -8071,6 +8077,7 @@
 0.0.0.0 grayvestscale.com
 0.0.0.0 greasc.com
 0.0.0.0 great-landventures.com
+0.0.0.0 greatachievers.ltd
 0.0.0.0 greatmindcapital.com
 0.0.0.0 grecbex.com
 0.0.0.0 greebex.com
@@ -9096,6 +9103,7 @@
 0.0.0.0 innometricspro.com
 0.0.0.0 innosylius.top
 0.0.0.0 innotecae.com
+0.0.0.0 innovata-portal.com
 0.0.0.0 innovatech.com
 0.0.0.0 innovatexcapital.trade
 0.0.0.0 innovation-tact.com
@@ -9151,6 +9159,7 @@
 0.0.0.0 inter-actives.com
 0.0.0.0 inter-cove.net
 0.0.0.0 inter-forex.com
+0.0.0.0 interact-capital.com
 0.0.0.0 interactinvest.com
 0.0.0.0 interactive-market.net
 0.0.0.0 interactive-tradex.com
@@ -9805,6 +9814,7 @@
 0.0.0.0 krediet48.com
 0.0.0.0 kredietennu.com
 0.0.0.0 kredietzeker.com
+0.0.0.0 kredoxpro.com
 0.0.0.0 kreminer.org
 0.0.0.0 kreolbit.com
 0.0.0.0 krestfodler.com
@@ -10212,6 +10222,7 @@
 0.0.0.0 lopebit.com
 0.0.0.0 lopesgroups.com
 0.0.0.0 lopugamb.com
+0.0.0.0 lorgandir-leech.com
 0.0.0.0 lorpcoin.com
 0.0.0.0 lorzen-capitalpartners.com
 0.0.0.0 lostmining.com
@@ -10373,6 +10384,7 @@
 0.0.0.0 lvx.cc
 0.0.0.0 lw-ex.com
 0.0.0.0 lw-mgmt.info
+0.0.0.0 lw-mt.info
 0.0.0.0 lwex-exchange.com
 0.0.0.0 lwex-lt.com
 0.0.0.0 lwex-sk.com
@@ -10598,6 +10610,7 @@
 0.0.0.0 marsxec.com
 0.0.0.0 martons.group
 0.0.0.0 martonvos.com
+0.0.0.0 marviestex.com
 0.0.0.0 masa-ho.com
 0.0.0.0 maseglobalresources.com
 0.0.0.0 mashminer.xyz
@@ -12693,6 +12706,7 @@
 0.0.0.0 piedraluz-monvex.com
 0.0.0.0 pierpoint-global.com
 0.0.0.0 pilabit.com
+0.0.0.0 pilbaradaily.pro
 0.0.0.0 pilexo.com
 0.0.0.0 pilotafx.com
 0.0.0.0 pilotrange.com
@@ -12860,6 +12874,7 @@
 0.0.0.0 pojewin.com
 0.0.0.0 pokemart.click
 0.0.0.0 pokups.com
+0.0.0.0 polancoinvestmenttrade.com
 0.0.0.0 polar-ai.io
 0.0.0.0 polar-capital.org
 0.0.0.0 polar-tensor-marketing.com
@@ -14694,6 +14709,7 @@
 0.0.0.0 smartfxbot.com
 0.0.0.0 smartfxplatform.com
 0.0.0.0 smartfxplatform.net
+0.0.0.0 smartgrowthindia.com
 0.0.0.0 smartgruve.com
 0.0.0.0 smartholdlings.com
 0.0.0.0 smartincometrade.com
@@ -16237,6 +16253,7 @@
 0.0.0.0 tovarglobal.com
 0.0.0.0 tovdex.com
 0.0.0.0 tovicoin.com
+0.0.0.0 towemer.com
 0.0.0.0 toxabe.com
 0.0.0.0 tp24globalfx.com
 0.0.0.0 tpbit.com
@@ -16538,6 +16555,7 @@
 0.0.0.0 tradingdistrict.org
 0.0.0.0 tradingeuropebv.com
 0.0.0.0 tradingfortressltd.org
+0.0.0.0 tradinggruppe.com
 0.0.0.0 tradinghubs.live
 0.0.0.0 tradingia.net
 0.0.0.0 tradinginsightspro.com
@@ -18222,6 +18240,7 @@
 0.0.0.0 westaridge.com
 0.0.0.0 westaridges.ltd
 0.0.0.0 westernaitraders.com
+0.0.0.0 westerncapitalslimited.ltd
 0.0.0.0 westernmarkettrade.com
 0.0.0.0 westernstandard.vip
 0.0.0.0 westiquant.com
