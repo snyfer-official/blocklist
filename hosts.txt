@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-11-13T03:13:14.663Z
-# Domains: 19176
+# Source updated: 2026-11-14T03:13:14.187Z
+# Domains: 19200
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -580,6 +580,7 @@
 0.0.0.0 albarka.top
 0.0.0.0 albaswissfx.com
 0.0.0.0 albathagroupltd.com
+0.0.0.0 albionwealth.co.uk
 0.0.0.0 alcabit.com
 0.0.0.0 alcancemax.net
 0.0.0.0 alcart.pro
@@ -1733,6 +1734,7 @@
 0.0.0.0 azoplay.com
 0.0.0.0 azoprealty.com
 0.0.0.0 azowin.site
+0.0.0.0 azurevaultglobal.com
 0.0.0.0 azvmining.site
 0.0.0.0 azzaminer.com
 0.0.0.0 b-getu.com
@@ -2994,6 +2996,7 @@
 0.0.0.0 bridgekredit.ru
 0.0.0.0 bridgemarks.cc
 0.0.0.0 bridgemarks.info
+0.0.0.0 bridgemarks.live
 0.0.0.0 bridgemarks.net
 0.0.0.0 bridgemarks.online
 0.0.0.0 bridgepointmgtgrp.com
@@ -3758,6 +3761,7 @@
 0.0.0.0 charwex.com
 0.0.0.0 chasespeedfx.net
 0.0.0.0 chclcare.engineer
+0.0.0.0 cheapcuva.com
 0.0.0.0 checkbpi.cc
 0.0.0.0 checkbsc.co
 0.0.0.0 chenguanginvestment.com
@@ -4431,6 +4435,7 @@
 0.0.0.0 crestedge.org
 0.0.0.0 crestfield-global.com
 0.0.0.0 crestfieldcapitalinvestments.com
+0.0.0.0 crestfieldplc.com
 0.0.0.0 crestfinances.com
 0.0.0.0 crestfmtrade.com
 0.0.0.0 crestfundinvestment.com
@@ -4625,6 +4630,7 @@
 0.0.0.0 cryptogold.exchange
 0.0.0.0 cryptogold.online
 0.0.0.0 cryptohaven.biz
+0.0.0.0 cryptohill.pro
 0.0.0.0 cryptohubsmine.com
 0.0.0.0 cryptohyperlink.vip
 0.0.0.0 cryptoice.net
@@ -5146,6 +5152,7 @@
 0.0.0.0 diamondcapitals.co
 0.0.0.0 diamondcash.live
 0.0.0.0 diamondchancefx.com
+0.0.0.0 diamondflairs.com
 0.0.0.0 diamondinstitution.ltd
 0.0.0.0 diamondluxe236.vip
 0.0.0.0 diamondprimecap.com
@@ -5366,6 +5373,7 @@
 0.0.0.0 dontoverthinktrading.com
 0.0.0.0 donutbit.com
 0.0.0.0 dookcoin.com
+0.0.0.0 dooprime.com
 0.0.0.0 doorboostapp.com
 0.0.0.0 dooriex.com
 0.0.0.0 dootron.com
@@ -5392,6 +5400,7 @@
 0.0.0.0 dp57.com
 0.0.0.0 dpi-investment.com
 0.0.0.0 dprestigebroker.com
+0.0.0.0 dprimecenter.org
 0.0.0.0 dracosbet.com
 0.0.0.0 dragofund.com
 0.0.0.0 dragolucrietto.live
@@ -6346,6 +6355,7 @@
 0.0.0.0 exponentialstock.com
 0.0.0.0 express-exchangeuk.com
 0.0.0.0 expresscarttrading.com
+0.0.0.0 expressdigitalaffilate.com
 0.0.0.0 expressminerpro.com
 0.0.0.0 expressprimetraders.com
 0.0.0.0 expressstreakinv.com
@@ -7142,6 +7152,7 @@
 0.0.0.0 foyaview.top
 0.0.0.0 fozawin.com
 0.0.0.0 fpassetmgt.com
+0.0.0.0 fpcapttradinglt.com
 0.0.0.0 fpcgrowthtrade.com
 0.0.0.0 fpeurope.com
 0.0.0.0 fpmarketsltd.net
@@ -8603,6 +8614,7 @@
 0.0.0.0 hemfrevo.com
 0.0.0.0 heneex.com
 0.0.0.0 heodex.com
+0.0.0.0 heokox.com
 0.0.0.0 heonex.com
 0.0.0.0 herbnk.com
 0.0.0.0 herg23.com
@@ -9221,6 +9233,7 @@
 0.0.0.0 internetcashs.com
 0.0.0.0 internetportal.info
 0.0.0.0 interpacific.online
+0.0.0.0 interpolservices.online
 0.0.0.0 interstellar-probes.org
 0.0.0.0 interstellarcapital.co
 0.0.0.0 interswitchglobal.org
@@ -9258,6 +9271,7 @@
 0.0.0.0 invest-loan.com
 0.0.0.0 invest-page.ru
 0.0.0.0 invest-trade.ltd
+0.0.0.0 invest-trend.space
 0.0.0.0 investarfinances.com
 0.0.0.0 investaroprofit.com
 0.0.0.0 investatlas.co
@@ -9945,6 +9959,7 @@
 0.0.0.0 labrotex.com
 0.0.0.0 labrys-pro.io
 0.0.0.0 laburberhemah-my.com
+0.0.0.0 laedfordkey.com
 0.0.0.0 lafcb.com
 0.0.0.0 lagan-bondspire.com
 0.0.0.0 lagaretta.com
@@ -12751,6 +12766,7 @@
 0.0.0.0 pilabit.com
 0.0.0.0 pilbaradaily.pro
 0.0.0.0 pilexo.com
+0.0.0.0 pillarfx1.com
 0.0.0.0 pilotafx.com
 0.0.0.0 pilotrange.com
 0.0.0.0 pilvorax.pro
@@ -13059,6 +13075,7 @@
 0.0.0.0 preteur-riquier.com
 0.0.0.0 prevailinv.live
 0.0.0.0 prevvault.com
+0.0.0.0 prexxbank.com
 0.0.0.0 pri-markets.io
 0.0.0.0 pricesentinelai.com
 0.0.0.0 primacourierservice.com
@@ -13652,6 +13669,7 @@
 0.0.0.0 quintustrade.com
 0.0.0.0 qumasai.org
 0.0.0.0 quocoin.com
+0.0.0.0 quorix.best
 0.0.0.0 quorixtrading.com
 0.0.0.0 quorumcapitalltd.com
 0.0.0.0 quoteklerk.com
@@ -13788,6 +13806,7 @@
 0.0.0.0 rcsl.it
 0.0.0.0 rcx.cc
 0.0.0.0 re-investment.ch
+0.0.0.0 reactrum.icu
 0.0.0.0 readaboutdgi.com
 0.0.0.0 reagzcorpinvestments.com
 0.0.0.0 reakox.com
@@ -14160,6 +14179,7 @@
 0.0.0.0 royalgloblfx.com
 0.0.0.0 royalgrowthltd.org
 0.0.0.0 royalhook.com
+0.0.0.0 royalispower.com
 0.0.0.0 royalqaiquant.net
 0.0.0.0 royalstakeinvestments.com
 0.0.0.0 royalstonelltd.com
@@ -15889,6 +15909,7 @@
 0.0.0.0 tenamex.com
 0.0.0.0 tenaxcode.com
 0.0.0.0 tencentprimex.com
+0.0.0.0 tendertrader.com
 0.0.0.0 tenetoption.com
 0.0.0.0 tenorcrest.com
 0.0.0.0 tensocoin.com
@@ -16342,6 +16363,7 @@
 0.0.0.0 tpexfin.com
 0.0.0.0 tpktrade.com
 0.0.0.0 tpktrading.com
+0.0.0.0 tplatform-royalispower.com
 0.0.0.0 tpmt-ex.info
 0.0.0.0 tpmtpo.com
 0.0.0.0 tpzuycjr.top
@@ -16556,6 +16578,7 @@
 0.0.0.0 tradewave.name.ng
 0.0.0.0 tradewaveinvestment.com
 0.0.0.0 tradewell.today
+0.0.0.0 tradewill-global.com
 0.0.0.0 tradewith-icxs.com
 0.0.0.0 tradewithaplus.com
 0.0.0.0 tradewithdenise.com
@@ -17659,6 +17682,7 @@
 0.0.0.0 velmoratrust.com
 0.0.0.0 velmorin.hk
 0.0.0.0 velmunix.com
+0.0.0.0 velnoriasavings.co.uk
 0.0.0.0 velnoryx.com
 0.0.0.0 velo-sir.com
 0.0.0.0 velo-syn.com
