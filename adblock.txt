@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-11-14T03:13:14.187Z
-! Domains: 19200
+! Source updated: 2026-11-15T03:13:13.934Z
+! Domains: 19220
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -18,6 +18,7 @@
 ||100eyescryptoscanners.org^
 ||102pty.ltd^
 ||10xtrade.net^
+||11asset-ltd.com^
 ||11vba.com^
 ||12-ventures.online^
 ||12cnqe.it^
@@ -405,6 +406,7 @@
 ||afribizinvestment.com^
 ||afstrustee.com^
 ||afstrusteeswiss.com^
+||afzaalventures.com^
 ||agamb.cc^
 ||agastltd.net^
 ||agconsalting.site^
@@ -1239,6 +1241,7 @@
 ||arrowxtrade.com^
 ||arscinvest.com^
 ||artdril.io^
+||artelia.business^
 ||arthawealth.org^
 ||arthurbfxsignals.org^
 ||arthurthomasltd.com^
@@ -1255,6 +1258,7 @@
 ||arw.cc^
 ||arx.pro^
 ||aryacoin.com^
+||arzetstradr.org^
 ||asadministration.uk^
 ||asadministrationuk.com^
 ||asatalent.co^
@@ -1966,6 +1970,7 @@
 ||best-t24.com^
 ||best-trade.app^
 ||bestbondrates.co.uk^
+||bestbull.pro^
 ||bestexc.digital^
 ||bestforexmarkets.com^
 ||bestminers.pro^
@@ -3854,6 +3859,7 @@
 ||cleanspotsolution.cc^
 ||cleantradingmodern.com^
 ||clearbridgegoldfx.com^
+||clearripenholdry.com^
 ||clearskycapitalltd.com^
 ||clearway-monrix.com^
 ||clearworkingroom.com^
@@ -3892,6 +3898,7 @@
 ||clpfc.com^
 ||clrsky-capt.com^
 ||clseo.com^
+||club-bs.netlify.app^
 ||clymero.com^
 ||clyvantodremuzen.net^
 ||clyvoagrowth.online^
@@ -4113,6 +4120,7 @@
 ||coinoah-vip.org^
 ||coinod.top^
 ||coinokc.online^
+||coinomize.biz^
 ||coinonewin.com^
 ||coinori.com^
 ||coinoverse.com^
@@ -7217,6 +7225,7 @@
 ||frtx.global^
 ||frtx.org^
 ||frtxx.com^
+||fructuoria.com^
 ||fruenza.info^
 ||fruenza.net^
 ||fruiter-resso-ai.com^
@@ -7676,6 +7685,7 @@
 ||global-cryptocurrencies.com^
 ||global-eprex.pro^
 ||global-fx-trade.com^
+||global-investment.live^
 ||global-nexaunion.com^
 ||global-periugold.org^
 ||global-profits.live^
@@ -9149,6 +9159,7 @@
 ||inmediatonystex.es^
 ||inningz-wealth.com^
 ||innometricspro.com^
+||innopolis.club^
 ||innosylius.top^
 ||innotecae.com^
 ||innovata-portal.com^
@@ -10094,6 +10105,7 @@
 ||levaquant.com^
 ||leveragecatalysthubs.com^
 ||leveragesix.com^
+||levercount.com^
 ||levmart.com^
 ||levopex.com^
 ||levrix.com^
@@ -12067,6 +12079,7 @@
 ||oasistrade.net^
 ||oasisxbusinessschool.com^
 ||oasisxtrade.com^
+||oaxio.com^
 ||obagroup.site^
 ||oberons.org^
 ||oberonsys.com^
@@ -13185,6 +13198,7 @@
 ||primeten.co^
 ||primetify.com^
 ||primetitanmarket.com^
+||primetoriatrust.com^
 ||primetradefunds.com^
 ||primetradefx.online^
 ||primetradeoptions.com^
@@ -13684,6 +13698,7 @@
 ||qvse.cc^
 ||qynox.com^
 ||qyntria.com^
+||qynxmarkets.online^
 ||qyvorel.com^
 ||qzovarel.sbs^
 ||r-private.com^
@@ -13875,6 +13890,7 @@
 ||reidax.com^
 ||reinefondange.com^
 ||rektwin.com^
+||relianceforces.net^
 ||reliancefxholdings.com^
 ||reliancefxmarkets.com^
 ||reliancensured.ltd^
@@ -15542,6 +15558,7 @@
 ||sugamb.at^
 ||sugonalliance.com^
 ||sugurtrades.com^
+||suinvesto.com^
 ||suisseequity.com^
 ||summit-capital.io^
 ||summit-edgeventures.com^
@@ -15909,6 +15926,7 @@
 ||temstarlimited.com^
 ||tenadex.com^
 ||tenamex.com^
+||tenardship.online^
 ||tenaxcode.com^
 ||tencentprimex.com^
 ||tendertrader.com^
@@ -17747,6 +17765,7 @@
 ||venuxtrade.com^
 ||veocex.com^
 ||veracore.co.uk^
+||veradelta.com^
 ||veraxisgbs.com^
 ||verbiter.com^
 ||verdantam.com^
@@ -19076,6 +19095,7 @@
 ||zetradex.com^
 ||zetrex.pro^
 ||zetswap.net^
+||zeusmix.org^
 ||zevawin.com^
 ||zevenglobal.com^
 ||zevlix.to^

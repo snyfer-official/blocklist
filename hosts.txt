@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-11-14T03:13:14.187Z
-# Domains: 19200
+# Source updated: 2026-11-15T03:13:13.934Z
+# Domains: 19220
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -16,6 +16,7 @@
 0.0.0.0 100eyescryptoscanners.org
 0.0.0.0 102pty.ltd
 0.0.0.0 10xtrade.net
+0.0.0.0 11asset-ltd.com
 0.0.0.0 11vba.com
 0.0.0.0 12-ventures.online
 0.0.0.0 12cnqe.it
@@ -403,6 +404,7 @@
 0.0.0.0 afribizinvestment.com
 0.0.0.0 afstrustee.com
 0.0.0.0 afstrusteeswiss.com
+0.0.0.0 afzaalventures.com
 0.0.0.0 agamb.cc
 0.0.0.0 agastltd.net
 0.0.0.0 agconsalting.site
@@ -1237,6 +1239,7 @@
 0.0.0.0 arrowxtrade.com
 0.0.0.0 arscinvest.com
 0.0.0.0 artdril.io
+0.0.0.0 artelia.business
 0.0.0.0 arthawealth.org
 0.0.0.0 arthurbfxsignals.org
 0.0.0.0 arthurthomasltd.com
@@ -1253,6 +1256,7 @@
 0.0.0.0 arw.cc
 0.0.0.0 arx.pro
 0.0.0.0 aryacoin.com
+0.0.0.0 arzetstradr.org
 0.0.0.0 asadministration.uk
 0.0.0.0 asadministrationuk.com
 0.0.0.0 asatalent.co
@@ -1964,6 +1968,7 @@
 0.0.0.0 best-t24.com
 0.0.0.0 best-trade.app
 0.0.0.0 bestbondrates.co.uk
+0.0.0.0 bestbull.pro
 0.0.0.0 bestexc.digital
 0.0.0.0 bestforexmarkets.com
 0.0.0.0 bestminers.pro
@@ -3852,6 +3857,7 @@
 0.0.0.0 cleanspotsolution.cc
 0.0.0.0 cleantradingmodern.com
 0.0.0.0 clearbridgegoldfx.com
+0.0.0.0 clearripenholdry.com
 0.0.0.0 clearskycapitalltd.com
 0.0.0.0 clearway-monrix.com
 0.0.0.0 clearworkingroom.com
@@ -3890,6 +3896,7 @@
 0.0.0.0 clpfc.com
 0.0.0.0 clrsky-capt.com
 0.0.0.0 clseo.com
+0.0.0.0 club-bs.netlify.app
 0.0.0.0 clymero.com
 0.0.0.0 clyvantodremuzen.net
 0.0.0.0 clyvoagrowth.online
@@ -4111,6 +4118,7 @@
 0.0.0.0 coinoah-vip.org
 0.0.0.0 coinod.top
 0.0.0.0 coinokc.online
+0.0.0.0 coinomize.biz
 0.0.0.0 coinonewin.com
 0.0.0.0 coinori.com
 0.0.0.0 coinoverse.com
@@ -7215,6 +7223,7 @@
 0.0.0.0 frtx.global
 0.0.0.0 frtx.org
 0.0.0.0 frtxx.com
+0.0.0.0 fructuoria.com
 0.0.0.0 fruenza.info
 0.0.0.0 fruenza.net
 0.0.0.0 fruiter-resso-ai.com
@@ -7674,6 +7683,7 @@
 0.0.0.0 global-cryptocurrencies.com
 0.0.0.0 global-eprex.pro
 0.0.0.0 global-fx-trade.com
+0.0.0.0 global-investment.live
 0.0.0.0 global-nexaunion.com
 0.0.0.0 global-periugold.org
 0.0.0.0 global-profits.live
@@ -9147,6 +9157,7 @@
 0.0.0.0 inmediatonystex.es
 0.0.0.0 inningz-wealth.com
 0.0.0.0 innometricspro.com
+0.0.0.0 innopolis.club
 0.0.0.0 innosylius.top
 0.0.0.0 innotecae.com
 0.0.0.0 innovata-portal.com
@@ -10092,6 +10103,7 @@
 0.0.0.0 levaquant.com
 0.0.0.0 leveragecatalysthubs.com
 0.0.0.0 leveragesix.com
+0.0.0.0 levercount.com
 0.0.0.0 levmart.com
 0.0.0.0 levopex.com
 0.0.0.0 levrix.com
@@ -12065,6 +12077,7 @@
 0.0.0.0 oasistrade.net
 0.0.0.0 oasisxbusinessschool.com
 0.0.0.0 oasisxtrade.com
+0.0.0.0 oaxio.com
 0.0.0.0 obagroup.site
 0.0.0.0 oberons.org
 0.0.0.0 oberonsys.com
@@ -13183,6 +13196,7 @@
 0.0.0.0 primeten.co
 0.0.0.0 primetify.com
 0.0.0.0 primetitanmarket.com
+0.0.0.0 primetoriatrust.com
 0.0.0.0 primetradefunds.com
 0.0.0.0 primetradefx.online
 0.0.0.0 primetradeoptions.com
@@ -13682,6 +13696,7 @@
 0.0.0.0 qvse.cc
 0.0.0.0 qynox.com
 0.0.0.0 qyntria.com
+0.0.0.0 qynxmarkets.online
 0.0.0.0 qyvorel.com
 0.0.0.0 qzovarel.sbs
 0.0.0.0 r-private.com
@@ -13873,6 +13888,7 @@
 0.0.0.0 reidax.com
 0.0.0.0 reinefondange.com
 0.0.0.0 rektwin.com
+0.0.0.0 relianceforces.net
 0.0.0.0 reliancefxholdings.com
 0.0.0.0 reliancefxmarkets.com
 0.0.0.0 reliancensured.ltd
@@ -15540,6 +15556,7 @@
 0.0.0.0 sugamb.at
 0.0.0.0 sugonalliance.com
 0.0.0.0 sugurtrades.com
+0.0.0.0 suinvesto.com
 0.0.0.0 suisseequity.com
 0.0.0.0 summit-capital.io
 0.0.0.0 summit-edgeventures.com
@@ -15907,6 +15924,7 @@
 0.0.0.0 temstarlimited.com
 0.0.0.0 tenadex.com
 0.0.0.0 tenamex.com
+0.0.0.0 tenardship.online
 0.0.0.0 tenaxcode.com
 0.0.0.0 tencentprimex.com
 0.0.0.0 tendertrader.com
@@ -17745,6 +17763,7 @@
 0.0.0.0 venuxtrade.com
 0.0.0.0 veocex.com
 0.0.0.0 veracore.co.uk
+0.0.0.0 veradelta.com
 0.0.0.0 veraxisgbs.com
 0.0.0.0 verbiter.com
 0.0.0.0 verdantam.com
@@ -19074,6 +19093,7 @@
 0.0.0.0 zetradex.com
 0.0.0.0 zetrex.pro
 0.0.0.0 zetswap.net
+0.0.0.0 zeusmix.org
 0.0.0.0 zevawin.com
 0.0.0.0 zevenglobal.com
 0.0.0.0 zevlix.to
