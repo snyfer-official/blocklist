@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-11-15T03:13:13.934Z
-! Domains: 19220
+! Source updated: 2026-11-16T03:13:14.595Z
+! Domains: 19223
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -3299,6 +3299,7 @@
 ||caarden.org^
 ||cabanor.com^
 ||cabinet-investio.online^
+||cachewin.com^
 ||caddingtonlimited.com^
 ||caddun.io^
 ||cadence-orvixa.com^
@@ -9851,6 +9852,7 @@
 ||kovadex.com^
 ||kovetrade.com^
 ||kowatu.com^
+||koyewin.com^
 ||koyndex.com^
 ||koynex.com^
 ||kpkg-s.ru^
@@ -10196,6 +10198,7 @@
 ||liquiditycapital-group.com^
 ||liquidix.io^
 ||lirdex.com^
+||lirodex.com^
 ||lirunefx.com^
 ||litebasefinances.live^
 ||litetradespro.com^
