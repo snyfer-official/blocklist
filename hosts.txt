@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-11-16T03:13:14.595Z
-# Domains: 19223
+# Source updated: 2026-11-17T03:13:14.416Z
+# Domains: 19229
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -67,6 +67,7 @@
 0.0.0.0 26727-cdn-satoshilabs.com
 0.0.0.0 27lytes.cfd
 0.0.0.0 28337-cdn-satoshilabs.com
+0.0.0.0 287group.com.au
 0.0.0.0 29531-cdn-satoshilabs.com
 0.0.0.0 2kings.vip
 0.0.0.0 2q.is
@@ -4789,6 +4790,7 @@
 0.0.0.0 custodyofwealth.cloud
 0.0.0.0 customcommunitycentre.com
 0.0.0.0 cuttingedgesgbl.com
+0.0.0.0 cuzwin.com
 0.0.0.0 cvprimepro.com
 0.0.0.0 cvxpro.com
 0.0.0.0 cw-management.cc
@@ -5643,6 +5645,7 @@
 0.0.0.0 easystocks.org
 0.0.0.0 easytrademarkets.com
 0.0.0.0 easytradeus.com
+0.0.0.0 easytradingol.com
 0.0.0.0 easytrdmarkets.online
 0.0.0.0 eatfruitinvest.com
 0.0.0.0 eazytradeltd.com
@@ -8643,6 +8646,7 @@
 0.0.0.0 herofx.co
 0.0.0.0 heroleaf.com
 0.0.0.0 heronbaycap.com
+0.0.0.0 hesawin.com
 0.0.0.0 hestiainvest.com
 0.0.0.0 hestiainvest.vercel.app
 0.0.0.0 hestwin255.pro
@@ -9934,6 +9938,7 @@
 0.0.0.0 kumg.cc
 0.0.0.0 kumip.com
 0.0.0.0 kunocreativetop.com
+0.0.0.0 kuokux.com
 0.0.0.0 kupidex.com
 0.0.0.0 kurabuy.com
 0.0.0.0 kurator-kredit.com
@@ -11935,6 +11940,7 @@
 0.0.0.0 novagigitalcore.com
 0.0.0.0 novagmt.co
 0.0.0.0 novagmt.io
+0.0.0.0 novagmt.net
 0.0.0.0 novaideasglobal.org
 0.0.0.0 novalegacyventures.com
 0.0.0.0 novalixventure.io

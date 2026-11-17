@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-11-16T03:13:14.595Z
-! Domains: 19223
+! Source updated: 2026-11-17T03:13:14.416Z
+! Domains: 19229
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -69,6 +69,7 @@
 ||26727-cdn-satoshilabs.com^
 ||27lytes.cfd^
 ||28337-cdn-satoshilabs.com^
+||287group.com.au^
 ||29531-cdn-satoshilabs.com^
 ||2kings.vip^
 ||2q.is^
@@ -4791,6 +4792,7 @@
 ||custodyofwealth.cloud^
 ||customcommunitycentre.com^
 ||cuttingedgesgbl.com^
+||cuzwin.com^
 ||cvprimepro.com^
 ||cvxpro.com^
 ||cw-management.cc^
@@ -5645,6 +5647,7 @@
 ||easystocks.org^
 ||easytrademarkets.com^
 ||easytradeus.com^
+||easytradingol.com^
 ||easytrdmarkets.online^
 ||eatfruitinvest.com^
 ||eazytradeltd.com^
@@ -8645,6 +8648,7 @@
 ||herofx.co^
 ||heroleaf.com^
 ||heronbaycap.com^
+||hesawin.com^
 ||hestiainvest.com^
 ||hestiainvest.vercel.app^
 ||hestwin255.pro^
@@ -9936,6 +9940,7 @@
 ||kumg.cc^
 ||kumip.com^
 ||kunocreativetop.com^
+||kuokux.com^
 ||kupidex.com^
 ||kurabuy.com^
 ||kurator-kredit.com^
@@ -11937,6 +11942,7 @@
 ||novagigitalcore.com^
 ||novagmt.co^
 ||novagmt.io^
+||novagmt.net^
 ||novaideasglobal.org^
 ||novalegacyventures.com^
 ||novalixventure.io^
