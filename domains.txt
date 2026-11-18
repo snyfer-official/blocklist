@@ -104,6 +104,7 @@
 500money500.com
 501fx.co
 501fx.com
+501fx.net
 51vcard.com
 53373-cdn-satoshilabs.com
 53591-cdn-satoshilabs.com
@@ -442,6 +443,7 @@ ai-gruppe.com
 ai-krakeri.cc
 ai-libreprofitance.com
 ai-mining.ltd
+ai-proapp.com
 ai-quantification.com
 ai-trader.trade
 ai-tradinggenius.org
@@ -488,6 +490,7 @@ aimcryptoholder.com
 aimcryptospace.com
 aimcryptospacec.com
 aimcryptox.com
+aimens-game.online
 aimeta.ltd
 aimex.cc
 aiminers.pro
@@ -854,6 +857,7 @@ am-elated.com
 am-onehk.com
 am4x.com
 amaanahcapitall.com
+amaliafundcapital.club
 amanah-reit.com
 amanahlaju.com
 amanahreit.net
@@ -1923,6 +1927,7 @@ belvoraine.com
 bemoxes.com
 benacoin.com
 benadex.com
+benawex.com
 benchmarkets.net
 benefittrade.org
 benefittradings.com
@@ -2779,6 +2784,7 @@ blovas.com
 bloxchase.icu
 bltzpn-gr.org
 blucaptrade.com
+blue-miner.site
 blueapextrade.com
 bluearrow.finance
 blueberryinvtrading.com
@@ -2959,6 +2965,7 @@ bravermere-trust.org
 braviatrade.org
 bravonexmarkets.com
 bravoraexpert.com
+bravotradex.live
 braxonsgroup.com
 braxtonwm.com
 braxyne.com
@@ -3089,6 +3096,7 @@ btcbull.io
 btcbull.link
 btcchimp.com
 btccoin.biz
+btccoin.site
 btccproxr.com
 btcflashcore.com
 btcily.com
@@ -3902,6 +3910,8 @@ cmarketss.com
 cmatcer.top
 cmbipro.com
 cmbipro.xyz
+cmc-strategies-client.io
+cmcs-group.io
 cmcstrategies.io
 cmdiversetrade.com
 cmdt.ink
@@ -4630,6 +4640,7 @@ cryptofreedomgateway.com
 cryptofusion-btc.us
 cryptofutureguide.com
 cryptofxtradex.live
+cryptogdex.io
 cryptoglobalbrokerage.pro
 cryptogold.exchange
 cryptogold.online
@@ -5356,6 +5367,8 @@ dogeinvestmentcorporation.com
 dogeking.io
 dogext.com
 doggocto.com
+dogmainvest.online
+dogswin.com
 dokeela.com
 doldex.com
 dolomiteusa.us
@@ -6080,6 +6093,7 @@ eryxavin.net
 eryxavin.org
 eryxavinit.com
 eryxavinsweden.com
+es-rendistero.com
 esafevault.com
 esattamercovia.cyou
 esbooking.com
@@ -6163,6 +6177,7 @@ eurobondsfinder.com
 eurocapital-eaf.finance
 eurocapital-eaf.net
 eurocapitaleaf.fund
+eurocapitaleaf.ltd
 euroclear-protection.com
 eurocorporate-asset-management.com
 eurofins-agence.com
@@ -7074,6 +7089,7 @@ fortanexcapital.com
 fortarox.com
 fortbitcapital.com
 fortcas.com
+forte-fondeza.app
 forteglobalholdings.com
 forteoption.trade
 fortescueinvestment.ltd
@@ -7126,6 +7142,7 @@ fortunezza.org
 fortunomarkets.com
 fortuntrade.com
 fortusminer.com
+fortuvepoint.vip
 fortwealthpartners.live
 fortywin.com
 forvestltd.com
@@ -7191,6 +7208,7 @@ freetrade.it.com
 freeusdtairdrop.digital
 freewex.com
 freightorausa.com
+freixoinv.com
 frequency-ventures.com
 freshtools.fi
 frexinvestmentltd.com
@@ -8994,6 +9012,7 @@ ignitefxt.com
 ignitrader.com
 igt-myr.com
 igwm.info
+ih0st.app
 ihbius.com
 ihubtrader.com
 ihyujtx.com
@@ -10593,6 +10612,7 @@ marcjacobsm.top
 marenvault-institute.com
 marewin.com
 marexprimeltd.com
+margaturtynas.com
 margex.cc
 margex.com
 marginalcashflow.com
@@ -10663,6 +10683,7 @@ marketvisionpro.live
 marketwaves.net
 marketxploretrade.com
 markexia.com
+markowenconcept.com
 marktapp24.digital
 maroventhylas.com
 marsatworksub.com
@@ -11055,6 +11076,7 @@ miningsteps.com
 miningtoken.org
 miningway.net
 minnecontr.pro
+minnercoinex.org
 minosbrokers.com
 minstockexchange.com
 mint-firms.com
@@ -11174,6 +11196,7 @@ monesiap.it
 monetamarketsonline.com
 monetrova.com
 monetrum.com
+monevesta.com
 monex-markets.com
 monexafinans.com
 monexai.tech
@@ -11489,6 +11512,7 @@ neexoraa.com
 neidax.com
 neirobot.com
 nelarion.com
+nelevex.com
 nelobit.com
 nelocas.com
 nelomiris.com
@@ -11608,6 +11632,7 @@ newnaughtyneighbors.com
 newodex.com
 newosti.trade
 newpusdt.top
+newrevolutioninvestment.com
 newrgyintlmeimex.com
 newrockwood.ai
 newrockwood.vip
@@ -12093,6 +12118,7 @@ oceanfx.io
 oceanictrustholdings.com
 oceanline.ai
 oceantradesignal.org
+oceanwealthpro.com
 oceka-exchange.com
 ochamchyra.com
 ocimum-assetfirm.online
@@ -12772,6 +12798,7 @@ piaocool.com
 piastkapitura.com
 pibcorporate.com
 pibrown.com
+piccoquotaldenza.net
 picktancapital.com
 pictetcrypto.org
 pictetgroup.crypto
@@ -12936,6 +12963,7 @@ po2.capital
 poavax.com
 pocket-broker.com
 pocketoption.com
+pocketplanai.com
 pocketsmarket.com
 pockettradingexp.live
 pocketturn.top
@@ -13256,6 +13284,7 @@ prmledgax.online
 prmshareslimited.com
 pro-divv.com
 pro-gcm.org
+pro-gmarkets.com
 pro-invt.com
 pro-trx.com
 pro-tw.com
@@ -13986,6 +14015,7 @@ rexolex.com
 rextenfinance.com
 rexubet.com
 rexwox.com
+reyawin.com
 reynance.net
 rezerva-invest-app.com
 rezor-live.io
@@ -14137,6 +14167,7 @@ rockpointpartners.live
 rockpointpartners.vip
 rocks-app.com
 rocktradeinvest.net
+rockwellintpartners.com
 roctec-europe.com
 rodaxo.ai
 roiwin.io
@@ -15336,6 +15367,8 @@ starffx.com
 stargatefx.com
 staripo-web.com
 stark-vardeborg.com
+stark.investments
+stark.market
 starkchainfx.com
 starkivo.com
 starkmarkets.com
@@ -16307,6 +16340,7 @@ toponemarkets.com
 topoptiontraders.com
 toppipsinvestment.com
 topraceglobal.com
+topscas.com
 topstepprime.live
 topta1.com
 toptier-finance.com
@@ -18170,6 +18204,7 @@ wci7.com
 wcsec.com
 wdd33.net
 we-bulls.art
+we-finance-group.com
 we2umalaysia.com
 wealint.com
 wealth-building.org
