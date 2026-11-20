@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "name": "Snyfer Blocklist",
   "source": "https://snyfer.com/blocklist/domains.json",
-  "sourceVersion": 1795057994,
-  "sourceUpdatedAt": "2026-11-19T03:13:14.266Z",
-  "count": 19313,
+  "sourceVersion": 1795144394,
+  "sourceUpdatedAt": "2026-11-20T03:13:14.133Z",
+  "count": 19358,
   "license": "CC-BY-4.0",
   "attribution": "Snyfer — https://snyfer.com — CC BY 4.0",
   "sha256": {
-    "domains.txt": "688014e0427692f6690bdb795ee6dcfb2c85be35f61e5b7ffde6dfe7e3764685",
-    "domains.json": "cb34c77dc50dbe04a916535325de805d82d48d8b951ea8ff37416cb7f509a9dc",
-    "hosts.txt": "9e03df13237297e3489102b1c2ee0b9c6fc28e82c5e81c5cbb3ee2ec7d6d0e97",
-    "adblock.txt": "574d87032621e96367d6f754ab0f2870fa2d32805c5b984cc0891e84baa0f82f",
-    "signed.json": "db3973e25ea907cde8837ac184217bf05f7a66f4c2b19b144de9e198aa7e3206"
+    "domains.txt": "31c3a06f00d00d6c5c957ffa286643f3cf9be530b42eccb78686437ce5609b2a",
+    "domains.json": "a103768aa956a8684aff6f6042a1d4a9655ad3996e66452cddb7dd3bd67dbc7b",
+    "hosts.txt": "e94e29dbfc0bad6fbac12dc0728ebae863651b98df3fa4396e07296c28f90187",
+    "adblock.txt": "28959003144c1b17bc13622b4407fdf7cc4642553db7081fb39c69631db8b3e5",
+    "signed.json": "94813577c7aebfde4e2e994f16abb7a91d175a3a0e57cd9f9c15401f2cb62b11"
   }
 }
