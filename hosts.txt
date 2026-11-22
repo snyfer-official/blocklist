@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-11-21T03:13:14.511Z
-# Domains: 19400
+# Source updated: 2026-11-22T03:13:14.669Z
+# Domains: 19424
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -736,6 +736,7 @@
 0.0.0.0 alphacopytrades.com
 0.0.0.0 alphacores.org
 0.0.0.0 alphacrescentventures.net
+0.0.0.0 alphacrest.cc
 0.0.0.0 alphacrestbridge.com
 0.0.0.0 alphadextrades.com
 0.0.0.0 alphadogeusdt.vip
@@ -1372,6 +1373,7 @@
 0.0.0.0 assetspulse.app
 0.0.0.0 assetstb.org
 0.0.0.0 assetstocktrades.com
+0.0.0.0 assetsvisionarys.com
 0.0.0.0 assettradeinvest.com
 0.0.0.0 assettradesfinance.com
 0.0.0.0 assetvaultlimitted.org
@@ -1621,6 +1623,7 @@
 0.0.0.0 auxiliarypluz.com
 0.0.0.0 auxillarytradesiq.com
 0.0.0.0 auxrex.com
+0.0.0.0 ava-inv.com
 0.0.0.0 ava-investlimited.com
 0.0.0.0 avael.ltd
 0.0.0.0 avaglobalfx.cc
@@ -1742,6 +1745,7 @@
 0.0.0.0 axvortex.com
 0.0.0.0 axysglobal.cc
 0.0.0.0 ayalainvest.top
+0.0.0.0 ayawin.com
 0.0.0.0 aydopro.io
 0.0.0.0 aykpufb.com
 0.0.0.0 azaliumbit.com
@@ -2652,6 +2656,7 @@
 0.0.0.0 bitxav.com
 0.0.0.0 bitxchanges.net
 0.0.0.0 bitxchangetrader.live
+0.0.0.0 bitxgame.online
 0.0.0.0 bitxlucky.app
 0.0.0.0 bitxnet.com
 0.0.0.0 bitxom.com
@@ -2970,6 +2975,7 @@
 0.0.0.0 boxflareshipping.com
 0.0.0.0 boxtokenpro.com
 0.0.0.0 boyuwin.com
+0.0.0.0 boywins.com
 0.0.0.0 bozawin.com
 0.0.0.0 bozewin.com
 0.0.0.0 bp-energysolution.com
@@ -3556,6 +3562,7 @@
 0.0.0.0 carrowmorefs.com
 0.0.0.0 cars-work.com
 0.0.0.0 carvhuecare.cc
+0.0.0.0 cas.lc
 0.0.0.0 cas3x.com
 0.0.0.0 casbeto.com
 0.0.0.0 casbyt.com
@@ -6480,6 +6487,7 @@
 0.0.0.0 faciemluxe.com
 0.0.0.0 fadewex.com
 0.0.0.0 fadex.cc
+0.0.0.0 fadimex.com
 0.0.0.0 faena-fondorio.org
 0.0.0.0 faexbet.com
 0.0.0.0 fagowin.com
@@ -6515,6 +6523,7 @@
 0.0.0.0 fandbfinances.com
 0.0.0.0 fandc.ai
 0.0.0.0 fandc.io
+0.0.0.0 fantomfinanceltd.com
 0.0.0.0 faokox.com
 0.0.0.0 faorax.com
 0.0.0.0 faowox.com
@@ -6544,6 +6553,7 @@
 0.0.0.0 fastwin1.com
 0.0.0.0 fatbtc.xyz
 0.0.0.0 fatecas.com
+0.0.0.0 fathompledgerance.com
 0.0.0.0 fatima-invest.ru
 0.0.0.0 fatowin.com
 0.0.0.0 faufax.com
@@ -6671,6 +6681,7 @@
 0.0.0.0 filinvestmentmanagement.com
 0.0.0.0 fillassetglobal.com
 0.0.0.0 fillassets.com
+0.0.0.0 fimapex.com
 0.0.0.0 fimatron.com
 0.0.0.0 fin-it.ru
 0.0.0.0 fin-older.pro
@@ -7646,6 +7657,7 @@
 0.0.0.0 genesisfxmarkets.com
 0.0.0.0 genesislimited.org
 0.0.0.0 genesisnestx.com
+0.0.0.0 genesisproltd.com
 0.0.0.0 gengroup-ca.com
 0.0.0.0 genifynext.com
 0.0.0.0 geniusassets.org
@@ -8175,6 +8187,7 @@
 0.0.0.0 grandrisealliance.com
 0.0.0.0 grandsummitbank.com
 0.0.0.0 grandtabtrade.com
+0.0.0.0 grandtheftsino.com
 0.0.0.0 grandvaultbank.com
 0.0.0.0 grandvaultfirm.com
 0.0.0.0 grandvaultsdeal.com
@@ -8615,6 +8628,7 @@
 0.0.0.0 hashterminal.uk
 0.0.0.0 hashvests.com
 0.0.0.0 hashxcapital.com
+0.0.0.0 hashyra.pro
 0.0.0.0 hasobet.com
 0.0.0.0 hasobin.com
 0.0.0.0 haspace.top
@@ -10103,6 +10117,7 @@
 0.0.0.0 laurent-billionaire.com
 0.0.0.0 lavandbit.com
 0.0.0.0 lavantaride.com
+0.0.0.0 lavenderfxpro.com
 0.0.0.0 layercas.com
 0.0.0.0 laz25.com
 0.0.0.0 lazytradeclub.com
@@ -10439,6 +10454,7 @@
 0.0.0.0 luckyinvests.cc
 0.0.0.0 luckylandinvestment.net
 0.0.0.0 luckyprofit-world.xyz
+0.0.0.0 luckyrollz.com
 0.0.0.0 luckystockx.com
 0.0.0.0 lucrative-investment.com
 0.0.0.0 lucrativeglobaltrade.com
@@ -12648,6 +12664,7 @@
 0.0.0.0 oysteryx-ophonlie.com
 0.0.0.0 oyv.cc
 0.0.0.0 ozak.ai
+0.0.0.0 ozoneprofit.online
 0.0.0.0 p-int.com
 0.0.0.0 p-investment-management.com
 0.0.0.0 p2-connect.com
@@ -12864,6 +12881,7 @@
 0.0.0.0 perstypips.live
 0.0.0.0 peruim-net.org
 0.0.0.0 pesoschain.top
+0.0.0.0 pestomarket.com
 0.0.0.0 petrovectorltd.com
 0.0.0.0 peupux.com
 0.0.0.0 peuromax.com
@@ -14689,6 +14707,7 @@
 0.0.0.0 seranto.net
 0.0.0.0 serca-group.pro
 0.0.0.0 serenety.pro
+0.0.0.0 serenoplazadura.co
 0.0.0.0 serobit.com
 0.0.0.0 serowin.com
 0.0.0.0 sertexity.cfd
@@ -15985,6 +16004,7 @@
 0.0.0.0 tairdan.com
 0.0.0.0 talentre.io
 0.0.0.0 talixogroup.com
+0.0.0.0 tallifority.com
 0.0.0.0 tallygridmarkets.com
 0.0.0.0 talsfinancehub.com
 0.0.0.0 talviromenqariai.live
@@ -16882,6 +16902,7 @@
 0.0.0.0 trcnswap.com
 0.0.0.0 trdedigitalx.com
 0.0.0.0 trdfx.com
+0.0.0.0 trdxacapital.top
 0.0.0.0 trdxinsight.click
 0.0.0.0 treasuregrowthplus.com
 0.0.0.0 treasureholdings.org
@@ -16920,6 +16941,7 @@
 0.0.0.0 triassetex.com
 0.0.0.0 trident-capitals.com
 0.0.0.0 tridentassets.org
+0.0.0.0 trientfundplc.com
 0.0.0.0 trigon-digital.com
 0.0.0.0 trilessyum.net
 0.0.0.0 trilliumfinancialbroker.com
@@ -17767,6 +17789,7 @@
 0.0.0.0 vantapeak.info
 0.0.0.0 vantariscapitalgroup.com
 0.0.0.0 vantex.ch
+0.0.0.0 vantrelcap.live
 0.0.0.0 vantrextrades.com
 0.0.0.0 vanweertllp.com
 0.0.0.0 vaokox.com
@@ -19170,6 +19193,7 @@
 0.0.0.0 zeeusweb.com
 0.0.0.0 zekdex.com
 0.0.0.0 zekerlenen.com
+0.0.0.0 zekwin.com
 0.0.0.0 zelonux.com
 0.0.0.0 zeltixai.ch
 0.0.0.0 zeltixainorway.com

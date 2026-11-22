@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-11-21T03:13:14.511Z
-! Domains: 19400
+! Source updated: 2026-11-22T03:13:14.669Z
+! Domains: 19424
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -738,6 +738,7 @@
 ||alphacopytrades.com^
 ||alphacores.org^
 ||alphacrescentventures.net^
+||alphacrest.cc^
 ||alphacrestbridge.com^
 ||alphadextrades.com^
 ||alphadogeusdt.vip^
@@ -1374,6 +1375,7 @@
 ||assetspulse.app^
 ||assetstb.org^
 ||assetstocktrades.com^
+||assetsvisionarys.com^
 ||assettradeinvest.com^
 ||assettradesfinance.com^
 ||assetvaultlimitted.org^
@@ -1623,6 +1625,7 @@
 ||auxiliarypluz.com^
 ||auxillarytradesiq.com^
 ||auxrex.com^
+||ava-inv.com^
 ||ava-investlimited.com^
 ||avael.ltd^
 ||avaglobalfx.cc^
@@ -1744,6 +1747,7 @@
 ||axvortex.com^
 ||axysglobal.cc^
 ||ayalainvest.top^
+||ayawin.com^
 ||aydopro.io^
 ||aykpufb.com^
 ||azaliumbit.com^
@@ -2654,6 +2658,7 @@
 ||bitxav.com^
 ||bitxchanges.net^
 ||bitxchangetrader.live^
+||bitxgame.online^
 ||bitxlucky.app^
 ||bitxnet.com^
 ||bitxom.com^
@@ -2972,6 +2977,7 @@
 ||boxflareshipping.com^
 ||boxtokenpro.com^
 ||boyuwin.com^
+||boywins.com^
 ||bozawin.com^
 ||bozewin.com^
 ||bp-energysolution.com^
@@ -3558,6 +3564,7 @@
 ||carrowmorefs.com^
 ||cars-work.com^
 ||carvhuecare.cc^
+||cas.lc^
 ||cas3x.com^
 ||casbeto.com^
 ||casbyt.com^
@@ -6482,6 +6489,7 @@
 ||faciemluxe.com^
 ||fadewex.com^
 ||fadex.cc^
+||fadimex.com^
 ||faena-fondorio.org^
 ||faexbet.com^
 ||fagowin.com^
@@ -6517,6 +6525,7 @@
 ||fandbfinances.com^
 ||fandc.ai^
 ||fandc.io^
+||fantomfinanceltd.com^
 ||faokox.com^
 ||faorax.com^
 ||faowox.com^
@@ -6546,6 +6555,7 @@
 ||fastwin1.com^
 ||fatbtc.xyz^
 ||fatecas.com^
+||fathompledgerance.com^
 ||fatima-invest.ru^
 ||fatowin.com^
 ||faufax.com^
@@ -6673,6 +6683,7 @@
 ||filinvestmentmanagement.com^
 ||fillassetglobal.com^
 ||fillassets.com^
+||fimapex.com^
 ||fimatron.com^
 ||fin-it.ru^
 ||fin-older.pro^
@@ -7648,6 +7659,7 @@
 ||genesisfxmarkets.com^
 ||genesislimited.org^
 ||genesisnestx.com^
+||genesisproltd.com^
 ||gengroup-ca.com^
 ||genifynext.com^
 ||geniusassets.org^
@@ -8177,6 +8189,7 @@
 ||grandrisealliance.com^
 ||grandsummitbank.com^
 ||grandtabtrade.com^
+||grandtheftsino.com^
 ||grandvaultbank.com^
 ||grandvaultfirm.com^
 ||grandvaultsdeal.com^
@@ -8617,6 +8630,7 @@
 ||hashterminal.uk^
 ||hashvests.com^
 ||hashxcapital.com^
+||hashyra.pro^
 ||hasobet.com^
 ||hasobin.com^
 ||haspace.top^
@@ -10105,6 +10119,7 @@
 ||laurent-billionaire.com^
 ||lavandbit.com^
 ||lavantaride.com^
+||lavenderfxpro.com^
 ||layercas.com^
 ||laz25.com^
 ||lazytradeclub.com^
@@ -10441,6 +10456,7 @@
 ||luckyinvests.cc^
 ||luckylandinvestment.net^
 ||luckyprofit-world.xyz^
+||luckyrollz.com^
 ||luckystockx.com^
 ||lucrative-investment.com^
 ||lucrativeglobaltrade.com^
@@ -12650,6 +12666,7 @@
 ||oysteryx-ophonlie.com^
 ||oyv.cc^
 ||ozak.ai^
+||ozoneprofit.online^
 ||p-int.com^
 ||p-investment-management.com^
 ||p2-connect.com^
@@ -12866,6 +12883,7 @@
 ||perstypips.live^
 ||peruim-net.org^
 ||pesoschain.top^
+||pestomarket.com^
 ||petrovectorltd.com^
 ||peupux.com^
 ||peuromax.com^
@@ -14691,6 +14709,7 @@
 ||seranto.net^
 ||serca-group.pro^
 ||serenety.pro^
+||serenoplazadura.co^
 ||serobit.com^
 ||serowin.com^
 ||sertexity.cfd^
@@ -15987,6 +16006,7 @@
 ||tairdan.com^
 ||talentre.io^
 ||talixogroup.com^
+||tallifority.com^
 ||tallygridmarkets.com^
 ||talsfinancehub.com^
 ||talviromenqariai.live^
@@ -16884,6 +16904,7 @@
 ||trcnswap.com^
 ||trdedigitalx.com^
 ||trdfx.com^
+||trdxacapital.top^
 ||trdxinsight.click^
 ||treasuregrowthplus.com^
 ||treasureholdings.org^
@@ -16922,6 +16943,7 @@
 ||triassetex.com^
 ||trident-capitals.com^
 ||tridentassets.org^
+||trientfundplc.com^
 ||trigon-digital.com^
 ||trilessyum.net^
 ||trilliumfinancialbroker.com^
@@ -17769,6 +17791,7 @@
 ||vantapeak.info^
 ||vantariscapitalgroup.com^
 ||vantex.ch^
+||vantrelcap.live^
 ||vantrextrades.com^
 ||vanweertllp.com^
 ||vaokox.com^
@@ -19172,6 +19195,7 @@
 ||zeeusweb.com^
 ||zekdex.com^
 ||zekerlenen.com^
+||zekwin.com^
 ||zelonux.com^
 ||zeltixai.ch^
 ||zeltixainorway.com^
