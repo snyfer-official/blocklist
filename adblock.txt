@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-11-22T03:13:14.669Z
-! Domains: 19424
+! Source updated: 2026-11-23T03:13:15.041Z
+! Domains: 19428
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -1855,6 +1855,7 @@
 ||bbbqq.xyz^
 ||bbh-fixedincome.com^
 ||bc-aff.top^
+||bc-game.cam^
 ||bc-game.gold^
 ||bc-gf.info^
 ||bc-group.cc^
@@ -9691,6 +9692,7 @@
 ||jtt-coin.com^
 ||jtxpromax.com^
 ||juicyfields.io^
+||jukopot.com^
 ||jultrevoxin.co.uk^
 ||julystake.com^
 ||junofex.com^
@@ -11973,6 +11975,7 @@
 ||nogentais.finance^
 ||nogwin.com^
 ||noktox.com^
+||nolewin.com^
 ||nolimitmarkets.com^
 ||nolitex.com^
 ||nommai.com^
@@ -19321,6 +19324,7 @@
 ||zignals.net^
 ||zillafunds.com^
 ||zimdex.com^
+||zimodex.com^
 ||zinderix.com^
 ||zinensisinvestment.com^
 ||zinexo.io^

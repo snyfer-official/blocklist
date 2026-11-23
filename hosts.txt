@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-11-22T03:13:14.669Z
-# Domains: 19424
+# Source updated: 2026-11-23T03:13:15.041Z
+# Domains: 19428
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -1853,6 +1853,7 @@
 0.0.0.0 bbbqq.xyz
 0.0.0.0 bbh-fixedincome.com
 0.0.0.0 bc-aff.top
+0.0.0.0 bc-game.cam
 0.0.0.0 bc-game.gold
 0.0.0.0 bc-gf.info
 0.0.0.0 bc-group.cc
@@ -9689,6 +9690,7 @@
 0.0.0.0 jtt-coin.com
 0.0.0.0 jtxpromax.com
 0.0.0.0 juicyfields.io
+0.0.0.0 jukopot.com
 0.0.0.0 jultrevoxin.co.uk
 0.0.0.0 julystake.com
 0.0.0.0 junofex.com
@@ -11971,6 +11973,7 @@
 0.0.0.0 nogentais.finance
 0.0.0.0 nogwin.com
 0.0.0.0 noktox.com
+0.0.0.0 nolewin.com
 0.0.0.0 nolimitmarkets.com
 0.0.0.0 nolitex.com
 0.0.0.0 nommai.com
@@ -19319,6 +19322,7 @@
 0.0.0.0 zignals.net
 0.0.0.0 zillafunds.com
 0.0.0.0 zimdex.com
+0.0.0.0 zimodex.com
 0.0.0.0 zinderix.com
 0.0.0.0 zinensisinvestment.com
 0.0.0.0 zinexo.io
