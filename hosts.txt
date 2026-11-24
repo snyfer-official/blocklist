@@ -1,8 +1,8 @@
 # Snyfer Blocklist
 # Copyright 2026 Snyfer — https://snyfer.com
 # License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-# Source updated: 2026-11-23T03:13:15.041Z
-# Domains: 19428
+# Source updated: 2026-11-24T03:13:14.280Z
+# Domains: 19444
 # https://github.com/snyfer-official/blocklist
 0.0.0.0 0-trace.cc
 0.0.0.0 0260solutionsllc.com
@@ -1517,6 +1517,7 @@
 0.0.0.0 auramarkxch.live
 0.0.0.0 aurametric.live
 0.0.0.0 aurealone.com
+0.0.0.0 aureatelift.com
 0.0.0.0 aureclimited.org
 0.0.0.0 aurelion.us
 0.0.0.0 aurelius-hub.com
@@ -1829,6 +1830,7 @@
 0.0.0.0 basetrade-index.com
 0.0.0.0 basetradeglobalinvestment.net
 0.0.0.0 bashcrypto.com
+0.0.0.0 basiccoinminers.com
 0.0.0.0 basiqreserve.com
 0.0.0.0 baskfund.com
 0.0.0.0 bastwin.com
@@ -2842,6 +2844,7 @@
 0.0.0.0 blueforge.cfd
 0.0.0.0 blueforge.ltd
 0.0.0.0 bluehorizoninsights.com
+0.0.0.0 blueindexoptions.net
 0.0.0.0 blueoceansecurities.net
 0.0.0.0 blueoceansociety.club
 0.0.0.0 blueparkgrowth.com
@@ -4186,6 +4189,7 @@
 0.0.0.0 coinppu.com
 0.0.0.0 coinracefx.net
 0.0.0.0 coinreb.com
+0.0.0.0 coinregis.com
 0.0.0.0 coinresolv.com
 0.0.0.0 coinrisetrading.com
 0.0.0.0 coinroot.io
@@ -4701,6 +4705,7 @@
 0.0.0.0 cryptohyperlink.vip
 0.0.0.0 cryptoice.net
 0.0.0.0 cryptoier.com
+0.0.0.0 cryptoier.eu
 0.0.0.0 cryptoim.store
 0.0.0.0 cryptoin24.io
 0.0.0.0 cryptoinvestcore.com
@@ -6223,6 +6228,7 @@
 0.0.0.0 eu-loan.com
 0.0.0.0 eu-markets.co
 0.0.0.0 eucex.icu
+0.0.0.0 euclarion.io
 0.0.0.0 eunhyukcapital.com
 0.0.0.0 eunoiamarket.com
 0.0.0.0 euoctafx.com
@@ -6963,6 +6969,7 @@
 0.0.0.0 firvora.com
 0.0.0.0 fisbrokers.com
 0.0.0.0 fiscalsmartexchange.net
+0.0.0.0 fiscateltd.com
 0.0.0.0 fiscor.org
 0.0.0.0 fitradelink.top
 0.0.0.0 fivcoin.com
@@ -7402,6 +7409,7 @@
 0.0.0.0 futures-equity.com
 0.0.0.0 futuretradeyield.com
 0.0.0.0 futuretradingtech.com
+0.0.0.0 futurewealthcapitalinvestment.com
 0.0.0.0 futurewealthinvestment.online
 0.0.0.0 futurewealthstech.com
 0.0.0.0 futurewealthtrades.live
@@ -9942,6 +9950,7 @@
 0.0.0.0 kokomoswap.com
 0.0.0.0 kolentras.live
 0.0.0.0 kolipfet.com
+0.0.0.0 kollipstrades.com
 0.0.0.0 kolnplay.com
 0.0.0.0 kolvidex.com
 0.0.0.0 konohafx.io
@@ -10435,6 +10444,7 @@
 0.0.0.0 ltdurus.com
 0.0.0.0 ltidrt.com
 0.0.0.0 ltraderglobal.com
+0.0.0.0 ltsex.com
 0.0.0.0 ltufpmarts.com
 0.0.0.0 luccaamppc.com
 0.0.0.0 lucenax.com
@@ -10829,6 +10839,7 @@
 0.0.0.0 mattsmasterfuldetailing.com
 0.0.0.0 mavenaccord-finance.ltd
 0.0.0.0 maventrades.vip
+0.0.0.0 mavipex.com
 0.0.0.0 mavisglobaltrading.com
 0.0.0.0 mavoratrade.org
 0.0.0.0 mavro.club
@@ -11799,6 +11810,7 @@
 0.0.0.0 nexcoinxt.es
 0.0.0.0 nexcorelholdingscapital.com
 0.0.0.0 nexcres.com
+0.0.0.0 nexcrest.net
 0.0.0.0 nexdiltd.com
 0.0.0.0 nexfengrowth.com
 0.0.0.0 nexfinmarket.org
@@ -14025,6 +14037,7 @@
 0.0.0.0 recuvahackersolutions.com
 0.0.0.0 red-exchange.com
 0.0.0.0 red-rock-group.com
+0.0.0.0 red-rock.group
 0.0.0.0 redcex.com
 0.0.0.0 redmars.ltd
 0.0.0.0 redmatter.capital
@@ -15224,6 +15237,7 @@
 0.0.0.0 spinstorm.life
 0.0.0.0 spintrex.top
 0.0.0.0 spintrex.world
+0.0.0.0 spinvixo.com
 0.0.0.0 spinw.cc
 0.0.0.0 spinw.in
 0.0.0.0 spinway.club
@@ -18543,6 +18557,7 @@
 0.0.0.0 westernmarkettrade.com
 0.0.0.0 westernstandard.vip
 0.0.0.0 westiquant.com
+0.0.0.0 westlinefund.com
 0.0.0.0 westpaylite.com
 0.0.0.0 westrisecorebit.live
 0.0.0.0 westrogain.pro
@@ -18674,6 +18689,7 @@
 0.0.0.0 wjnos.com
 0.0.0.0 wjqjkh.com
 0.0.0.0 wjwcr.cc
+0.0.0.0 wjygd.com
 0.0.0.0 wkx.cc
 0.0.0.0 wldti.com
 0.0.0.0 wlffinance.com

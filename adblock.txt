@@ -2,8 +2,8 @@
 ! Snyfer Blocklist
 ! Copyright 2026 Snyfer — https://snyfer.com
 ! License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-! Source updated: 2026-11-23T03:13:15.041Z
-! Domains: 19428
+! Source updated: 2026-11-24T03:13:14.280Z
+! Domains: 19444
 ! https://github.com/snyfer-official/blocklist
 ! Expires: 1 day
 ||0-trace.cc^
@@ -1519,6 +1519,7 @@
 ||auramarkxch.live^
 ||aurametric.live^
 ||aurealone.com^
+||aureatelift.com^
 ||aureclimited.org^
 ||aurelion.us^
 ||aurelius-hub.com^
@@ -1831,6 +1832,7 @@
 ||basetrade-index.com^
 ||basetradeglobalinvestment.net^
 ||bashcrypto.com^
+||basiccoinminers.com^
 ||basiqreserve.com^
 ||baskfund.com^
 ||bastwin.com^
@@ -2844,6 +2846,7 @@
 ||blueforge.cfd^
 ||blueforge.ltd^
 ||bluehorizoninsights.com^
+||blueindexoptions.net^
 ||blueoceansecurities.net^
 ||blueoceansociety.club^
 ||blueparkgrowth.com^
@@ -4188,6 +4191,7 @@
 ||coinppu.com^
 ||coinracefx.net^
 ||coinreb.com^
+||coinregis.com^
 ||coinresolv.com^
 ||coinrisetrading.com^
 ||coinroot.io^
@@ -4703,6 +4707,7 @@
 ||cryptohyperlink.vip^
 ||cryptoice.net^
 ||cryptoier.com^
+||cryptoier.eu^
 ||cryptoim.store^
 ||cryptoin24.io^
 ||cryptoinvestcore.com^
@@ -6225,6 +6230,7 @@
 ||eu-loan.com^
 ||eu-markets.co^
 ||eucex.icu^
+||euclarion.io^
 ||eunhyukcapital.com^
 ||eunoiamarket.com^
 ||euoctafx.com^
@@ -6965,6 +6971,7 @@
 ||firvora.com^
 ||fisbrokers.com^
 ||fiscalsmartexchange.net^
+||fiscateltd.com^
 ||fiscor.org^
 ||fitradelink.top^
 ||fivcoin.com^
@@ -7404,6 +7411,7 @@
 ||futures-equity.com^
 ||futuretradeyield.com^
 ||futuretradingtech.com^
+||futurewealthcapitalinvestment.com^
 ||futurewealthinvestment.online^
 ||futurewealthstech.com^
 ||futurewealthtrades.live^
@@ -9944,6 +9952,7 @@
 ||kokomoswap.com^
 ||kolentras.live^
 ||kolipfet.com^
+||kollipstrades.com^
 ||kolnplay.com^
 ||kolvidex.com^
 ||konohafx.io^
@@ -10437,6 +10446,7 @@
 ||ltdurus.com^
 ||ltidrt.com^
 ||ltraderglobal.com^
+||ltsex.com^
 ||ltufpmarts.com^
 ||luccaamppc.com^
 ||lucenax.com^
@@ -10831,6 +10841,7 @@
 ||mattsmasterfuldetailing.com^
 ||mavenaccord-finance.ltd^
 ||maventrades.vip^
+||mavipex.com^
 ||mavisglobaltrading.com^
 ||mavoratrade.org^
 ||mavro.club^
@@ -11801,6 +11812,7 @@
 ||nexcoinxt.es^
 ||nexcorelholdingscapital.com^
 ||nexcres.com^
+||nexcrest.net^
 ||nexdiltd.com^
 ||nexfengrowth.com^
 ||nexfinmarket.org^
@@ -14027,6 +14039,7 @@
 ||recuvahackersolutions.com^
 ||red-exchange.com^
 ||red-rock-group.com^
+||red-rock.group^
 ||redcex.com^
 ||redmars.ltd^
 ||redmatter.capital^
@@ -15226,6 +15239,7 @@
 ||spinstorm.life^
 ||spintrex.top^
 ||spintrex.world^
+||spinvixo.com^
 ||spinw.cc^
 ||spinw.in^
 ||spinway.club^
@@ -18545,6 +18559,7 @@
 ||westernmarkettrade.com^
 ||westernstandard.vip^
 ||westiquant.com^
+||westlinefund.com^
 ||westpaylite.com^
 ||westrisecorebit.live^
 ||westrogain.pro^
@@ -18676,6 +18691,7 @@
 ||wjnos.com^
 ||wjqjkh.com^
 ||wjwcr.cc^
+||wjygd.com^
 ||wkx.cc^
 ||wldti.com^
 ||wlffinance.com^
